@@ -17,7 +17,6 @@ var async = require('async');
 var PATH = path.resolve(__dirname);
 var GENRE_DIR = PATH + '/genre/';
 var MUSIC_PATH = PATH + '/music';
-var STATS_PATH = PATH + '/stats';
 var SONGS = {};
 
 
@@ -85,11 +84,27 @@ var populateGenre = function(genre, doneReading, callback) {
 };
 
 var createMusicFile = function() {
-  console.log('Create file: music');
-};
+  var stream = fs.createWriteStream(MUSIC_PATH);
+  stream.once('open', function() {
+    console.log('Create file: music');
+    for (var genre in SONGS) {
+      if (SONGS.hasOwnProperty(genre)) {
+        stream.write(Array(71).join('-') + '\n');
+        stream.write('+ ' + genre.toUpperCase() + '\n');
+        stream.write(Array(71).join('-') + '\n');
 
-var createStatsFile = function() {
-  console.log('Create file: stats');
+        for (var subgenre in SONGS[genre]) {
+          if (SONGS[genre].hasOwnProperty(subgenre)) {
+            var songs = SONGS[genre][subgenre];
+            songs.forEach(function(song) {
+              stream.write(song.artist + ' - ' + song.title + '\n');
+            });
+          }
+        }
+        stream.write('\n');
+      }
+    }
+  });
 };
 
 
@@ -107,7 +122,6 @@ fs.readdir(GENRE_DIR, function(error, genres) {
     } else {
       console.log('Finished alphabetizing songs');
       createMusicFile();
-      createStatsFile();
     }
   });
 });
