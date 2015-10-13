@@ -33,15 +33,6 @@ function Song(data) {
 /********************************************************************
 * HELPER FUNCTIONS
 *********************************************************************/
-var writeStream = function(filename, data) {
-  var stream = fs.createWriteStream(filename);
-  stream.once('open', function() {
-    data.forEach(function(song) {
-      stream.write(song + '\n');
-    });
-  });
-};
-
 var alphabetize = function(data) {
   // Perform case-insensitive sort.
   data.sort(function(a, b) {
@@ -61,7 +52,12 @@ var alphabetizeSongs = function(genre, subgenre, doneGenre) {
 
     // Alphabetize and save the file.
     var songList = alphabetize(data.split('\n'));
-    writeStream(filename, songList);
+    var stream = fs.createWriteStream(filename);
+    stream.once('open', function() {
+      songList.forEach(function(song) {
+        stream.write(song + '\n');
+      });
+    });
 
     // Store data for further use.
     songList.forEach(function(item) {
