@@ -1,0 +1,27 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "Collection of my favorite songs",
+  "main": "organize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Yau <codenameyau@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codenameyau/music.git"
+  },
+  "keywords": [
+    "music",
+    "list",
+    "automate"
+  ],
+  "bugs": {
+    "url": "https://github.com/codenameyau/music/issues"
+  },
+  "homepage": "https://github.com/codenameyau/music#readme"
+}
