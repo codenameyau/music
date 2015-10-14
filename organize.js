@@ -12,11 +12,14 @@
 var fs = require('fs');
 var path = require('path');
 var async = require('async');
+var format = require('util').format;
 
 // Constants and globals.
 var PATH = path.resolve(__dirname);
 var GENRE_DIR = PATH + '/genre/';
-var MUSIC_PATH = PATH + '/music';
+var MUSIC_PATH = PATH + '/music.txt';
+var README_PATH = PATH + '/README.md';
+var YOUTUBE_SEARCH = 'https://www.youtube.com/results?search_query=';
 var SONGS = {};
 
 
@@ -27,6 +30,21 @@ function Song(data) {
   this.artist = data[0];
   this.title = data[1];
 }
+
+Song.prototype.stripSymbols = function(string) {
+  return string.replace(/[.,-\/#!$%\^\*;:{}=_`~()]/g, '');
+};
+
+Song.prototype.encodeAsURL = function() {
+  return encodeURIComponent(format('%s %s',
+    this.stripSymbols(this.artist),
+    this.stripSymbols(this.title)
+  )).replace(/\%20/g, '+');
+};
+
+Song.prototype.getYoutubeSearch = function() {
+  return YOUTUBE_SEARCH + this.encodeAsURL();
+};
 
 
 /********************************************************************
@@ -46,7 +64,7 @@ var alphabetizeSongs = function(genre, subgenre, doneGenre) {
   var filename = GENRE_DIR + genre + '/' + subgenre;
 
   fs.readFile(filename, 'UTF-8', function(error, data) {
-    // Error trying to read file. Propagate error.
+    // Propagate error while trying to read file.
     if (error) { return doneGenre(error); }
 
     // Alphabetize and save the file.
@@ -54,7 +72,7 @@ var alphabetizeSongs = function(genre, subgenre, doneGenre) {
     var stream = fs.createWriteStream(filename);
     stream.once('open', function() {
       songList.forEach(function(song) {
-        stream.write(song + '\n');
+        stream.write(format('%s\n', song));
       });
     });
 
@@ -70,7 +88,6 @@ var alphabetizeSongs = function(genre, subgenre, doneGenre) {
 var populateGenre = function(genre, doneReading, callback) {
   var genreDir = GENRE_DIR + genre;
   SONGS[genre] = {};
-
   fs.readdir(genreDir, function(error, genreFiles) {
     async.each(genreFiles, function(subgenre, doneGenre) {
       SONGS[genre][subgenre] = [];
@@ -86,18 +103,20 @@ var populateGenre = function(genre, doneReading, callback) {
 var createMusicFile = function() {
   var stream = fs.createWriteStream(MUSIC_PATH);
   stream.once('open', function() {
-    console.log('Create file: music');
+    console.log('Create file: %s', MUSIC_PATH);
     for (var genre in SONGS) {
       if (SONGS.hasOwnProperty(genre)) {
+        // Write the genre headings.
         stream.write(Array(71).join('-') + '\n');
-        stream.write('+ ' + genre.toUpperCase() + '\n');
+        stream.write(format('+ %s\n', genre.toUpperCase()));
         stream.write(Array(71).join('-') + '\n');
 
+        // Write the individual songs.
         for (var subgenre in SONGS[genre]) {
           if (SONGS[genre].hasOwnProperty(subgenre)) {
             var songs = SONGS[genre][subgenre];
             songs.forEach(function(song) {
-              stream.write(song.artist + ' - ' + song.title + '\n');
+              stream.write(format('%s - %s\n', song.artist, song.title));
             });
           }
         }
@@ -107,6 +126,36 @@ var createMusicFile = function() {
   });
 };
 
+var createReadmeFile = function() {
+  var stream = fs.createWriteStream(README_PATH);
+  stream.once('open', function() {
+
+    // Setup the README and write timestamp.
+    var datetime = new Date();
+    console.log('Create file: %s', README_PATH);
+    stream.write('# music\n\n');
+    stream.write(format('Generated on: %s\n', datetime.toLocaleString()));
+
+    // TODO: Write table of contents.
+
+    // Write songs for each genre.
+    for (var genre in SONGS) {
+      if (SONGS.hasOwnProperty(genre)) {
+        stream.write(format('\n### %s\n', genre.toUpperCase()));
+        for (var subgenre in SONGS[genre]) {
+          if (SONGS[genre].hasOwnProperty(subgenre)) {
+            var songs = SONGS[genre][subgenre];
+            songs.forEach(function(song) {
+              stream.write(format('- [%s - %s](%s)\n',
+                  song.artist, song.title, song.getYoutubeSearch()
+                ));
+            });
+          }
+        }
+      }
+    }
+  });
+};
 
 /********************************************************************
 * MAIN PROGRAM
@@ -122,6 +171,7 @@ fs.readdir(GENRE_DIR, function(error, genres) {
     } else {
       console.log('Finished alphabetizing songs');
       createMusicFile();
+      createReadmeFile();
     }
   });
 });
