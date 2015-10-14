@@ -3,8 +3,8 @@
  *
  * Description:
  * This scripts alphabetically sorts the songs in 'genre/'
- * and generates the files: 'music' and 'stats'. All operations
- * occur asynchronously either through callbacks or observers.
+ * and generates the files: 'music.txt' and 'README.md'.
+ * All operations occur asynchronously with callbacks and observers.
  */
 'use strict';
 
@@ -20,36 +20,51 @@ var GENRE_DIR = PATH + '/genre/';
 var MUSIC_PATH = PATH + '/music.txt';
 var README_PATH = PATH + '/README.md';
 var YOUTUBE_SEARCH = 'https://www.youtube.com/results?search_query=';
+var GITHUB_PAGE = 'https://github.com/codenameyau/music';
 var SONGS = {};
 
 
 /********************************************************************
-* FUNCTION Constructors
+* UTILS FUNCTIONS
+*********************************************************************/
+var stripSymbols = function(string) {
+  return string.replace(/[.,-\/#!$%\^\*;:{}=_`~()]/g, '');
+};
+
+var slugify = function(string) {
+  return string.toLowerCase()
+          .replace(/[^\w ]+/g, '')
+          .replace(/\s+/g, '-');
+};
+
+
+/********************************************************************
+* FUNCTION CONSTRUCTORS
 *********************************************************************/
 function Song(data) {
   this.artist = data[0];
   this.title = data[1];
 }
 
-Song.prototype.stripSymbols = function(string) {
-  return string.replace(/[.,-\/#!$%\^\*;:{}=_`~()]/g, '');
-};
-
-Song.prototype.encodeAsURL = function() {
+Song.prototype.encodeForURL = function() {
   return encodeURIComponent(format('%s %s',
-    this.stripSymbols(this.artist),
-    this.stripSymbols(this.title)
+    stripSymbols(this.artist),
+    stripSymbols(this.title)
   )).replace(/\%20/g, '+');
 };
 
 Song.prototype.getYoutubeSearch = function() {
-  return YOUTUBE_SEARCH + this.encodeAsURL();
+  return YOUTUBE_SEARCH + this.encodeForURL();
 };
 
 
 /********************************************************************
 * HELPER FUNCTIONS
 *********************************************************************/
+var getGithubReadmeLink = function(fragment) {
+  return format('%s#%s', GITHUB_PAGE, slugify(fragment));
+};
+
 var alphabetize = function(data) {
   // Perform case-insensitive sort.
   data.sort(function(a, b) {
@@ -134,9 +149,20 @@ var createReadmeFile = function() {
     var datetime = new Date();
     console.log('Create file: %s', README_PATH);
     stream.write('# music\n\n');
-    stream.write(format('Generated on: %s\n', datetime.toLocaleString()));
+    stream.write(format('Generated on: %s\n\n', datetime.toLocaleString()));
 
     // TODO: Write table of contents.
+    for (var genreName in SONGS) {
+      if (SONGS.hasOwnProperty(genreName)) {
+        stream.write(format('- [%s](%s)\n',
+          genreName.toUpperCase(),
+          getGithubReadmeLink(genreName)
+        ));
+      }
+    }
+
+    // Write horizontal rule.
+    stream.write('\n--\n');
 
     // Write songs for each genre.
     for (var genre in SONGS) {
@@ -147,8 +173,8 @@ var createReadmeFile = function() {
             var songs = SONGS[genre][subgenre];
             songs.forEach(function(song) {
               stream.write(format('- [%s - %s](%s)\n',
-                  song.artist, song.title, song.getYoutubeSearch()
-                ));
+                song.artist, song.title, song.getYoutubeSearch()
+              ));
             });
           }
         }

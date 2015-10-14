@@ -1,6 +1,17 @@
 # music
 
-Generated on: 10/14/2015, 2:10:27 AM
+Generated on: 10/14/2015, 2:40:03 AM
+
+- [CHRISTIAN](https://github.com/codenameyau/music#christian)
+- [EDM](https://github.com/codenameyau/music#edm)
+- [INDIE](https://github.com/codenameyau/music#indie)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental)
+- [POP](https://github.com/codenameyau/music#pop)
+- [RNB](https://github.com/codenameyau/music#rnb)
+- [ROCK](https://github.com/codenameyau/music#rock)
+- [VOCALOID](https://github.com/codenameyau/music#vocaloid)
+
+--
 
 ### CHRISTIAN
 - [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
