@@ -25,7 +25,7 @@ var SONGS = {};
 
 
 /********************************************************************
-* UTILS FUNCTIONS
+* UTILS
 *********************************************************************/
 var stripSymbols = function(string) {
   return string.replace(/[.,-\/#!$%\^\*;:{}=_`~()]/g, '');
@@ -35,6 +35,10 @@ var slugify = function(string) {
   return string.toLowerCase()
           .replace(/[^\w ]+/g, '')
           .replace(/\s+/g, '-');
+};
+
+var compareAlphabetically = function(a, b) {
+  return a.toLowerCase().localeCompare(b.toLowerCase());
 };
 
 
@@ -67,9 +71,7 @@ var getGithubReadmeLink = function(fragment) {
 
 var alphabetize = function(data) {
   // Perform case-insensitive sort.
-  data.sort(function(a, b) {
-    return a.toLowerCase().localeCompare(b.toLowerCase());
-  });
+  data.sort(compareAlphabetically);
 
   // Filter extra newlines.
   return data.filter(Boolean);
@@ -151,7 +153,7 @@ var createReadmeFile = function() {
     stream.write('# music\n\n');
     stream.write(format('Generated on: %s\n\n', datetime.toLocaleString()));
 
-    // TODO: Write table of contents.
+    // Write table of contents.
     for (var genreName in SONGS) {
       if (SONGS.hasOwnProperty(genreName)) {
         stream.write(format('- [%s](%s)\n',
@@ -167,10 +169,11 @@ var createReadmeFile = function() {
     // Write songs for each genre.
     for (var genre in SONGS) {
       if (SONGS.hasOwnProperty(genre)) {
-        stream.write(format('\n### %s\n', genre.toUpperCase()));
+        stream.write(format('\n\n## %s\n', genre.toUpperCase()));
         for (var subgenre in SONGS[genre]) {
           if (SONGS[genre].hasOwnProperty(subgenre)) {
             var songs = SONGS[genre][subgenre];
+            stream.write(format('\n##### %s\n', subgenre.toUpperCase()));
             songs.forEach(function(song) {
               stream.write(format('- [%s - %s](%s)\n',
                 song.artist, song.title, song.getYoutubeSearch()
@@ -182,6 +185,7 @@ var createReadmeFile = function() {
     }
   });
 };
+
 
 /********************************************************************
 * MAIN PROGRAM

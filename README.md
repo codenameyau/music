@@ -1,6 +1,6 @@
 # music
 
-Generated on: 10/14/2015, 2:40:03 AM
+Generated on: 10/14/2015, 8:51:42 AM
 
 - [CHRISTIAN](https://github.com/codenameyau/music#christian)
 - [EDM](https://github.com/codenameyau/music#edm)
@@ -13,13 +13,23 @@ Generated on: 10/14/2015, 2:40:03 AM
 
 --
 
-### CHRISTIAN
+
+## CHRISTIAN
+
+##### COUNTRY
 - [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
+
+##### ROCK
 - [Revive - Blink](https://www.youtube.com/results?search_query=Revive+Blink)
 - [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
+
+##### SOUL
 - [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
 
-### EDM
+
+## EDM
+
+##### EURODANCE
 - [Alina - When You Leave (Numa Numa)](https://www.youtube.com/results?search_query=Alina+When+You+Leave+Numa+Numa)
 - [ATC - Around the World](https://www.youtube.com/results?search_query=ATC+Around+the+World)
 - [ATC - I'm In Heaven (When You Kiss Me)](https://www.youtube.com/results?search_query=ATC+I'm+In+Heaven+When+You+Kiss+Me)
@@ -30,6 +40,8 @@ Generated on: 10/14/2015, 2:40:03 AM
 - [Martin Solveig & Dragonette - Hello](https://www.youtube.com/results?search_query=Martin+Solveig+%26+Dragonette+Hello)
 - [Michael Ming Project ft. Dante Thomas - Feeling So Blue](https://www.youtube.com/results?search_query=Michael+Ming+Project+ft+Dante+Thomas+Feeling+So+Blue)
 - [Millenium - Day After Day](https://www.youtube.com/results?search_query=Millenium+Day+After+Day)
+
+##### PROGRESSIVE-HOUSE
 - [Audien ft. Ruby Prophet - Circles](https://www.youtube.com/results?search_query=Audien+ft+Ruby+Prophet+Circles)
 - [Avicii - The Nights](https://www.youtube.com/results?search_query=Avicii+The+Nights)
 - [Calvin Harris & Example - We'll Be Coming Back](https://www.youtube.com/results?search_query=Calvin+Harris+%26+Example+We'll+Be+Coming+Back)
@@ -43,34 +55,56 @@ Generated on: 10/14/2015, 2:40:03 AM
 - [Mako - Our Story](https://www.youtube.com/results?search_query=Mako+Our+Story)
 - [Matisyahu - Live Like A Warrior (Richello Remix)](https://www.youtube.com/results?search_query=Matisyahu+Live+Like+A+Warrior+Richello+Remix)
 - [Zedd ft. Foxes - Clarity](https://www.youtube.com/results?search_query=Zedd+ft+Foxes+Clarity)
+
+##### REMIX
 - [Anna Graceman - Words (Glastrophobie Remix)](https://www.youtube.com/results?search_query=Anna+Graceman+Words+Glastrophobie+Remix)
 - [Anna Graceman - Words (Lulleaux Remix)](https://www.youtube.com/results?search_query=Anna+Graceman+Words+Lulleaux+Remix)
 - [John Legend - All of Me (Tiesto Remix)](https://www.youtube.com/results?search_query=John+Legend+All+of+Me+Tiesto+Remix)
 
-### INDIE
+
+## INDIE
+
+##### POP
 - [Phoebe Ryan - Mine](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine)
 - [Stars - Dead Hearts](https://www.youtube.com/results?search_query=Stars+Dead+Hearts)
 - [The Kissaway Trail - New Lipstick](https://www.youtube.com/results?search_query=The+Kissaway+Trail+New+Lipstick)
 - [The Naked and Famous - Young Blood](https://www.youtube.com/results?search_query=The+Naked+and+Famous+Young+Blood)
 
-### INSTRUMENTAL
+
+## INSTRUMENTAL
+
+##### HOUSE
+- [Alex Schulz - Summer Night](https://www.youtube.com/results?search_query=Alex+Schulz+Summer+Night)
+
+##### POST-ROCK
 - [Lights & Motion - Reanimation](https://www.youtube.com/results?search_query=Lights+%26+Motion+Reanimation)
 - [Your Hand in Mine - Explosions in the Sky](https://www.youtube.com/results?search_query=Your+Hand+in+Mine+Explosions+in+the+Sky)
 
-### POP
-- [Ellie Goulding - Burn](https://www.youtube.com/results?search_query=Ellie+Goulding+Burn)
-- [Ellie Goulding - Lights](https://www.youtube.com/results?search_query=Ellie+Goulding+Lights)
-- [Ellie Goulding - Love Me Like You Do](https://www.youtube.com/results?search_query=Ellie+Goulding+Love+Me+Like+You+Do)
+
+## POP
+
+##### ANGSTY
 - [Cady Groves - This Little Girl](https://www.youtube.com/results?search_query=Cady+Groves+This+Little+Girl)
 - [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
 - [Pink - Perfect](https://www.youtube.com/results?search_query=Pink+Perfect)
 - [Pink ft. Nate Ruess - Just Give Me A Reason](https://www.youtube.com/results?search_query=Pink+ft+Nate+Ruess+Just+Give+Me+A+Reason)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
 - [Taylor Swift - We Are Never Ever Getting Back Together](https://www.youtube.com/results?search_query=Taylor+Swift+We+Are+Never+Ever+Getting+Back+Together)
+
+##### ELECTRONIC
+- [Ellie Goulding - Burn](https://www.youtube.com/results?search_query=Ellie+Goulding+Burn)
+- [Ellie Goulding - Lights](https://www.youtube.com/results?search_query=Ellie+Goulding+Lights)
+- [Ellie Goulding - Love Me Like You Do](https://www.youtube.com/results?search_query=Ellie+Goulding+Love+Me+Like+You+Do)
+
+##### J-POP
 - [Stereopony - Tsukiakari no Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+no+Michishirube)
 - [Yui Makino - Fuwa Fuwa](https://www.youtube.com/results?search_query=Yui+Makino+Fuwa+Fuwa)
 - [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
+
+##### K-POP
 - [iM ft. Narcia - By my 1004](https://www.youtube.com/results?search_query=iM+ft+Narcia+By+my+1004)
+
+##### POP
 - [Katy Perry - ET](https://www.youtube.com/results?search_query=Katy+Perry+ET)
 - [Katy Perry - Firework](https://www.youtube.com/results?search_query=Katy+Perry+Firework)
 - [Katy Perry - Last Friday Night](https://www.youtube.com/results?search_query=Katy+Perry+Last+Friday+Night)
@@ -81,24 +115,28 @@ Generated on: 10/14/2015, 2:40:03 AM
 - [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
 - [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
-- [Cady Groves - This Little Girl](https://www.youtube.com/results?search_query=Cady+Groves+This+Little+Girl)
-- [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
-- [Pink - Perfect](https://www.youtube.com/results?search_query=Pink+Perfect)
-- [Pink ft. Nate Ruess - Just Give Me A Reason](https://www.youtube.com/results?search_query=Pink+ft+Nate+Ruess+Just+Give+Me+A+Reason)
-- [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
-- [Taylor Swift - We Are Never Ever Getting Back Together](https://www.youtube.com/results?search_query=Taylor+Swift+We+Are+Never+Ever+Getting+Back+Together)
 
-### RNB
+
+## RNB
+
+##### RNB
 - [August Rigo - Till It's Over](https://www.youtube.com/results?search_query=August+Rigo+Till+It's+Over)
 - [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
 - [Shayne Ward - Breathless](https://www.youtube.com/results?search_query=Shayne+Ward+Breathless)
+
+##### SOUL
 - [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
 - [Anna Graceman - Words](https://www.youtube.com/results?search_query=Anna+Graceman+Words)
 - [Ina - Suddenly](https://www.youtube.com/results?search_query=Ina+Suddenly)
 - [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
 
-### ROCK
+
+## ROCK
+
+##### J-ROCK
 - [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
+
+##### ROCK
 - [Bowling For Soup - 1985](https://www.youtube.com/results?search_query=Bowling+For+Soup+1985)
 - [Bowling For Soup - Girl All The Bad Guys Want](https://www.youtube.com/results?search_query=Bowling+For+Soup+Girl+All+The+Bad+Guys+Want)
 - [Mayday Parade - Anywhere But Here](https://www.youtube.com/results?search_query=Mayday+Parade+Anywhere+But+Here)
@@ -109,7 +147,10 @@ Generated on: 10/14/2015, 2:40:03 AM
 - [The Cab - Vegas Skies](https://www.youtube.com/results?search_query=The+Cab+Vegas+Skies)
 - [The Menzingers - Casey](https://www.youtube.com/results?search_query=The+Menzingers+Casey)
 
-### VOCALOID
+
+## VOCALOID
+
+##### MIKU
 - [DECO*27 - Ai Kotobo](https://www.youtube.com/results?search_query=DECO27+Ai+Kotobo)
 - [JimmySamP - Calc](https://www.youtube.com/results?search_query=JimmySamP+Calc)
 - [Livetune - Packaged](https://www.youtube.com/results?search_query=Livetune+Packaged)
