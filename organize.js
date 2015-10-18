@@ -84,6 +84,10 @@ var alphabetizeSongs = function(genre, subgenre, doneGenre) {
     // Propagate error while trying to read file.
     if (error) { return doneGenre(error); }
 
+    // Trim spaces and replace dashes with pipes.
+    data = data.replace(/ +/g, ' ');
+    data = data.replace(/ - /g, ' | ');
+
     // Alphabetize and save the file.
     var songList = alphabetize(data.split('\n'));
     var stream = fs.createWriteStream(filename);

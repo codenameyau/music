@@ -1,6 +1,6 @@
 # music
 
-Generated on: 10/17/2015, 11:13:11 AM
+Generated on: 10/17/2015, 8:53:01 PM
 
 - [COUNTRY](https://github.com/codenameyau/music#country)
 - [EDM](https://github.com/codenameyau/music#edm)
@@ -18,7 +18,6 @@ Generated on: 10/17/2015, 11:13:11 AM
 
 ##### ACOUSTIC
 - [Anna Graceman - Words](https://www.youtube.com/results?search_query=Anna+Graceman+Words)
-- [Ina - Suddenly](https://www.youtube.com/results?search_query=Ina+Suddenly)
 
 ##### CHRISTIAN
 - [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
@@ -86,6 +85,9 @@ Generated on: 10/17/2015, 11:13:11 AM
 
 ## POP
 
+##### ACOUSTIC
+- [Ina - Suddenly](https://www.youtube.com/results?search_query=Ina+Suddenly)
+
 ##### COVERS
 - [Alex Goot & Kurt Schneider & Chrissy Costanza - Counting Stars](https://www.youtube.com/results?search_query=Alex+Goot+%26+Kurt+Schneider+%26+Chrissy+Costanza+Counting+Stars)
 - [Megan Nicole & Dave Days - Payphone](https://www.youtube.com/results?search_query=Megan+Nicole+%26+Dave+Days+Payphone)
@@ -95,6 +97,7 @@ Generated on: 10/17/2015, 11:13:11 AM
 - [Ellie Goulding - Lights](https://www.youtube.com/results?search_query=Ellie+Goulding+Lights)
 - [Ellie Goulding - Love Me Like You Do](https://www.youtube.com/results?search_query=Ellie+Goulding+Love+Me+Like+You+Do)
 - [Ellie Goulding - The Writer](https://www.youtube.com/results?search_query=Ellie+Goulding+The+Writer)
+- [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
 - [The Ready Set - Love Like Woe](https://www.youtube.com/results?search_query=The+Ready+Set+Love+Like+Woe)
 
 ##### J-POP
@@ -110,6 +113,7 @@ Generated on: 10/17/2015, 11:13:11 AM
 ##### MAINSTREAM
 - [Adam Lambert - Runnin'](https://www.youtube.com/results?search_query=Adam+Lambert+Runnin')
 - [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
+- [B.O.B ft. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BOB+ft+Hayley+Williams+Airplanes)
 - [Cady Groves - This Little Girl](https://www.youtube.com/results?search_query=Cady+Groves+This+Little+Girl)
 - [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
 - [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
@@ -130,6 +134,8 @@ Generated on: 10/17/2015, 11:13:11 AM
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
 - [Taylor Swift - We Are Never Ever Getting Back Together](https://www.youtube.com/results?search_query=Taylor+Swift+We+Are+Never+Ever+Getting+Back+Together)
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
+- [Travis Garland - Airplanes](https://www.youtube.com/results?search_query=Travis+Garland+Airplanes)
+- [Travis Garland - Perfect](https://www.youtube.com/results?search_query=Travis+Garland+Perfect)
 
 ##### PUNK
 - [Avril Lavigne - Sk8ter Boi](https://www.youtube.com/results?search_query=Avril+Lavigne+Sk8ter+Boi)
