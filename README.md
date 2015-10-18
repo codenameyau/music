@@ -1,6 +1,6 @@
 # music
 
-Generated on: 10/17/2015, 8:56:48 PM
+Generated on: 10/18/2015, 10:20:01 AM
 
 - [COUNTRY](https://github.com/codenameyau/music#country)
 - [EDM](https://github.com/codenameyau/music#edm)
@@ -79,6 +79,7 @@ Generated on: 10/17/2015, 8:56:48 PM
 
 ##### COVERS
 - [Alex Goot & Kurt Schneider & Chrissy Costanza - Counting Stars](https://www.youtube.com/results?search_query=Alex+Goot+%26+Kurt+Schneider+%26+Chrissy+Costanza+Counting+Stars)
+- [Glee - Friday (lol)](https://www.youtube.com/results?search_query=Glee+Friday+lol)
 - [Megan Nicole & Dave Days - Payphone](https://www.youtube.com/results?search_query=Megan+Nicole+%26+Dave+Days+Payphone)
 
 ##### ELECTRONIC
@@ -128,8 +129,10 @@ Generated on: 10/17/2015, 8:56:48 PM
 - [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
 - [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
+- [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
 - [Taylor Swift - We Are Never Ever Getting Back Together](https://www.youtube.com/results?search_query=Taylor+Swift+We+Are+Never+Ever+Getting+Back+Together)
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
+- [Taylor Swift - You Belong With Me](https://www.youtube.com/results?search_query=Taylor+Swift+You+Belong+With+Me)
 - [Travis Garland - Airplanes](https://www.youtube.com/results?search_query=Travis+Garland+Airplanes)
 - [Travis Garland - Perfect](https://www.youtube.com/results?search_query=Travis+Garland+Perfect)
 

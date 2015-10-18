@@ -17,8 +17,10 @@ var format = require('util').format;
 // Constants and globals.
 var PATH = path.resolve(__dirname);
 var GENRE_DIR = PATH + '/genre/';
-var MUSIC_PATH = PATH + '/music.txt';
 var README_PATH = PATH + '/README.md';
+var GEN_DIR = PATH + '/data/';
+var MUSIC_PATH = GEN_DIR + 'music.txt';
+var JSON_PATH = GEN_DIR + 'music.json';
 var YOUTUBE_SEARCH = 'https://www.youtube.com/results?search_query=';
 var GITHUB_PAGE = 'https://github.com/codenameyau/music';
 var SONGS = {};
@@ -121,6 +123,14 @@ var populateGenre = function(genre, doneReading, callback) {
   });
 };
 
+var createJSONFile = function() {
+  var stream = fs.createWriteStream(JSON_PATH);
+  stream.once('open', function() {
+    console.log('Create file: %s', JSON_PATH);
+    stream.write(JSON.stringify(SONGS, null, 2));
+  });
+};
+
 var createMusicFile = function() {
   var stream = fs.createWriteStream(MUSIC_PATH);
   stream.once('open', function() {
@@ -204,6 +214,7 @@ fs.readdir(GENRE_DIR, function(error, genres) {
       console.log(doneError);
     } else {
       console.log('Finished alphabetizing songs');
+      createJSONFile();
       createMusicFile();
       createReadmeFile();
     }
