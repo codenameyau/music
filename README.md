@@ -1,10 +1,9 @@
 # music
 
-Generated on: 10/17/2015, 8:53:01 PM
+Generated on: 10/17/2015, 8:56:48 PM
 
 - [COUNTRY](https://github.com/codenameyau/music#country)
 - [EDM](https://github.com/codenameyau/music#edm)
-- [INDIE](https://github.com/codenameyau/music#indie)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental)
 - [POP](https://github.com/codenameyau/music#pop)
 - [RNB](https://github.com/codenameyau/music#rnb)
@@ -63,16 +62,6 @@ Generated on: 10/17/2015, 8:53:01 PM
 - [Phoebe Ryan - Mine (Illenium Remix)](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine+Illenium+Remix)
 
 
-## INDIE
-
-##### POP
-- [Lauren Aquilina - Sinners](https://www.youtube.com/results?search_query=Lauren+Aquilina+Sinners)
-- [Phoebe Ryan - Mine](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine)
-- [Stars - Dead Hearts](https://www.youtube.com/results?search_query=Stars+Dead+Hearts)
-- [The Kissaway Trail - New Lipstick](https://www.youtube.com/results?search_query=The+Kissaway+Trail+New+Lipstick)
-- [The Naked and Famous - Young Blood](https://www.youtube.com/results?search_query=The+Naked+and+Famous+Young+Blood)
-
-
 ## INSTRUMENTAL
 
 ##### HOUSE
@@ -100,6 +89,13 @@ Generated on: 10/17/2015, 8:53:01 PM
 - [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
 - [The Ready Set - Love Like Woe](https://www.youtube.com/results?search_query=The+Ready+Set+Love+Like+Woe)
 
+##### INDIE
+- [Lauren Aquilina - Sinners](https://www.youtube.com/results?search_query=Lauren+Aquilina+Sinners)
+- [Phoebe Ryan - Mine](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine)
+- [Stars - Dead Hearts](https://www.youtube.com/results?search_query=Stars+Dead+Hearts)
+- [The Kissaway Trail - New Lipstick](https://www.youtube.com/results?search_query=The+Kissaway+Trail+New+Lipstick)
+- [The Naked and Famous - Young Blood](https://www.youtube.com/results?search_query=The+Naked+and+Famous+Young+Blood)
+
 ##### J-POP
 - [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
 - [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
@@ -113,7 +109,7 @@ Generated on: 10/17/2015, 8:53:01 PM
 ##### MAINSTREAM
 - [Adam Lambert - Runnin'](https://www.youtube.com/results?search_query=Adam+Lambert+Runnin')
 - [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
-- [B.O.B ft. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BOB+ft+Hayley+Williams+Airplanes)
+- [B.o.B ft. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+ft+Hayley+Williams+Airplanes)
 - [Cady Groves - This Little Girl](https://www.youtube.com/results?search_query=Cady+Groves+This+Little+Girl)
 - [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
 - [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
