@@ -123,6 +123,15 @@ var populateGenre = function(genre, doneReading, callback) {
   });
 };
 
+var getGenreCount = function(genre) {
+  var count = 0;
+  for (var subgenre in SONGS[genre]) {
+    if (SONGS[genre].hasOwnProperty(subgenre)) {
+      count += SONGS[genre][subgenre].length;
+    }
+  } return count;
+};
+
 var createJSONFile = function() {
   var stream = fs.createWriteStream(JSON_PATH);
   stream.once('open', function() {
@@ -170,9 +179,10 @@ var createReadmeFile = function() {
     // Write table of contents.
     for (var genreName in SONGS) {
       if (SONGS.hasOwnProperty(genreName)) {
-        stream.write(format('- [%s](%s)\n',
+        stream.write(format('- [%s](%s) (%s)\n',
           genreName.toUpperCase(),
-          getGithubReadmeLink(genreName)
+          getGithubReadmeLink(genreName),
+          getGenreCount(genreName)
         ));
       }
     }
@@ -213,7 +223,6 @@ fs.readdir(GENRE_DIR, function(error, genres) {
     if (doneError) {
       console.log(doneError);
     } else {
-      console.log('Finished alphabetizing songs');
       createJSONFile();
       createMusicFile();
       createReadmeFile();

@@ -1,14 +1,14 @@
 # music
 
-Generated on: 10/18/2015, 11:52:30 AM
+Generated on: 10/18/2015, 7:59:35 PM
 
-- [COUNTRY](https://github.com/codenameyau/music#country)
-- [EDM](https://github.com/codenameyau/music#edm)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental)
-- [POP](https://github.com/codenameyau/music#pop)
-- [RNB](https://github.com/codenameyau/music#rnb)
-- [ROCK](https://github.com/codenameyau/music#rock)
-- [VOCALOID](https://github.com/codenameyau/music#vocaloid)
+- [COUNTRY](https://github.com/codenameyau/music#country) (2)
+- [EDM](https://github.com/codenameyau/music#edm) (55)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (3)
+- [POP](https://github.com/codenameyau/music#pop) (68)
+- [RNB](https://github.com/codenameyau/music#rnb) (7)
+- [ROCK](https://github.com/codenameyau/music#rock) (22)
+- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (20)
 
 --
 
@@ -30,6 +30,12 @@ Generated on: 10/18/2015, 11:52:30 AM
 - [Gostan - Klanga](https://www.youtube.com/results?search_query=Gostan+Klanga)
 - [Gostan - Klanga (Henri Pfr Remix)](https://www.youtube.com/results?search_query=Gostan+Klanga+Henri+Pfr+Remix)
 - [Ulf Nilsson - Little By Little (Lulleaux & George Whyman Remix)](https://www.youtube.com/results?search_query=Ulf+Nilsson+Little+By+Little+Lulleaux+%26+George+Whyman+Remix)
+
+##### ELECTRONIC
+- [Galantis - You](https://www.youtube.com/results?search_query=Galantis+You)
+- [Galantis - You (Still Young Remix)](https://www.youtube.com/results?search_query=Galantis+You+Still+Young+Remix)
+- [Porter Robinson - Sad Machine](https://www.youtube.com/results?search_query=Porter+Robinson+Sad+Machine)
+- [Porter Robinson feat. Urban Cone - Lionhearted](https://www.youtube.com/results?search_query=Porter+Robinson+feat+Urban+Cone+Lionhearted)
 
 ##### EURODANCE
 - [Alina - When You Leave (Numa Numa)](https://www.youtube.com/results?search_query=Alina+When+You+Leave+Numa+Numa)
@@ -59,8 +65,6 @@ Generated on: 10/18/2015, 11:52:30 AM
 - [Calvin Harris & Example - We'll Be Coming Back](https://www.youtube.com/results?search_query=Calvin+Harris+%26+Example+We'll+Be+Coming+Back)
 - [Calvin Harris & Example - We'll Be Coming Back (R3HAB EDC Vegas Remix)](https://www.youtube.com/results?search_query=Calvin+Harris+%26+Example+We'll+Be+Coming+Back+R3HAB+EDC+Vegas+Remix)
 - [Cash Cash feat. Bebe Rexha - Take Me Home](https://www.youtube.com/results?search_query=Cash+Cash+feat+Bebe+Rexha+Take+Me+Home)
-- [Galantis - You](https://www.youtube.com/results?search_query=Galantis+You)
-- [Galantis - You (Still Young Remix)](https://www.youtube.com/results?search_query=Galantis+You+Still+Young+Remix)
 - [Hardwell feat. Amba Shepherd - Apollo](https://www.youtube.com/results?search_query=Hardwell+feat+Amba+Shepherd+Apollo)
 - [Hardwell feat. Chris Jones - Young Again](https://www.youtube.com/results?search_query=Hardwell+feat+Chris+Jones+Young+Again)
 - [Kaskade & Project 46 - Last Chance](https://www.youtube.com/results?search_query=Kaskade+%26+Project+46+Last+Chance)
@@ -101,7 +105,7 @@ Generated on: 10/18/2015, 11:52:30 AM
 ##### COVERS
 - [Alex Goot & Kurt Schneider & Chrissy Costanza - Counting Stars](https://www.youtube.com/results?search_query=Alex+Goot+%26+Kurt+Schneider+%26+Chrissy+Costanza+Counting+Stars)
 - [Boyce Avenue - A Thousand Miles](https://www.youtube.com/results?search_query=Boyce+Avenue+A+Thousand+Miles)
-- [Glee - Friday (lol)](https://www.youtube.com/results?search_query=Glee+Friday+lol)
+- [Glee - Friday](https://www.youtube.com/results?search_query=Glee+Friday)
 - [Jasmine Thompson - All of Me](https://www.youtube.com/results?search_query=Jasmine+Thompson+All+of+Me)
 - [Megan Nicole & Dave Days - Payphone](https://www.youtube.com/results?search_query=Megan+Nicole+%26+Dave+Days+Payphone)
 
@@ -117,8 +121,6 @@ Generated on: 10/18/2015, 11:52:30 AM
 - [LIGHTS - Up We Go](https://www.youtube.com/results?search_query=LIGHTS+Up+We+Go)
 - [Owl City - Fireflies](https://www.youtube.com/results?search_query=Owl+City+Fireflies)
 - [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
-- [Porter Robinson - Sad Machine](https://www.youtube.com/results?search_query=Porter+Robinson+Sad+Machine)
-- [Porter Robinson feat. Urban Cone - Lionhearted](https://www.youtube.com/results?search_query=Porter+Robinson+feat+Urban+Cone+Lionhearted)
 - [The Ready Set - Love Like Woe](https://www.youtube.com/results?search_query=The+Ready+Set+Love+Like+Woe)
 
 ##### HIP-HOP
