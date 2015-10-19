@@ -1,11 +1,11 @@
 # music
 
-Generated on: 10/18/2015, 8:55:14 PM
+Generated on: 10/19/2015, 8:40:51 AM
 
-- [COUNTRY](https://github.com/codenameyau/music#country) (2)
-- [EDM](https://github.com/codenameyau/music#edm) (55)
+- [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
+- [EDM](https://github.com/codenameyau/music#edm) (57)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (15)
-- [POP](https://github.com/codenameyau/music#pop) (85)
+- [POP](https://github.com/codenameyau/music#pop) (87)
 - [RNB](https://github.com/codenameyau/music#rnb) (13)
 - [ROCK](https://github.com/codenameyau/music#rock) (26)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (20)
@@ -13,13 +13,15 @@ Generated on: 10/18/2015, 8:55:14 PM
 --
 
 
-## COUNTRY
-
-##### ACOUSTIC
-- [Anna Graceman - Words](https://www.youtube.com/results?search_query=Anna+Graceman+Words)
+## ACOUSTIC
 
 ##### CHRISTIAN
 - [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
+
+##### VERSION
+- [Anna Graceman - Words (Acoustic Version)](https://www.youtube.com/results?search_query=Anna+Graceman+Words+Acoustic+Version)
+- [Krewella - Alive (Acoustic Version)](https://www.youtube.com/results?search_query=Krewella+Alive+Acoustic+Version)
+- [Relient K - Who I Am Hates Who I've Been (Acoustic Version)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic+Version)
 
 
 ## EDM
@@ -51,11 +53,13 @@ Generated on: 10/18/2015, 8:55:14 PM
 - [Martin Solveig & Dragonette - Hello](https://www.youtube.com/results?search_query=Martin+Solveig+%26+Dragonette+Hello)
 - [Michael Ming Project feat. Dante Thomas - Feeling So Blue](https://www.youtube.com/results?search_query=Michael+Ming+Project+feat+Dante+Thomas+Feeling+So+Blue)
 - [Millenium - Day After Day](https://www.youtube.com/results?search_query=Millenium+Day+After+Day)
+- [Smile.dk - Butterfly](https://www.youtube.com/results?search_query=Smiledk+Butterfly)
 
 ##### PROGRESSIVE-HOUSE
 - [3Lau feat. Bright Lights - How You Love Me](https://www.youtube.com/results?search_query=3Lau+feat+Bright+Lights+How+You+Love+Me)
 - [Afrojack feat. Wrabel - Ten Feet Tall](https://www.youtube.com/results?search_query=Afrojack+feat+Wrabel+Ten+Feet+Tall)
 - [Armin van Buuren feat. Trevor Guthrie - This Is What It Feels Like](https://www.youtube.com/results?search_query=Armin+van+Buuren+feat+Trevor+Guthrie+This+Is+What+It+Feels+Like)
+- [Audien feat. Michael S. - Leaving You](https://www.youtube.com/results?search_query=Audien+feat+Michael+S+Leaving+You)
 - [Audien feat. Ruby Prophet - Circles](https://www.youtube.com/results?search_query=Audien+feat+Ruby+Prophet+Circles)
 - [Avenor feat. LeLe - In Your Dreams](https://www.youtube.com/results?search_query=Avenor+feat+LeLe+In+Your+Dreams)
 - [Avicii - The Nights](https://www.youtube.com/results?search_query=Avicii+The+Nights)
@@ -75,7 +79,7 @@ Generated on: 10/18/2015, 8:55:14 PM
 - [Matisyahu - Live Like A Warrior (Richello Remix)](https://www.youtube.com/results?search_query=Matisyahu+Live+Like+A+Warrior+Richello+Remix)
 - [Project 46 - Feel the Fire](https://www.youtube.com/results?search_query=Project+46+Feel+the+Fire)
 - [Swedish House Mafia feat. John Martin - Don't You Worry Child](https://www.youtube.com/results?search_query=Swedish+House+Mafia+feat+John+Martin+Don't+You+Worry+Child)
-- [Tiesto - In My Mind](https://www.youtube.com/results?search_query=Tiesto+In+My+Mind)
+- [Tiesto feat. Georgi Kay - In My Mind](https://www.youtube.com/results?search_query=Tiesto+feat+Georgi+Kay+In+My+Mind)
 - [Tom Swoon - Otherside](https://www.youtube.com/results?search_query=Tom+Swoon+Otherside)
 - [Tove Lo - Talking Body](https://www.youtube.com/results?search_query=Tove+Lo+Talking+Body)
 - [Tritonal feat. Skyler Stonestreet - Electric Glow](https://www.youtube.com/results?search_query=Tritonal+feat+Skyler+Stonestreet+Electric+Glow)
@@ -119,6 +123,7 @@ Generated on: 10/18/2015, 8:55:14 PM
 ## POP
 
 ##### ADULT-CONTEMPORARY
+- [Anna Graceman - Words](https://www.youtube.com/results?search_query=Anna+Graceman+Words)
 - [Donna Lewis & Richard Marx - At the Beginning](https://www.youtube.com/results?search_query=Donna+Lewis+%26+Richard+Marx+At+the+Beginning)
 - [Elliott Yamin - Wait For You](https://www.youtube.com/results?search_query=Elliott+Yamin+Wait+For+You)
 - [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
@@ -130,6 +135,7 @@ Generated on: 10/18/2015, 8:55:14 PM
 - [Passenger - Let Her Go](https://www.youtube.com/results?search_query=Passenger+Let+Her+Go)
 - [Phil Collins - Son Of Man](https://www.youtube.com/results?search_query=Phil+Collins+Son+Of+Man)
 - [Phil Collins - You'll Be In My Heart](https://www.youtube.com/results?search_query=Phil+Collins+You'll+Be+In+My+Heart)
+- [Rent - Seasons Of Love](https://www.youtube.com/results?search_query=Rent+Seasons+Of+Love)
 - [Richard Marx - Right Here Waiting For You](https://www.youtube.com/results?search_query=Richard+Marx+Right+Here+Waiting+For+You)
 - [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
 - [Selena - Dreaming Of You](https://www.youtube.com/results?search_query=Selena+Dreaming+Of+You)
