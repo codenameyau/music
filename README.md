@@ -1,13 +1,13 @@
 # music
 
-Generated on: 10/18/2015, 7:59:35 PM
+Generated on: 10/18/2015, 8:55:14 PM
 
 - [COUNTRY](https://github.com/codenameyau/music#country) (2)
 - [EDM](https://github.com/codenameyau/music#edm) (55)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (3)
-- [POP](https://github.com/codenameyau/music#pop) (68)
-- [RNB](https://github.com/codenameyau/music#rnb) (7)
-- [ROCK](https://github.com/codenameyau/music#rock) (22)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (15)
+- [POP](https://github.com/codenameyau/music#pop) (85)
+- [RNB](https://github.com/codenameyau/music#rnb) (13)
+- [ROCK](https://github.com/codenameyau/music#rock) (26)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (20)
 
 --
@@ -92,8 +92,24 @@ Generated on: 10/18/2015, 7:59:35 PM
 
 ## INSTRUMENTAL
 
+##### ACOUSTIC
+- [Andy McKee - Drifting](https://www.youtube.com/results?search_query=Andy+McKee+Drifting)
+- [Balmorhea - Baleen Morning](https://www.youtube.com/results?search_query=Balmorhea+Baleen+Morning)
+- [The Album Leaf - Story Board](https://www.youtube.com/results?search_query=The+Album+Leaf+Story+Board)
+- [The Album Leaf - Streamside](https://www.youtube.com/results?search_query=The+Album+Leaf+Streamside)
+
 ##### HOUSE
 - [Alex Schulz - Summer Night](https://www.youtube.com/results?search_query=Alex+Schulz+Summer+Night)
+
+##### PIANO
+- [Brian Crain - Butterfly Waltz](https://www.youtube.com/results?search_query=Brian+Crain+Butterfly+Waltz)
+- [Dai - You](https://www.youtube.com/results?search_query=Dai+You)
+- [Isaac Shepard - I Will Still Love You](https://www.youtube.com/results?search_query=Isaac+Shepard+I+Will+Still+Love+You)
+- [Isaac Shepard - Leaves in the Wind](https://www.youtube.com/results?search_query=Isaac+Shepard+Leaves+in+the+Wind)
+- [Joe Hisaishi - Always With Me](https://www.youtube.com/results?search_query=Joe+Hisaishi+Always+With+Me)
+- [Ludovico Einaudi - Islands](https://www.youtube.com/results?search_query=Ludovico+Einaudi+Islands)
+- [Yiruma - Kiss The Rain](https://www.youtube.com/results?search_query=Yiruma+Kiss+The+Rain)
+- [Yiruma - River Flows In You](https://www.youtube.com/results?search_query=Yiruma+River+Flows+In+You)
 
 ##### POST-ROCK
 - [Lights & Motion - Reanimation](https://www.youtube.com/results?search_query=Lights+%26+Motion+Reanimation)
@@ -101,6 +117,22 @@ Generated on: 10/18/2015, 7:59:35 PM
 
 
 ## POP
+
+##### ADULT-CONTEMPORARY
+- [Donna Lewis & Richard Marx - At the Beginning](https://www.youtube.com/results?search_query=Donna+Lewis+%26+Richard+Marx+At+the+Beginning)
+- [Elliott Yamin - Wait For You](https://www.youtube.com/results?search_query=Elliott+Yamin+Wait+For+You)
+- [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
+- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
+- [Jason Mraz - I'm Yours](https://www.youtube.com/results?search_query=Jason+Mraz+I'm+Yours)
+- [John Legend - All Of Me](https://www.youtube.com/results?search_query=John+Legend+All+Of+Me)
+- [Kyla - Wait For You](https://www.youtube.com/results?search_query=Kyla+Wait+For+You)
+- [Lion King - We Are One](https://www.youtube.com/results?search_query=Lion+King+We+Are+One)
+- [Passenger - Let Her Go](https://www.youtube.com/results?search_query=Passenger+Let+Her+Go)
+- [Phil Collins - Son Of Man](https://www.youtube.com/results?search_query=Phil+Collins+Son+Of+Man)
+- [Phil Collins - You'll Be In My Heart](https://www.youtube.com/results?search_query=Phil+Collins+You'll+Be+In+My+Heart)
+- [Richard Marx - Right Here Waiting For You](https://www.youtube.com/results?search_query=Richard+Marx+Right+Here+Waiting+For+You)
+- [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
+- [Selena - Dreaming Of You](https://www.youtube.com/results?search_query=Selena+Dreaming+Of+You)
 
 ##### COVERS
 - [Alex Goot & Kurt Schneider & Chrissy Costanza - Counting Stars](https://www.youtube.com/results?search_query=Alex+Goot+%26+Kurt+Schneider+%26+Chrissy+Costanza+Counting+Stars)
@@ -140,9 +172,12 @@ Generated on: 10/18/2015, 7:59:35 PM
 - [The Royal Concept - On Our Way](https://www.youtube.com/results?search_query=The+Royal+Concept+On+Our+Way)
 
 ##### J-POP
+- [Day After Tomorrow - Soshite Boku Ni Dekiru Koto](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Soshite+Boku+Ni+Dekiru+Koto)
+- [Day After Tomorrow - Starry Heavens](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Starry+Heavens)
 - [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
 - [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
 - [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
+- [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
 - [Stereopony - Tsukiakari no Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+no+Michishirube)
 - [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
 - [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
@@ -154,15 +189,15 @@ Generated on: 10/18/2015, 7:59:35 PM
 ##### MAINSTREAM
 - [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
 - [Cady Groves - This Little Girl](https://www.youtube.com/results?search_query=Cady+Groves+This+Little+Girl)
-- [Elliott Yamin - Wait For You](https://www.youtube.com/results?search_query=Elliott+Yamin+Wait+For+You)
 - [Ina - Suddenly](https://www.youtube.com/results?search_query=Ina+Suddenly)
 - [Katy Perry - ET](https://www.youtube.com/results?search_query=Katy+Perry+ET)
 - [Katy Perry - Firework](https://www.youtube.com/results?search_query=Katy+Perry+Firework)
 - [Katy Perry - Last Friday Night](https://www.youtube.com/results?search_query=Katy+Perry+Last+Friday+Night)
 - [Katy Perry - Teenage Dream](https://www.youtube.com/results?search_query=Katy+Perry+Teenage+Dream)
+- [Katy Perry - The One That Got Away](https://www.youtube.com/results?search_query=Katy+Perry+The+One+That+Got+Away)
+- [Kelly Clarkson - Breakaway](https://www.youtube.com/results?search_query=Kelly+Clarkson+Breakaway)
 - [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
 - [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
-- [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
 - [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
 - [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
@@ -170,11 +205,9 @@ Generated on: 10/18/2015, 7:59:35 PM
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
 - [Taylor Swift - You Belong With Me](https://www.youtube.com/results?search_query=Taylor+Swift+You+Belong+With+Me)
 
-##### PUNK
-- [Avril Lavigne - Sk8ter Boi](https://www.youtube.com/results?search_query=Avril+Lavigne+Sk8ter+Boi)
-
 ##### ROCK
 - [Adam Lambert - Runnin'](https://www.youtube.com/results?search_query=Adam+Lambert+Runnin')
+- [Avril Lavigne - Sk8ter Boi](https://www.youtube.com/results?search_query=Avril+Lavigne+Sk8ter+Boi)
 - [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
 - [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
 - [Moroon 5 - Payphone](https://www.youtube.com/results?search_query=Moroon+5+Payphone)
@@ -193,12 +226,18 @@ Generated on: 10/18/2015, 7:59:35 PM
 
 ##### RNB
 - [August Rigo - Till It's Over](https://www.youtube.com/results?search_query=August+Rigo+Till+It's+Over)
+- [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
+- [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
+- [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
+- [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
 - [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
 - [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
+- [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
 - [Shayne Ward - Breathless](https://www.youtube.com/results?search_query=Shayne+Ward+Breathless)
 
 ##### SOUL
 - [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
+- [K'naan - Wavin' Flag](https://www.youtube.com/results?search_query=K'naan+Wavin'+Flag)
 - [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
 - [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
 
@@ -211,13 +250,16 @@ Generated on: 10/18/2015, 7:59:35 PM
 
 ##### J-ROCK
 - [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
+- [SNoW - Sakasama No Chou](https://www.youtube.com/results?search_query=SNoW+Sakasama+No+Chou)
+- [Stereopony - Hitohira No Hanabira](https://www.youtube.com/results?search_query=Stereopony+Hitohira+No+Hanabira)
+- [Stereopony - Tsukiakari No Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+No+Michishirube)
+- [Yanagi Nagi - Rudbeckia](https://www.youtube.com/results?search_query=Yanagi+Nagi+Rudbeckia)
 
 ##### MAINSTREAM
 - [Bowling For Soup - 1985](https://www.youtube.com/results?search_query=Bowling+For+Soup+1985)
-- [Bowling For Soup - 1985](https://www.youtube.com/results?search_query=Bowling+For+Soup+1985)
-- [Bowling For Soup - Girl All The Bad Guys Want](https://www.youtube.com/results?search_query=Bowling+For+Soup+Girl+All+The+Bad+Guys+Want)
 - [Bowling For Soup - Girl All The Bad Guys Want](https://www.youtube.com/results?search_query=Bowling+For+Soup+Girl+All+The+Bad+Guys+Want)
 - [Daughtry - Waiting for Superman](https://www.youtube.com/results?search_query=Daughtry+Waiting+for+Superman)
+- [Lifehouse - Hanging By A Moment](https://www.youtube.com/results?search_query=Lifehouse+Hanging+By+A+Moment)
 - [Mayday Parade - Anywhere But Here](https://www.youtube.com/results?search_query=Mayday+Parade+Anywhere+But+Here)
 - [Nickelback - Far Away](https://www.youtube.com/results?search_query=Nickelback+Far+Away)
 - [Nickelback - How You Remind Me](https://www.youtube.com/results?search_query=Nickelback+How+You+Remind+Me)
@@ -226,6 +268,7 @@ Generated on: 10/18/2015, 7:59:35 PM
 - [Runner Runner - So Obvious](https://www.youtube.com/results?search_query=Runner+Runner+So+Obvious)
 - [The All-American Rejects - Move Along](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Move+Along)
 - [The Ataris - Boys of Summer](https://www.youtube.com/results?search_query=The+Ataris+Boys+of+Summer)
+- [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
 
 ##### PUNK
 - [Emilie Autumn - Fight Like a Girl](https://www.youtube.com/results?search_query=Emilie+Autumn+Fight+Like+a+Girl)
