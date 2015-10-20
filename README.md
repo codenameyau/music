@@ -1,13 +1,13 @@
 # music
 
-Generated on: 10/19/2015, 8:40:51 AM
+Generated on: 10/20/2015, 8:42:08 AM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
 - [EDM](https://github.com/codenameyau/music#edm) (57)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (15)
-- [POP](https://github.com/codenameyau/music#pop) (87)
+- [POP](https://github.com/codenameyau/music#pop) (89)
 - [RNB](https://github.com/codenameyau/music#rnb) (13)
-- [ROCK](https://github.com/codenameyau/music#rock) (26)
+- [ROCK](https://github.com/codenameyau/music#rock) (28)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (20)
 
 --
@@ -214,7 +214,9 @@ Generated on: 10/19/2015, 8:40:51 AM
 ##### ROCK
 - [Adam Lambert - Runnin'](https://www.youtube.com/results?search_query=Adam+Lambert+Runnin')
 - [Avril Lavigne - Sk8ter Boi](https://www.youtube.com/results?search_query=Avril+Lavigne+Sk8ter+Boi)
-- [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
+- [Bowling For Soup - 1985](https://www.youtube.com/results?search_query=Bowling+For+Soup+1985)
+- [Bowling For Soup - Girl All The Bad Guys Want](https://www.youtube.com/results?search_query=Bowling+For+Soup+Girl+All+The+Bad+Guys+Want)
+- [Daughtry - Waiting for Superman](https://www.youtube.com/results?search_query=Daughtry+Waiting+for+Superman)
 - [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
 - [Moroon 5 - Payphone](https://www.youtube.com/results?search_query=Moroon+5+Payphone)
 - [One Republic - Apologize](https://www.youtube.com/results?search_query=One+Republic+Apologize)
@@ -251,6 +253,8 @@ Generated on: 10/19/2015, 8:40:51 AM
 ## ROCK
 
 ##### CHRISTIAN
+- [Kutless - More Than It Seems](https://www.youtube.com/results?search_query=Kutless+More+Than+It+Seems)
+- [Kutless - What Faith Can Do](https://www.youtube.com/results?search_query=Kutless+What+Faith+Can+Do)
 - [Revive - Blink](https://www.youtube.com/results?search_query=Revive+Blink)
 - [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
 
@@ -262,9 +266,8 @@ Generated on: 10/19/2015, 8:40:51 AM
 - [Yanagi Nagi - Rudbeckia](https://www.youtube.com/results?search_query=Yanagi+Nagi+Rudbeckia)
 
 ##### MAINSTREAM
-- [Bowling For Soup - 1985](https://www.youtube.com/results?search_query=Bowling+For+Soup+1985)
-- [Bowling For Soup - Girl All The Bad Guys Want](https://www.youtube.com/results?search_query=Bowling+For+Soup+Girl+All+The+Bad+Guys+Want)
-- [Daughtry - Waiting for Superman](https://www.youtube.com/results?search_query=Daughtry+Waiting+for+Superman)
+- [Green Day - Boulevard of Broken Dreams](https://www.youtube.com/results?search_query=Green+Day+Boulevard+of+Broken+Dreams)
+- [Hinder - Lips Of An Angel](https://www.youtube.com/results?search_query=Hinder+Lips+Of+An+Angel)
 - [Lifehouse - Hanging By A Moment](https://www.youtube.com/results?search_query=Lifehouse+Hanging+By+A+Moment)
 - [Mayday Parade - Anywhere But Here](https://www.youtube.com/results?search_query=Mayday+Parade+Anywhere+But+Here)
 - [Nickelback - Far Away](https://www.youtube.com/results?search_query=Nickelback+Far+Away)
@@ -282,6 +285,7 @@ Generated on: 10/19/2015, 8:40:51 AM
 - [The Menzingers - Casey](https://www.youtube.com/results?search_query=The+Menzingers+Casey)
 
 ##### RAP
+- [Linkin Park - Breaking The Habit](https://www.youtube.com/results?search_query=Linkin+Park+Breaking+The+Habit)
 - [Linkin Park - Castle of Glass](https://www.youtube.com/results?search_query=Linkin+Park+Castle+of+Glass)
 - [Linkin Park - In the End](https://www.youtube.com/results?search_query=Linkin+Park+In+the+End)
 - [Linkin Park - Numb](https://www.youtube.com/results?search_query=Linkin+Park+Numb)
