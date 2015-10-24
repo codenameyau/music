@@ -1,14 +1,14 @@
 # music
 
-Generated on: 10/20/2015, 8:42:08 AM
+Generated on: 10/24/2015, 11:07:54 AM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
-- [EDM](https://github.com/codenameyau/music#edm) (57)
+- [EDM](https://github.com/codenameyau/music#edm) (59)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (15)
-- [POP](https://github.com/codenameyau/music#pop) (89)
-- [RNB](https://github.com/codenameyau/music#rnb) (13)
+- [POP](https://github.com/codenameyau/music#pop) (99)
+- [RNB](https://github.com/codenameyau/music#rnb) (12)
 - [ROCK](https://github.com/codenameyau/music#rock) (28)
-- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (20)
+- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (21)
 
 --
 
@@ -57,6 +57,7 @@ Generated on: 10/20/2015, 8:42:08 AM
 
 ##### PROGRESSIVE-HOUSE
 - [3Lau feat. Bright Lights - How You Love Me](https://www.youtube.com/results?search_query=3Lau+feat+Bright+Lights+How+You+Love+Me)
+- [Afrojack feat. Matthew Koma - Illuminate](https://www.youtube.com/results?search_query=Afrojack+feat+Matthew+Koma+Illuminate)
 - [Afrojack feat. Wrabel - Ten Feet Tall](https://www.youtube.com/results?search_query=Afrojack+feat+Wrabel+Ten+Feet+Tall)
 - [Armin van Buuren feat. Trevor Guthrie - This Is What It Feels Like](https://www.youtube.com/results?search_query=Armin+van+Buuren+feat+Trevor+Guthrie+This+Is+What+It+Feels+Like)
 - [Audien feat. Michael S. - Leaving You](https://www.youtube.com/results?search_query=Audien+feat+Michael+S+Leaving+You)
@@ -86,6 +87,7 @@ Generated on: 10/20/2015, 8:42:08 AM
 - [WestFunk feat. Isla Meller - Apollo](https://www.youtube.com/results?search_query=WestFunk+feat+Isla+Meller+Apollo)
 - [Zedd feat. Foxes - Clarity](https://www.youtube.com/results?search_query=Zedd+feat+Foxes+Clarity)
 - [Zedd feat. Foxes - Clarity (Vicetone Remix)](https://www.youtube.com/results?search_query=Zedd+feat+Foxes+Clarity+Vicetone+Remix)
+- [Zedd feat. Hayley Williams - Stay The Night](https://www.youtube.com/results?search_query=Zedd+feat+Hayley+Williams+Stay+The+Night)
 
 ##### REMIX
 - [Ariana Grande - One Last Time (Henry Land Remix)](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time+Henry+Land+Remix)
@@ -126,6 +128,7 @@ Generated on: 10/20/2015, 8:42:08 AM
 - [Anna Graceman - Words](https://www.youtube.com/results?search_query=Anna+Graceman+Words)
 - [Donna Lewis & Richard Marx - At the Beginning](https://www.youtube.com/results?search_query=Donna+Lewis+%26+Richard+Marx+At+the+Beginning)
 - [Elliott Yamin - Wait For You](https://www.youtube.com/results?search_query=Elliott+Yamin+Wait+For+You)
+- [Five for Fighting - 100 Years](https://www.youtube.com/results?search_query=Five+for+Fighting+100+Years)
 - [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
 - [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
 - [Jason Mraz - I'm Yours](https://www.youtube.com/results?search_query=Jason+Mraz+I'm+Yours)
@@ -183,18 +186,22 @@ Generated on: 10/20/2015, 8:42:08 AM
 - [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
 - [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
 - [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
+- [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
 - [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
-- [Stereopony - Tsukiakari no Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+no+Michishirube)
 - [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
 - [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
+- [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
 - [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
+- [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
 
 ##### K-POP
 - [iM feat. Narcia - By my 1004](https://www.youtube.com/results?search_query=iM+feat+Narcia+By+my+1004)
 
 ##### MAINSTREAM
 - [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
+- [Ashley Tisdale - Last Christmas](https://www.youtube.com/results?search_query=Ashley+Tisdale+Last+Christmas)
 - [Cady Groves - This Little Girl](https://www.youtube.com/results?search_query=Cady+Groves+This+Little+Girl)
+- [Hilary Duff - Wake Up](https://www.youtube.com/results?search_query=Hilary+Duff+Wake+Up)
 - [Ina - Suddenly](https://www.youtube.com/results?search_query=Ina+Suddenly)
 - [Katy Perry - ET](https://www.youtube.com/results?search_query=Katy+Perry+ET)
 - [Katy Perry - Firework](https://www.youtube.com/results?search_query=Katy+Perry+Firework)
@@ -203,16 +210,21 @@ Generated on: 10/20/2015, 8:42:08 AM
 - [Katy Perry - The One That Got Away](https://www.youtube.com/results?search_query=Katy+Perry+The+One+That+Got+Away)
 - [Kelly Clarkson - Breakaway](https://www.youtube.com/results?search_query=Kelly+Clarkson+Breakaway)
 - [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
+- [Lady Gaga - Alejandro](https://www.youtube.com/results?search_query=Lady+Gaga+Alejandro)
+- [Lady Gaga - Bad Romance](https://www.youtube.com/results?search_query=Lady+Gaga+Bad+Romance)
+- [Lady Gaga - Telephone](https://www.youtube.com/results?search_query=Lady+Gaga+Telephone)
+- [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
 - [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
+- [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
 - [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
 - [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
-- [Taylor Swift - We Are Never Ever Getting Back Together](https://www.youtube.com/results?search_query=Taylor+Swift+We+Are+Never+Ever+Getting+Back+Together)
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
 - [Taylor Swift - You Belong With Me](https://www.youtube.com/results?search_query=Taylor+Swift+You+Belong+With+Me)
 
 ##### ROCK
 - [Adam Lambert - Runnin'](https://www.youtube.com/results?search_query=Adam+Lambert+Runnin')
+- [Alestorm ft. Lady Gaga - Magnetic Telephone](https://www.youtube.com/results?search_query=Alestorm+ft+Lady+Gaga+Magnetic+Telephone)
 - [Avril Lavigne - Sk8ter Boi](https://www.youtube.com/results?search_query=Avril+Lavigne+Sk8ter+Boi)
 - [Bowling For Soup - 1985](https://www.youtube.com/results?search_query=Bowling+For+Soup+1985)
 - [Bowling For Soup - Girl All The Bad Guys Want](https://www.youtube.com/results?search_query=Bowling+For+Soup+Girl+All+The+Bad+Guys+Want)
@@ -247,7 +259,6 @@ Generated on: 10/20/2015, 8:42:08 AM
 - [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
 - [K'naan - Wavin' Flag](https://www.youtube.com/results?search_query=K'naan+Wavin'+Flag)
 - [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
-- [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
 
 
 ## ROCK
@@ -312,6 +323,7 @@ Generated on: 10/20/2015, 8:42:08 AM
 - [Hatsune Miku - Glow](https://www.youtube.com/results?search_query=Hatsune+Miku+Glow)
 - [Hatsune Miku - Love is War](https://www.youtube.com/results?search_query=Hatsune+Miku+Love+is+War)
 - [Hatsune Miku - Melt](https://www.youtube.com/results?search_query=Hatsune+Miku+Melt)
+- [Hatsune Miku - Once Upon A Me](https://www.youtube.com/results?search_query=Hatsune+Miku+Once+Upon+A+Me)
 - [Hatsune Miku - Packaged](https://www.youtube.com/results?search_query=Hatsune+Miku+Packaged)
 - [Hatsune Miku - Saihate](https://www.youtube.com/results?search_query=Hatsune+Miku+Saihate)
 - [Hatsune Miku - Senbonzakura](https://www.youtube.com/results?search_query=Hatsune+Miku+Senbonzakura)
