@@ -4,7 +4,7 @@
  * Description:
  * This scripts alphabetically sorts the songs in 'genre/'
  * and generates the files: 'music.txt' and 'README.md'.
- * All operations occur asynchronously with callbacks and observers.
+ * All IO disk operations occur asynchronously.
  */
 'use strict';
 

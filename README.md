@@ -1,12 +1,12 @@
 # music
 
-Generated on: 10/24/2015, 11:07:54 AM
+Generated on: 10/25/2015, 11:05:50 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
 - [EDM](https://github.com/codenameyau/music#edm) (59)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (15)
-- [POP](https://github.com/codenameyau/music#pop) (99)
-- [RNB](https://github.com/codenameyau/music#rnb) (12)
+- [POP](https://github.com/codenameyau/music#pop) (101)
+- [RNB](https://github.com/codenameyau/music#rnb) (11)
 - [ROCK](https://github.com/codenameyau/music#rock) (28)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (21)
 
@@ -209,18 +209,22 @@ Generated on: 10/24/2015, 11:07:54 AM
 - [Katy Perry - Teenage Dream](https://www.youtube.com/results?search_query=Katy+Perry+Teenage+Dream)
 - [Katy Perry - The One That Got Away](https://www.youtube.com/results?search_query=Katy+Perry+The+One+That+Got+Away)
 - [Kelly Clarkson - Breakaway](https://www.youtube.com/results?search_query=Kelly+Clarkson+Breakaway)
-- [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
 - [Lady Gaga - Alejandro](https://www.youtube.com/results?search_query=Lady+Gaga+Alejandro)
 - [Lady Gaga - Bad Romance](https://www.youtube.com/results?search_query=Lady+Gaga+Bad+Romance)
 - [Lady Gaga - Telephone](https://www.youtube.com/results?search_query=Lady+Gaga+Telephone)
 - [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
 - [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
-- [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
 - [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
 - [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
 - [Taylor Swift - You Belong With Me](https://www.youtube.com/results?search_query=Taylor+Swift+You+Belong+With+Me)
+
+##### POWER
+- [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
+- [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
+- [Rachel Platten - Fight Song](https://www.youtube.com/results?search_query=Rachel+Platten+Fight+Song)
+- [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
 
 ##### ROCK
 - [Adam Lambert - Runnin'](https://www.youtube.com/results?search_query=Adam+Lambert+Runnin')
@@ -258,7 +262,6 @@ Generated on: 10/24/2015, 11:07:54 AM
 ##### SOUL
 - [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
 - [K'naan - Wavin' Flag](https://www.youtube.com/results?search_query=K'naan+Wavin'+Flag)
-- [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
 
 
 ## ROCK
