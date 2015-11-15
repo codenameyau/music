@@ -1,11 +1,11 @@
 # music
 
-Generated on: 10/25/2015, 11:05:50 PM
+Generated on: 11/14/2015, 8:42:09 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
-- [EDM](https://github.com/codenameyau/music#edm) (59)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (15)
-- [POP](https://github.com/codenameyau/music#pop) (101)
+- [EDM](https://github.com/codenameyau/music#edm) (60)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (17)
+- [POP](https://github.com/codenameyau/music#pop) (103)
 - [RNB](https://github.com/codenameyau/music#rnb) (11)
 - [ROCK](https://github.com/codenameyau/music#rock) (28)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (21)
@@ -28,6 +28,7 @@ Generated on: 10/25/2015, 11:05:50 PM
 
 ##### DEEP-HOUSE
 - [Anna Graceman - Words (Glastrophobie Remix)](https://www.youtube.com/results?search_query=Anna+Graceman+Words+Glastrophobie+Remix)
+- [Anna Graceman - Words (Jacoo Remix)](https://www.youtube.com/results?search_query=Anna+Graceman+Words+Jacoo+Remix)
 - [Anna Graceman - Words (Lulleaux Remix)](https://www.youtube.com/results?search_query=Anna+Graceman+Words+Lulleaux+Remix)
 - [Gostan - Klanga](https://www.youtube.com/results?search_query=Gostan+Klanga)
 - [Gostan - Klanga (Henri Pfr Remix)](https://www.youtube.com/results?search_query=Gostan+Klanga+Henri+Pfr+Remix)
@@ -107,6 +108,10 @@ Generated on: 10/25/2015, 11:05:50 PM
 ##### HOUSE
 - [Alex Schulz - Summer Night](https://www.youtube.com/results?search_query=Alex+Schulz+Summer+Night)
 
+##### LIQUID
+- [Jacoo - Breathe](https://www.youtube.com/results?search_query=Jacoo+Breathe)
+- [Jacoo - Reincarnation](https://www.youtube.com/results?search_query=Jacoo+Reincarnation)
+
 ##### PIANO
 - [Brian Crain - Butterfly Waltz](https://www.youtube.com/results?search_query=Brian+Crain+Butterfly+Waltz)
 - [Dai - You](https://www.youtube.com/results?search_query=Dai+You)
@@ -148,6 +153,7 @@ Generated on: 10/25/2015, 11:05:50 PM
 - [Boyce Avenue - A Thousand Miles](https://www.youtube.com/results?search_query=Boyce+Avenue+A+Thousand+Miles)
 - [Glee - Friday](https://www.youtube.com/results?search_query=Glee+Friday)
 - [Jasmine Thompson - All of Me](https://www.youtube.com/results?search_query=Jasmine+Thompson+All+of+Me)
+- [Justin Bryte - One Last Time](https://www.youtube.com/results?search_query=Justin+Bryte+One+Last+Time)
 - [Megan Nicole & Dave Days - Payphone](https://www.youtube.com/results?search_query=Megan+Nicole+%26+Dave+Days+Payphone)
 
 ##### ELECTRONIC
@@ -219,6 +225,7 @@ Generated on: 10/25/2015, 11:05:50 PM
 - [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
 - [Taylor Swift - You Belong With Me](https://www.youtube.com/results?search_query=Taylor+Swift+You+Belong+With+Me)
+- [Zack Knight - Be Somebody](https://www.youtube.com/results?search_query=Zack+Knight+Be+Somebody)
 
 ##### POWER
 - [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
