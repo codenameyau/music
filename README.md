@@ -1,11 +1,11 @@
 # music
 
-Generated on: 11/14/2015, 8:42:09 PM
+Generated on: 11/17/2015, 8:32:32 AM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
 - [EDM](https://github.com/codenameyau/music#edm) (60)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (17)
-- [POP](https://github.com/codenameyau/music#pop) (103)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (18)
+- [POP](https://github.com/codenameyau/music#pop) (104)
 - [RNB](https://github.com/codenameyau/music#rnb) (11)
 - [ROCK](https://github.com/codenameyau/music#rock) (28)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (21)
@@ -105,6 +105,9 @@ Generated on: 11/14/2015, 8:42:09 PM
 - [The Album Leaf - Story Board](https://www.youtube.com/results?search_query=The+Album+Leaf+Story+Board)
 - [The Album Leaf - Streamside](https://www.youtube.com/results?search_query=The+Album+Leaf+Streamside)
 
+##### CHILL
+- [Said The Sky feat. Car - Run Away](https://www.youtube.com/results?search_query=Said+The+Sky+feat+Car+Run+Away)
+
 ##### HOUSE
 - [Alex Schulz - Summer Night](https://www.youtube.com/results?search_query=Alex+Schulz+Summer+Night)
 
@@ -178,6 +181,7 @@ Generated on: 11/14/2015, 8:42:09 PM
 ##### INDIE
 - [American Authors - Best Day of My Life](https://www.youtube.com/results?search_query=American+Authors+Best+Day+of+My+Life)
 - [American Authors - Oh, What A Life](https://www.youtube.com/results?search_query=American+Authors+Oh+What+A+Life)
+- [Echosmith - Cool Kids](https://www.youtube.com/results?search_query=Echosmith+Cool+Kids)
 - [Lauren Aquilina - Sinners](https://www.youtube.com/results?search_query=Lauren+Aquilina+Sinners)
 - [Phoebe Ryan - Mine](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine)
 - [Stars - Dead Hearts](https://www.youtube.com/results?search_query=Stars+Dead+Hearts)
