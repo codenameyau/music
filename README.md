@@ -1,11 +1,11 @@
 # music
 
-Generated on: 11/17/2015, 8:32:32 AM
+Generated on: 11/26/2015, 7:16:43 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
-- [EDM](https://github.com/codenameyau/music#edm) (60)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (18)
-- [POP](https://github.com/codenameyau/music#pop) (104)
+- [EDM](https://github.com/codenameyau/music#edm) (61)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (20)
+- [POP](https://github.com/codenameyau/music#pop) (106)
 - [RNB](https://github.com/codenameyau/music#rnb) (11)
 - [ROCK](https://github.com/codenameyau/music#rock) (28)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (21)
@@ -81,6 +81,7 @@ Generated on: 11/17/2015, 8:32:32 AM
 - [Matisyahu - Live Like A Warrior (Richello Remix)](https://www.youtube.com/results?search_query=Matisyahu+Live+Like+A+Warrior+Richello+Remix)
 - [Project 46 - Feel the Fire](https://www.youtube.com/results?search_query=Project+46+Feel+the+Fire)
 - [Swedish House Mafia feat. John Martin - Don't You Worry Child](https://www.youtube.com/results?search_query=Swedish+House+Mafia+feat+John+Martin+Don't+You+Worry+Child)
+- [Tiesto - Red Lights](https://www.youtube.com/results?search_query=Tiesto+Red+Lights)
 - [Tiesto feat. Georgi Kay - In My Mind](https://www.youtube.com/results?search_query=Tiesto+feat+Georgi+Kay+In+My+Mind)
 - [Tom Swoon - Otherside](https://www.youtube.com/results?search_query=Tom+Swoon+Otherside)
 - [Tove Lo - Talking Body](https://www.youtube.com/results?search_query=Tove+Lo+Talking+Body)
@@ -105,15 +106,15 @@ Generated on: 11/17/2015, 8:32:32 AM
 - [The Album Leaf - Story Board](https://www.youtube.com/results?search_query=The+Album+Leaf+Story+Board)
 - [The Album Leaf - Streamside](https://www.youtube.com/results?search_query=The+Album+Leaf+Streamside)
 
-##### CHILL
+##### ELECTRONIC
+- [Jacoo - Breathe](https://www.youtube.com/results?search_query=Jacoo+Breathe)
+- [Jacoo - Reincarnation](https://www.youtube.com/results?search_query=Jacoo+Reincarnation)
+- [Kozoro - Something More](https://www.youtube.com/results?search_query=Kozoro+Something+More)
 - [Said The Sky feat. Car - Run Away](https://www.youtube.com/results?search_query=Said+The+Sky+feat+Car+Run+Away)
 
 ##### HOUSE
+- [Alan Walker - Fade](https://www.youtube.com/results?search_query=Alan+Walker+Fade)
 - [Alex Schulz - Summer Night](https://www.youtube.com/results?search_query=Alex+Schulz+Summer+Night)
-
-##### LIQUID
-- [Jacoo - Breathe](https://www.youtube.com/results?search_query=Jacoo+Breathe)
-- [Jacoo - Reincarnation](https://www.youtube.com/results?search_query=Jacoo+Reincarnation)
 
 ##### PIANO
 - [Brian Crain - Butterfly Waltz](https://www.youtube.com/results?search_query=Brian+Crain+Butterfly+Waltz)
@@ -150,6 +151,7 @@ Generated on: 11/17/2015, 8:32:32 AM
 - [Richard Marx - Right Here Waiting For You](https://www.youtube.com/results?search_query=Richard+Marx+Right+Here+Waiting+For+You)
 - [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
 - [Selena - Dreaming Of You](https://www.youtube.com/results?search_query=Selena+Dreaming+Of+You)
+- [Tyler Ward - The Hardest Thing](https://www.youtube.com/results?search_query=Tyler+Ward+The+Hardest+Thing)
 
 ##### COVERS
 - [Alex Goot & Kurt Schneider & Chrissy Costanza - Counting Stars](https://www.youtube.com/results?search_query=Alex+Goot+%26+Kurt+Schneider+%26+Chrissy+Costanza+Counting+Stars)
@@ -182,6 +184,7 @@ Generated on: 11/17/2015, 8:32:32 AM
 - [American Authors - Best Day of My Life](https://www.youtube.com/results?search_query=American+Authors+Best+Day+of+My+Life)
 - [American Authors - Oh, What A Life](https://www.youtube.com/results?search_query=American+Authors+Oh+What+A+Life)
 - [Echosmith - Cool Kids](https://www.youtube.com/results?search_query=Echosmith+Cool+Kids)
+- [Echosmith - Cool Kids (RAC Mix)](https://www.youtube.com/results?search_query=Echosmith+Cool+Kids+RAC+Mix)
 - [Lauren Aquilina - Sinners](https://www.youtube.com/results?search_query=Lauren+Aquilina+Sinners)
 - [Phoebe Ryan - Mine](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine)
 - [Stars - Dead Hearts](https://www.youtube.com/results?search_query=Stars+Dead+Hearts)
