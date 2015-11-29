@@ -1,11 +1,11 @@
 # music
 
-Generated on: 11/26/2015, 7:16:43 PM
+Generated on: 11/28/2015, 9:00:15 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
-- [EDM](https://github.com/codenameyau/music#edm) (61)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (20)
-- [POP](https://github.com/codenameyau/music#pop) (106)
+- [EDM](https://github.com/codenameyau/music#edm) (63)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (21)
+- [POP](https://github.com/codenameyau/music#pop) (107)
 - [RNB](https://github.com/codenameyau/music#rnb) (11)
 - [ROCK](https://github.com/codenameyau/music#rock) (28)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (21)
@@ -93,7 +93,9 @@ Generated on: 11/26/2015, 7:16:43 PM
 
 ##### REMIX
 - [Ariana Grande - One Last Time (Henry Land Remix)](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time+Henry+Land+Remix)
+- [Christine and the Queens - Christine (Paradis Remix)](https://www.youtube.com/results?search_query=Christine+and+the+Queens+Christine+Paradis+Remix)
 - [Ellie Goulding - Love Me Like You Do (Airia Remix)](https://www.youtube.com/results?search_query=Ellie+Goulding+Love+Me+Like+You+Do+Airia+Remix)
+- [Giorgio Moroder feat. Britney Spears - Tom's Diner (Hibell Remix)](https://www.youtube.com/results?search_query=Giorgio+Moroder+feat+Britney+Spears+Tom's+Diner+Hibell+Remix)
 - [John Legend - All of Me (Tiesto Remix)](https://www.youtube.com/results?search_query=John+Legend+All+of+Me+Tiesto+Remix)
 - [Phoebe Ryan - Mine (Illenium Remix)](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine+Illenium+Remix)
 
@@ -114,6 +116,7 @@ Generated on: 11/26/2015, 7:16:43 PM
 
 ##### HOUSE
 - [Alan Walker - Fade](https://www.youtube.com/results?search_query=Alan+Walker+Fade)
+- [Alan Walker - Spectre](https://www.youtube.com/results?search_query=Alan+Walker+Spectre)
 - [Alex Schulz - Summer Night](https://www.youtube.com/results?search_query=Alex+Schulz+Summer+Night)
 
 ##### PIANO
@@ -151,6 +154,7 @@ Generated on: 11/26/2015, 7:16:43 PM
 - [Richard Marx - Right Here Waiting For You](https://www.youtube.com/results?search_query=Richard+Marx+Right+Here+Waiting+For+You)
 - [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
 - [Selena - Dreaming Of You](https://www.youtube.com/results?search_query=Selena+Dreaming+Of+You)
+- [Susan Vega - Tom's diner](https://www.youtube.com/results?search_query=Susan+Vega+Tom's+diner)
 - [Tyler Ward - The Hardest Thing](https://www.youtube.com/results?search_query=Tyler+Ward+The+Hardest+Thing)
 
 ##### COVERS
