@@ -1,11 +1,11 @@
 # music
 
-Generated on: 11/28/2015, 9:00:15 PM
+Generated on: 12/1/2015, 8:30:27 AM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
 - [EDM](https://github.com/codenameyau/music#edm) (63)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (21)
-- [POP](https://github.com/codenameyau/music#pop) (107)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (22)
+- [POP](https://github.com/codenameyau/music#pop) (108)
 - [RNB](https://github.com/codenameyau/music#rnb) (11)
 - [ROCK](https://github.com/codenameyau/music#rock) (28)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (21)
@@ -111,6 +111,7 @@ Generated on: 11/28/2015, 9:00:15 PM
 ##### ELECTRONIC
 - [Jacoo - Breathe](https://www.youtube.com/results?search_query=Jacoo+Breathe)
 - [Jacoo - Reincarnation](https://www.youtube.com/results?search_query=Jacoo+Reincarnation)
+- [Kozoro & Evence - Dreaming](https://www.youtube.com/results?search_query=Kozoro+%26+Evence+Dreaming)
 - [Kozoro - Something More](https://www.youtube.com/results?search_query=Kozoro+Something+More)
 - [Said The Sky feat. Car - Run Away](https://www.youtube.com/results?search_query=Said+The+Sky+feat+Car+Run+Away)
 
@@ -166,6 +167,7 @@ Generated on: 11/28/2015, 9:00:15 PM
 - [Megan Nicole & Dave Days - Payphone](https://www.youtube.com/results?search_query=Megan+Nicole+%26+Dave+Days+Payphone)
 
 ##### ELECTRONIC
+- [CHVRCHES - Clearest Blue](https://www.youtube.com/results?search_query=CHVRCHES+Clearest+Blue)
 - [Ellie Goulding - Burn](https://www.youtube.com/results?search_query=Ellie+Goulding+Burn)
 - [Ellie Goulding - Lights](https://www.youtube.com/results?search_query=Ellie+Goulding+Lights)
 - [Ellie Goulding - Love Me Like You Do](https://www.youtube.com/results?search_query=Ellie+Goulding+Love+Me+Like+You+Do)
@@ -236,13 +238,13 @@ Generated on: 11/28/2015, 9:00:15 PM
 - [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
 - [Taylor Swift - You Belong With Me](https://www.youtube.com/results?search_query=Taylor+Swift+You+Belong+With+Me)
-- [Zack Knight - Be Somebody](https://www.youtube.com/results?search_query=Zack+Knight+Be+Somebody)
 
 ##### POWER
 - [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
 - [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
 - [Rachel Platten - Fight Song](https://www.youtube.com/results?search_query=Rachel+Platten+Fight+Song)
 - [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
+- [Zack Knight - Be Somebody](https://www.youtube.com/results?search_query=Zack+Knight+Be+Somebody)
 
 ##### ROCK
 - [Adam Lambert - Runnin'](https://www.youtube.com/results?search_query=Adam+Lambert+Runnin')
