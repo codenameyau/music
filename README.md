@@ -1,10 +1,10 @@
 # music
 
-Generated on: 12/1/2015, 8:30:27 AM
+Generated on: 12/5/2015, 7:43:10 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
-- [EDM](https://github.com/codenameyau/music#edm) (63)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (22)
+- [EDM](https://github.com/codenameyau/music#edm) (64)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (23)
 - [POP](https://github.com/codenameyau/music#pop) (108)
 - [RNB](https://github.com/codenameyau/music#rnb) (11)
 - [ROCK](https://github.com/codenameyau/music#rock) (28)
@@ -76,6 +76,7 @@ Generated on: 12/1/2015, 8:30:27 AM
 - [Kaskade & Project 46 - Last Chance](https://www.youtube.com/results?search_query=Kaskade+%26+Project+46+Last+Chance)
 - [Krewella - Alive](https://www.youtube.com/results?search_query=Krewella+Alive)
 - [Krewella - Alive (Teqq Remix)](https://www.youtube.com/results?search_query=Krewella+Alive+Teqq+Remix)
+- [Krewella - Enjoy the Ride](https://www.youtube.com/results?search_query=Krewella+Enjoy+the+Ride)
 - [Krewella - Live For The Night](https://www.youtube.com/results?search_query=Krewella+Live+For+The+Night)
 - [Mako - Our Story](https://www.youtube.com/results?search_query=Mako+Our+Story)
 - [Matisyahu - Live Like A Warrior (Richello Remix)](https://www.youtube.com/results?search_query=Matisyahu+Live+Like+A+Warrior+Richello+Remix)
@@ -111,6 +112,7 @@ Generated on: 12/1/2015, 8:30:27 AM
 ##### ELECTRONIC
 - [Jacoo - Breathe](https://www.youtube.com/results?search_query=Jacoo+Breathe)
 - [Jacoo - Reincarnation](https://www.youtube.com/results?search_query=Jacoo+Reincarnation)
+- [Kontinuum - First Rain](https://www.youtube.com/results?search_query=Kontinuum+First+Rain)
 - [Kozoro & Evence - Dreaming](https://www.youtube.com/results?search_query=Kozoro+%26+Evence+Dreaming)
 - [Kozoro - Something More](https://www.youtube.com/results?search_query=Kozoro+Something+More)
 - [Said The Sky feat. Car - Run Away](https://www.youtube.com/results?search_query=Said+The+Sky+feat+Car+Run+Away)
