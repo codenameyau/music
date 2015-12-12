@@ -1,12 +1,12 @@
 # music
 
-Generated on: 12/5/2015, 7:43:10 PM
+Generated on: 12/12/2015, 10:07:19 AM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
 - [EDM](https://github.com/codenameyau/music#edm) (64)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (23)
-- [POP](https://github.com/codenameyau/music#pop) (108)
-- [RNB](https://github.com/codenameyau/music#rnb) (11)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (27)
+- [POP](https://github.com/codenameyau/music#pop) (109)
+- [RNB](https://github.com/codenameyau/music#rnb) (12)
 - [ROCK](https://github.com/codenameyau/music#rock) (28)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (21)
 
@@ -116,6 +116,12 @@ Generated on: 12/5/2015, 7:43:10 PM
 - [Kozoro & Evence - Dreaming](https://www.youtube.com/results?search_query=Kozoro+%26+Evence+Dreaming)
 - [Kozoro - Something More](https://www.youtube.com/results?search_query=Kozoro+Something+More)
 - [Said The Sky feat. Car - Run Away](https://www.youtube.com/results?search_query=Said+The+Sky+feat+Car+Run+Away)
+
+##### EPIC
+- [Hans Zimmer - No Time For Caution](https://www.youtube.com/results?search_query=Hans+Zimmer+No+Time+For+Caution)
+- [John Powell - Forbidden Friendship](https://www.youtube.com/results?search_query=John+Powell+Forbidden+Friendship)
+- [John Powell - Test Drive](https://www.youtube.com/results?search_query=John+Powell+Test+Drive)
+- [Steve Jablonsky - Battle](https://www.youtube.com/results?search_query=Steve+Jablonsky+Battle)
 
 ##### HOUSE
 - [Alan Walker - Fade](https://www.youtube.com/results?search_query=Alan+Walker+Fade)
@@ -234,6 +240,7 @@ Generated on: 12/5/2015, 7:43:10 PM
 - [Lady Gaga - Bad Romance](https://www.youtube.com/results?search_query=Lady+Gaga+Bad+Romance)
 - [Lady Gaga - Telephone](https://www.youtube.com/results?search_query=Lady+Gaga+Telephone)
 - [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
+- [One Direction - Perfect](https://www.youtube.com/results?search_query=One+Direction+Perfect)
 - [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
 - [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
@@ -276,6 +283,7 @@ Generated on: 12/5/2015, 7:43:10 PM
 - [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
 - [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
 - [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
+- [Justin Bieber - Love Yourself](https://www.youtube.com/results?search_query=Justin+Bieber+Love+Yourself)
 - [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
 - [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
 - [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
