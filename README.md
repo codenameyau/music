@@ -1,10 +1,10 @@
 # music
 
-Generated on: 12/12/2015, 10:07:19 AM
+Generated on: 12/12/2015, 9:39:38 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
 - [EDM](https://github.com/codenameyau/music#edm) (64)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (27)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (32)
 - [POP](https://github.com/codenameyau/music#pop) (109)
 - [RNB](https://github.com/codenameyau/music#rnb) (12)
 - [ROCK](https://github.com/codenameyau/music#rock) (28)
@@ -117,12 +117,6 @@ Generated on: 12/12/2015, 10:07:19 AM
 - [Kozoro - Something More](https://www.youtube.com/results?search_query=Kozoro+Something+More)
 - [Said The Sky feat. Car - Run Away](https://www.youtube.com/results?search_query=Said+The+Sky+feat+Car+Run+Away)
 
-##### EPIC
-- [Hans Zimmer - No Time For Caution](https://www.youtube.com/results?search_query=Hans+Zimmer+No+Time+For+Caution)
-- [John Powell - Forbidden Friendship](https://www.youtube.com/results?search_query=John+Powell+Forbidden+Friendship)
-- [John Powell - Test Drive](https://www.youtube.com/results?search_query=John+Powell+Test+Drive)
-- [Steve Jablonsky - Battle](https://www.youtube.com/results?search_query=Steve+Jablonsky+Battle)
-
 ##### HOUSE
 - [Alan Walker - Fade](https://www.youtube.com/results?search_query=Alan+Walker+Fade)
 - [Alan Walker - Spectre](https://www.youtube.com/results?search_query=Alan+Walker+Spectre)
@@ -141,6 +135,17 @@ Generated on: 12/12/2015, 10:07:19 AM
 ##### POST-ROCK
 - [Lights & Motion - Reanimation](https://www.youtube.com/results?search_query=Lights+%26+Motion+Reanimation)
 - [Your Hand in Mine - Explosions in the Sky](https://www.youtube.com/results?search_query=Your+Hand+in+Mine+Explosions+in+the+Sky)
+
+##### SOUNDTRACK
+- [A.R. Rahman feat. Suzanne - Latika's Theme](https://www.youtube.com/results?search_query=AR+Rahman+feat+Suzanne+Latika's+Theme)
+- [Frode Fjellheim feat. Cantus - Vuelie](https://www.youtube.com/results?search_query=Frode+Fjellheim+feat+Cantus+Vuelie)
+- [Frode Fjellheim feat. Cantus - Vuelie (Saint Virtue Bootleg)](https://www.youtube.com/results?search_query=Frode+Fjellheim+feat+Cantus+Vuelie+Saint+Virtue+Bootleg)
+- [Hans Zimmer - No Time For Caution](https://www.youtube.com/results?search_query=Hans+Zimmer+No+Time+For+Caution)
+- [John Powell - Forbidden Friendship](https://www.youtube.com/results?search_query=John+Powell+Forbidden+Friendship)
+- [John Powell - Test Drive](https://www.youtube.com/results?search_query=John+Powell+Test+Drive)
+- [Steve Jablonsky - Battle](https://www.youtube.com/results?search_query=Steve+Jablonsky+Battle)
+- [Two Steps From Hell - Heart of Courage](https://www.youtube.com/results?search_query=Two+Steps+From+Hell+Heart+of+Courage)
+- [Veigar Margeirsson - Revelations](https://www.youtube.com/results?search_query=Veigar+Margeirsson+Revelations)
 
 
 ## POP
