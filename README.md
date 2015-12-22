@@ -1,13 +1,13 @@
 # music
 
-Generated on: 12/12/2015, 9:39:38 PM
+Generated on: 12/21/2015, 9:01:40 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
 - [EDM](https://github.com/codenameyau/music#edm) (64)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (32)
-- [POP](https://github.com/codenameyau/music#pop) (109)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (33)
+- [POP](https://github.com/codenameyau/music#pop) (110)
 - [RNB](https://github.com/codenameyau/music#rnb) (12)
-- [ROCK](https://github.com/codenameyau/music#rock) (28)
+- [ROCK](https://github.com/codenameyau/music#rock) (29)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (21)
 
 --
@@ -147,6 +147,9 @@ Generated on: 12/12/2015, 9:39:38 PM
 - [Two Steps From Hell - Heart of Courage](https://www.youtube.com/results?search_query=Two+Steps+From+Hell+Heart+of+Courage)
 - [Veigar Margeirsson - Revelations](https://www.youtube.com/results?search_query=Veigar+Margeirsson+Revelations)
 
+##### VIOLIN
+- [J.B. Lully - Gavotte](https://www.youtube.com/results?search_query=JB+Lully+Gavotte)
+
 
 ## POP
 
@@ -256,6 +259,7 @@ Generated on: 12/12/2015, 9:39:38 PM
 ##### POWER
 - [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
 - [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
+- [Nikki Yanofsky - I Believe](https://www.youtube.com/results?search_query=Nikki+Yanofsky+I+Believe)
 - [Rachel Platten - Fight Song](https://www.youtube.com/results?search_query=Rachel+Platten+Fight+Song)
 - [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
 - [Zack Knight - Be Somebody](https://www.youtube.com/results?search_query=Zack+Knight+Be+Somebody)
@@ -318,6 +322,7 @@ Generated on: 12/12/2015, 9:39:38 PM
 - [Green Day - Boulevard of Broken Dreams](https://www.youtube.com/results?search_query=Green+Day+Boulevard+of+Broken+Dreams)
 - [Hinder - Lips Of An Angel](https://www.youtube.com/results?search_query=Hinder+Lips+Of+An+Angel)
 - [Lifehouse - Hanging By A Moment](https://www.youtube.com/results?search_query=Lifehouse+Hanging+By+A+Moment)
+- [Mat Kearney - Sooner or Later](https://www.youtube.com/results?search_query=Mat+Kearney+Sooner+or+Later)
 - [Mayday Parade - Anywhere But Here](https://www.youtube.com/results?search_query=Mayday+Parade+Anywhere+But+Here)
 - [Nickelback - Far Away](https://www.youtube.com/results?search_query=Nickelback+Far+Away)
 - [Nickelback - How You Remind Me](https://www.youtube.com/results?search_query=Nickelback+How+You+Remind+Me)
