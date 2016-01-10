@@ -1,14 +1,15 @@
 # music
 
-Generated on: 12/21/2015, 9:01:40 PM
+Generated on: 1/10/2016, 2:49:42 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
+- [ASIAN](https://github.com/codenameyau/music#asian) (20)
 - [EDM](https://github.com/codenameyau/music#edm) (64)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (33)
-- [POP](https://github.com/codenameyau/music#pop) (110)
+- [POP](https://github.com/codenameyau/music#pop) (97)
 - [RNB](https://github.com/codenameyau/music#rnb) (12)
-- [ROCK](https://github.com/codenameyau/music#rock) (29)
-- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (21)
+- [ROCK](https://github.com/codenameyau/music#rock) (24)
+- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
 --
 
@@ -22,6 +23,37 @@ Generated on: 12/21/2015, 9:01:40 PM
 - [Anna Graceman - Words (Acoustic Version)](https://www.youtube.com/results?search_query=Anna+Graceman+Words+Acoustic+Version)
 - [Krewella - Alive (Acoustic Version)](https://www.youtube.com/results?search_query=Krewella+Alive+Acoustic+Version)
 - [Relient K - Who I Am Hates Who I've Been (Acoustic Version)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic+Version)
+
+
+## ASIAN
+
+##### C-POP
+- [Dear Jane - Never Be Alone](https://www.youtube.com/results?search_query=Dear+Jane+Never+Be+Alone)
+- [Gary Cao & Genie Zhuo - Liang San Bo Yu Zhu Li Ye](https://www.youtube.com/results?search_query=Gary+Cao+%26+Genie+Zhuo+Liang+San+Bo+Yu+Zhu+Li+Ye)
+
+##### J-POP
+- [Day After Tomorrow - Soshite Boku Ni Dekiru Koto](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Soshite+Boku+Ni+Dekiru+Koto)
+- [Day After Tomorrow - Starry Heavens](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Starry+Heavens)
+- [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
+- [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
+- [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
+- [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
+- [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
+- [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
+- [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
+- [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
+- [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
+- [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
+
+##### J-ROCK
+- [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
+- [SNoW - Sakasama No Chou](https://www.youtube.com/results?search_query=SNoW+Sakasama+No+Chou)
+- [Stereopony - Hitohira No Hanabira](https://www.youtube.com/results?search_query=Stereopony+Hitohira+No+Hanabira)
+- [Stereopony - Tsukiakari No Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+No+Michishirube)
+- [Yanagi Nagi - Rudbeckia](https://www.youtube.com/results?search_query=Yanagi+Nagi+Rudbeckia)
+
+##### K-POP
+- [iM feat. Narcia - By my 1004](https://www.youtube.com/results?search_query=iM+feat+Narcia+By+my+1004)
 
 
 ## EDM
@@ -215,23 +247,6 @@ Generated on: 12/21/2015, 9:01:40 PM
 - [The Naked and Famous - Young Blood](https://www.youtube.com/results?search_query=The+Naked+and+Famous+Young+Blood)
 - [The Royal Concept - On Our Way](https://www.youtube.com/results?search_query=The+Royal+Concept+On+Our+Way)
 
-##### J-POP
-- [Day After Tomorrow - Soshite Boku Ni Dekiru Koto](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Soshite+Boku+Ni+Dekiru+Koto)
-- [Day After Tomorrow - Starry Heavens](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Starry+Heavens)
-- [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
-- [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
-- [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
-- [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
-- [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
-- [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
-- [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
-- [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
-- [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
-- [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
-
-##### K-POP
-- [iM feat. Narcia - By my 1004](https://www.youtube.com/results?search_query=iM+feat+Narcia+By+my+1004)
-
 ##### MAINSTREAM
 - [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
 - [Ashley Tisdale - Last Christmas](https://www.youtube.com/results?search_query=Ashley+Tisdale+Last+Christmas)
@@ -311,13 +326,6 @@ Generated on: 12/21/2015, 9:01:40 PM
 - [Revive - Blink](https://www.youtube.com/results?search_query=Revive+Blink)
 - [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
 
-##### J-ROCK
-- [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
-- [SNoW - Sakasama No Chou](https://www.youtube.com/results?search_query=SNoW+Sakasama+No+Chou)
-- [Stereopony - Hitohira No Hanabira](https://www.youtube.com/results?search_query=Stereopony+Hitohira+No+Hanabira)
-- [Stereopony - Tsukiakari No Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+No+Michishirube)
-- [Yanagi Nagi - Rudbeckia](https://www.youtube.com/results?search_query=Yanagi+Nagi+Rudbeckia)
-
 ##### MAINSTREAM
 - [Green Day - Boulevard of Broken Dreams](https://www.youtube.com/results?search_query=Green+Day+Boulevard+of+Broken+Dreams)
 - [Hinder - Lips Of An Angel](https://www.youtube.com/results?search_query=Hinder+Lips+Of+An+Angel)
@@ -349,6 +357,7 @@ Generated on: 12/21/2015, 9:01:40 PM
 
 ##### DUET
 - [Hatsune Miku & GUMI - Futariboshi](https://www.youtube.com/results?search_query=Hatsune+Miku+%26+GUMI+Futariboshi)
+- [Kagamine Rin & Len - Gemini](https://www.youtube.com/results?search_query=Kagamine+Rin+%26+Len+Gemini)
 - [Megurine Luka & GUMI - Happy Synthesizer](https://www.youtube.com/results?search_query=Megurine+Luka+%26+GUMI+Happy+Synthesizer)
 - [SF-A2 miki & KAITO - iNSaNiTY](https://www.youtube.com/results?search_query=SFA2+miki+%26+KAITO+iNSaNiTY)
 
