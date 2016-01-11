@@ -1,9 +1,9 @@
 # music
 
-Generated on: 1/10/2016, 2:49:42 PM
+Generated on: 1/11/2016, 9:07:04 AM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
-- [ASIAN](https://github.com/codenameyau/music#asian) (20)
+- [ASIAN](https://github.com/codenameyau/music#asian) (22)
 - [EDM](https://github.com/codenameyau/music#edm) (64)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (33)
 - [POP](https://github.com/codenameyau/music#pop) (97)
@@ -30,8 +30,10 @@ Generated on: 1/10/2016, 2:49:42 PM
 ##### C-POP
 - [Dear Jane - Never Be Alone](https://www.youtube.com/results?search_query=Dear+Jane+Never+Be+Alone)
 - [Gary Cao & Genie Zhuo - Liang San Bo Yu Zhu Li Ye](https://www.youtube.com/results?search_query=Gary+Cao+%26+Genie+Zhuo+Liang+San+Bo+Yu+Zhu+Li+Ye)
+- [Wang Lee Hom - Kiss Goodbye](https://www.youtube.com/results?search_query=Wang+Lee+Hom+Kiss+Goodbye)
 
 ##### J-POP
+- [Aqua Timez - Niji](https://www.youtube.com/results?search_query=Aqua+Timez+Niji)
 - [Day After Tomorrow - Soshite Boku Ni Dekiru Koto](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Soshite+Boku+Ni+Dekiru+Koto)
 - [Day After Tomorrow - Starry Heavens](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Starry+Heavens)
 - [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
