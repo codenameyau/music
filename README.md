@@ -1,9 +1,9 @@
 # music
 
-Generated on: 1/11/2016, 9:07:04 AM
+Generated on: 1/25/2016, 2:11:55 AM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
-- [ASIAN](https://github.com/codenameyau/music#asian) (22)
+- [ASIAN](https://github.com/codenameyau/music#asian) (24)
 - [EDM](https://github.com/codenameyau/music#edm) (64)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (33)
 - [POP](https://github.com/codenameyau/music#pop) (97)
@@ -40,7 +40,7 @@ Generated on: 1/11/2016, 9:07:04 AM
 - [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
 - [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
 - [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
-- [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
+- [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
 - [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
 - [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
 - [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
@@ -48,6 +48,8 @@ Generated on: 1/11/2016, 9:07:04 AM
 - [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
 
 ##### J-ROCK
+- [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
+- [Nakagawa Shoko - Happily Ever After](https://www.youtube.com/results?search_query=Nakagawa+Shoko+Happily+Ever+After)
 - [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
 - [SNoW - Sakasama No Chou](https://www.youtube.com/results?search_query=SNoW+Sakasama+No+Chou)
 - [Stereopony - Hitohira No Hanabira](https://www.youtube.com/results?search_query=Stereopony+Hitohira+No+Hanabira)
