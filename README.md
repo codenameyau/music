@@ -1,14 +1,14 @@
 # music
 
-Generated on: 1/25/2016, 9:44:03 PM
+Generated on: 2/15/2016, 7:19:01 PM
 
-- [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (4)
+- [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (24)
 - [EDM](https://github.com/codenameyau/music#edm) (64)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (35)
 - [POP](https://github.com/codenameyau/music#pop) (97)
-- [RNB](https://github.com/codenameyau/music#rnb) (12)
-- [ROCK](https://github.com/codenameyau/music#rock) (24)
+- [RNB](https://github.com/codenameyau/music#rnb) (13)
+- [ROCK](https://github.com/codenameyau/music#rock) (25)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
 --
@@ -18,6 +18,7 @@ Generated on: 1/25/2016, 9:44:03 PM
 
 ##### CHRISTIAN
 - [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
+- [Luke Sital-Singh - Nothing stays the same](https://www.youtube.com/results?search_query=Luke+SitalSingh+Nothing+stays+the+same)
 
 ##### VERSION
 - [Anna Graceman - Words (Acoustic Version)](https://www.youtube.com/results?search_query=Anna+Graceman+Words+Acoustic+Version)
@@ -317,6 +318,7 @@ Generated on: 1/25/2016, 9:44:03 PM
 - [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
 - [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
 - [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
+- [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)
 - [Shayne Ward - Breathless](https://www.youtube.com/results?search_query=Shayne+Ward+Breathless)
 
 ##### SOUL
@@ -351,6 +353,7 @@ Generated on: 1/25/2016, 9:44:03 PM
 - [Emilie Autumn - Fight Like a Girl](https://www.youtube.com/results?search_query=Emilie+Autumn+Fight+Like+a+Girl)
 - [Icon For Hire - Make a Move](https://www.youtube.com/results?search_query=Icon+For+Hire+Make+a+Move)
 - [The Menzingers - Casey](https://www.youtube.com/results?search_query=The+Menzingers+Casey)
+- [Thirty Seconds to Mars - This is War](https://www.youtube.com/results?search_query=Thirty+Seconds+to+Mars+This+is+War)
 
 ##### RAP
 - [Linkin Park - Breaking The Habit](https://www.youtube.com/results?search_query=Linkin+Park+Breaking+The+Habit)
