@@ -1,10 +1,10 @@
 # music
 
-Generated on: 2/15/2016, 7:19:01 PM
+Generated on: 2/21/2016, 11:27:19 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
-- [ASIAN](https://github.com/codenameyau/music#asian) (24)
-- [EDM](https://github.com/codenameyau/music#edm) (64)
+- [ASIAN](https://github.com/codenameyau/music#asian) (26)
+- [EDM](https://github.com/codenameyau/music#edm) (65)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (35)
 - [POP](https://github.com/codenameyau/music#pop) (97)
 - [RNB](https://github.com/codenameyau/music#rnb) (13)
@@ -42,6 +42,7 @@ Generated on: 2/15/2016, 7:19:01 PM
 - [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
 - [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
 - [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
+- [Rie Tanaka - Fields Of Hope](https://www.youtube.com/results?search_query=Rie+Tanaka+Fields+Of+Hope)
 - [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
 - [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
 - [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
@@ -49,6 +50,7 @@ Generated on: 2/15/2016, 7:19:01 PM
 - [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
 
 ##### J-ROCK
+- [Do As Infinity - Fukai Mori](https://www.youtube.com/results?search_query=Do+As+Infinity+Fukai+Mori)
 - [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
 - [Nakagawa Shoko - Happily Ever After](https://www.youtube.com/results?search_query=Nakagawa+Shoko+Happily+Ever+After)
 - [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
@@ -97,6 +99,7 @@ Generated on: 2/15/2016, 7:19:01 PM
 - [3Lau feat. Bright Lights - How You Love Me](https://www.youtube.com/results?search_query=3Lau+feat+Bright+Lights+How+You+Love+Me)
 - [Afrojack feat. Matthew Koma - Illuminate](https://www.youtube.com/results?search_query=Afrojack+feat+Matthew+Koma+Illuminate)
 - [Afrojack feat. Wrabel - Ten Feet Tall](https://www.youtube.com/results?search_query=Afrojack+feat+Wrabel+Ten+Feet+Tall)
+- [Alesso feat. Tove Lo - Heroes (We Could Be)](https://www.youtube.com/results?search_query=Alesso+feat+Tove+Lo+Heroes+We+Could+Be)
 - [Armin van Buuren feat. Trevor Guthrie - This Is What It Feels Like](https://www.youtube.com/results?search_query=Armin+van+Buuren+feat+Trevor+Guthrie+This+Is+What+It+Feels+Like)
 - [Audien feat. Michael S. - Leaving You](https://www.youtube.com/results?search_query=Audien+feat+Michael+S+Leaving+You)
 - [Audien feat. Ruby Prophet - Circles](https://www.youtube.com/results?search_query=Audien+feat+Ruby+Prophet+Circles)
