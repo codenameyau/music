@@ -1,14 +1,14 @@
 # music
 
-Generated on: 3/21/2016, 11:27:03 PM
+Generated on: 3/21/2016, 11:38:06 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (29)
 - [EDM](https://github.com/codenameyau/music#edm) (61)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (37)
-- [POP](https://github.com/codenameyau/music#pop) (96)
+- [POP](https://github.com/codenameyau/music#pop) (97)
 - [RNB](https://github.com/codenameyau/music#rnb) (15)
-- [ROCK](https://github.com/codenameyau/music#rock) (25)
+- [ROCK](https://github.com/codenameyau/music#rock) (30)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
 --
@@ -273,6 +273,7 @@ Generated on: 3/21/2016, 11:27:03 PM
 - [Lady Gaga - Telephone](https://www.youtube.com/results?search_query=Lady+Gaga+Telephone)
 - [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
 - [One Direction - Night Changes](https://www.youtube.com/results?search_query=One+Direction+Night+Changes)
+- [One Direction - Perfect](https://www.youtube.com/results?search_query=One+Direction+Perfect)
 - [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
 - [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
@@ -338,6 +339,8 @@ Generated on: 3/21/2016, 11:27:03 PM
 - [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
 
 ##### MAINSTREAM
+- [Dashboard Confessional - Vindicated](https://www.youtube.com/results?search_query=Dashboard+Confessional+Vindicated)
+- [Fall Out Boys - Thanks For The Memories](https://www.youtube.com/results?search_query=Fall+Out+Boys+Thanks+For+The+Memories)
 - [Green Day - Boulevard of Broken Dreams](https://www.youtube.com/results?search_query=Green+Day+Boulevard+of+Broken+Dreams)
 - [Hinder - Lips Of An Angel](https://www.youtube.com/results?search_query=Hinder+Lips+Of+An+Angel)
 - [Lifehouse - Hanging By A Moment](https://www.youtube.com/results?search_query=Lifehouse+Hanging+By+A+Moment)
@@ -348,13 +351,16 @@ Generated on: 3/21/2016, 11:27:03 PM
 - [Rascal Flatts - What Hurts The Most](https://www.youtube.com/results?search_query=Rascal+Flatts+What+Hurts+The+Most)
 - [Relient K - Who I Am Hates Who I've Been](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been)
 - [Runner Runner - So Obvious](https://www.youtube.com/results?search_query=Runner+Runner+So+Obvious)
+- [Story of The Year - Until The Day I Die](https://www.youtube.com/results?search_query=Story+of+The+Year+Until+The+Day+I+Die)
 - [The All-American Rejects - Move Along](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Move+Along)
+- [The All-American Rejects - Swing Swing](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Swing+Swing)
 - [The Ataris - Boys of Summer](https://www.youtube.com/results?search_query=The+Ataris+Boys+of+Summer)
 - [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
 
 ##### PUNK
 - [Emilie Autumn - Fight Like a Girl](https://www.youtube.com/results?search_query=Emilie+Autumn+Fight+Like+a+Girl)
 - [Icon For Hire - Make a Move](https://www.youtube.com/results?search_query=Icon+For+Hire+Make+a+Move)
+- [The Killers - Mr. Brightside](https://www.youtube.com/results?search_query=The+Killers+Mr+Brightside)
 - [The Menzingers - Casey](https://www.youtube.com/results?search_query=The+Menzingers+Casey)
 - [Thirty Seconds to Mars - This is War](https://www.youtube.com/results?search_query=Thirty+Seconds+to+Mars+This+is+War)
 
