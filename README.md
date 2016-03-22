@@ -1,13 +1,13 @@
 # music
 
-Generated on: 2/21/2016, 11:27:19 PM
+Generated on: 3/21/2016, 11:27:03 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
-- [ASIAN](https://github.com/codenameyau/music#asian) (26)
-- [EDM](https://github.com/codenameyau/music#edm) (65)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (35)
-- [POP](https://github.com/codenameyau/music#pop) (97)
-- [RNB](https://github.com/codenameyau/music#rnb) (13)
+- [ASIAN](https://github.com/codenameyau/music#asian) (29)
+- [EDM](https://github.com/codenameyau/music#edm) (61)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (37)
+- [POP](https://github.com/codenameyau/music#pop) (96)
+- [RNB](https://github.com/codenameyau/music#rnb) (15)
 - [ROCK](https://github.com/codenameyau/music#rock) (25)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
@@ -28,38 +28,39 @@ Generated on: 2/21/2016, 11:27:19 PM
 
 ## ASIAN
 
-##### C-POP
+##### CHINESE
 - [Dear Jane - Never Be Alone](https://www.youtube.com/results?search_query=Dear+Jane+Never+Be+Alone)
 - [Gary Cao & Genie Zhuo - Liang San Bo Yu Zhu Li Ye](https://www.youtube.com/results?search_query=Gary+Cao+%26+Genie+Zhuo+Liang+San+Bo+Yu+Zhu+Li+Ye)
 - [Wang Lee Hom - Kiss Goodbye](https://www.youtube.com/results?search_query=Wang+Lee+Hom+Kiss+Goodbye)
 
-##### J-POP
+##### JAPANESE
 - [Aqua Timez - Niji](https://www.youtube.com/results?search_query=Aqua+Timez+Niji)
 - [Day After Tomorrow - Soshite Boku Ni Dekiru Koto](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Soshite+Boku+Ni+Dekiru+Koto)
 - [Day After Tomorrow - Starry Heavens](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Starry+Heavens)
+- [Do As Infinity - Fukai Mori](https://www.youtube.com/results?search_query=Do+As+Infinity+Fukai+Mori)
 - [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
 - [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
 - [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
 - [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
-- [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
-- [Rie Tanaka - Fields Of Hope](https://www.youtube.com/results?search_query=Rie+Tanaka+Fields+Of+Hope)
-- [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
-- [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
-- [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
-- [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
-- [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
-
-##### J-ROCK
-- [Do As Infinity - Fukai Mori](https://www.youtube.com/results?search_query=Do+As+Infinity+Fukai+Mori)
 - [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
+- [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
 - [Nakagawa Shoko - Happily Ever After](https://www.youtube.com/results?search_query=Nakagawa+Shoko+Happily+Ever+After)
+- [Oku Hanako - Garnet](https://www.youtube.com/results?search_query=Oku+Hanako+Garnet)
+- [Oku Hanako - Kawaranai Mono](https://www.youtube.com/results?search_query=Oku+Hanako+Kawaranai+Mono)
+- [Oku Hanako - Kusabi](https://www.youtube.com/results?search_query=Oku+Hanako+Kusabi)
+- [Rie Tanaka - Fields Of Hope](https://www.youtube.com/results?search_query=Rie+Tanaka+Fields+Of+Hope)
 - [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
 - [SNoW - Sakasama No Chou](https://www.youtube.com/results?search_query=SNoW+Sakasama+No+Chou)
 - [Stereopony - Hitohira No Hanabira](https://www.youtube.com/results?search_query=Stereopony+Hitohira+No+Hanabira)
 - [Stereopony - Tsukiakari No Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+No+Michishirube)
+- [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
+- [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
+- [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
 - [Yanagi Nagi - Rudbeckia](https://www.youtube.com/results?search_query=Yanagi+Nagi+Rudbeckia)
+- [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
+- [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
 
-##### K-POP
+##### KOREAN
 - [iM feat. Narcia - By my 1004](https://www.youtube.com/results?search_query=iM+feat+Narcia+By+my+1004)
 
 
@@ -80,7 +81,6 @@ Generated on: 2/21/2016, 11:27:19 PM
 - [Porter Robinson feat. Urban Cone - Lionhearted](https://www.youtube.com/results?search_query=Porter+Robinson+feat+Urban+Cone+Lionhearted)
 
 ##### EURODANCE
-- [Alina - When You Leave (Numa Numa)](https://www.youtube.com/results?search_query=Alina+When+You+Leave+Numa+Numa)
 - [ATC - All Around the World (La La La La La)](https://www.youtube.com/results?search_query=ATC+All+Around+the+World+La+La+La+La+La)
 - [ATC - I'm In Heaven (When You Kiss Me)](https://www.youtube.com/results?search_query=ATC+I'm+In+Heaven+When+You+Kiss+Me)
 - [Caramell - Caramelldansen](https://www.youtube.com/results?search_query=Caramell+Caramelldansen)
@@ -101,7 +101,6 @@ Generated on: 2/21/2016, 11:27:19 PM
 - [Afrojack feat. Wrabel - Ten Feet Tall](https://www.youtube.com/results?search_query=Afrojack+feat+Wrabel+Ten+Feet+Tall)
 - [Alesso feat. Tove Lo - Heroes (We Could Be)](https://www.youtube.com/results?search_query=Alesso+feat+Tove+Lo+Heroes+We+Could+Be)
 - [Armin van Buuren feat. Trevor Guthrie - This Is What It Feels Like](https://www.youtube.com/results?search_query=Armin+van+Buuren+feat+Trevor+Guthrie+This+Is+What+It+Feels+Like)
-- [Audien feat. Michael S. - Leaving You](https://www.youtube.com/results?search_query=Audien+feat+Michael+S+Leaving+You)
 - [Audien feat. Ruby Prophet - Circles](https://www.youtube.com/results?search_query=Audien+feat+Ruby+Prophet+Circles)
 - [Avenor feat. LeLe - In Your Dreams](https://www.youtube.com/results?search_query=Avenor+feat+LeLe+In+Your+Dreams)
 - [Avicii - The Nights](https://www.youtube.com/results?search_query=Avicii+The+Nights)
@@ -116,7 +115,6 @@ Generated on: 2/21/2016, 11:27:19 PM
 - [Kaskade & Project 46 - Last Chance](https://www.youtube.com/results?search_query=Kaskade+%26+Project+46+Last+Chance)
 - [Krewella - Alive](https://www.youtube.com/results?search_query=Krewella+Alive)
 - [Krewella - Alive (Teqq Remix)](https://www.youtube.com/results?search_query=Krewella+Alive+Teqq+Remix)
-- [Krewella - Enjoy the Ride](https://www.youtube.com/results?search_query=Krewella+Enjoy+the+Ride)
 - [Krewella - Live For The Night](https://www.youtube.com/results?search_query=Krewella+Live+For+The+Night)
 - [Mako - Our Story](https://www.youtube.com/results?search_query=Mako+Our+Story)
 - [Matisyahu - Live Like A Warrior (Richello Remix)](https://www.youtube.com/results?search_query=Matisyahu+Live+Like+A+Warrior+Richello+Remix)
@@ -125,7 +123,6 @@ Generated on: 2/21/2016, 11:27:19 PM
 - [Tiesto - Red Lights](https://www.youtube.com/results?search_query=Tiesto+Red+Lights)
 - [Tiesto feat. Georgi Kay - In My Mind](https://www.youtube.com/results?search_query=Tiesto+feat+Georgi+Kay+In+My+Mind)
 - [Tom Swoon - Otherside](https://www.youtube.com/results?search_query=Tom+Swoon+Otherside)
-- [Tove Lo - Talking Body](https://www.youtube.com/results?search_query=Tove+Lo+Talking+Body)
 - [Tritonal feat. Skyler Stonestreet - Electric Glow](https://www.youtube.com/results?search_query=Tritonal+feat+Skyler+Stonestreet+Electric+Glow)
 - [WestFunk feat. Isla Meller - Apollo](https://www.youtube.com/results?search_query=WestFunk+feat+Isla+Meller+Apollo)
 - [Zedd feat. Foxes - Clarity](https://www.youtube.com/results?search_query=Zedd+feat+Foxes+Clarity)
@@ -154,6 +151,7 @@ Generated on: 2/21/2016, 11:27:19 PM
 - [Itro & Tobu - Sunburst](https://www.youtube.com/results?search_query=Itro+%26+Tobu+Sunburst)
 - [Jacoo - Breathe](https://www.youtube.com/results?search_query=Jacoo+Breathe)
 - [Jacoo - Reincarnation](https://www.youtube.com/results?search_query=Jacoo+Reincarnation)
+- [Kasbo - Horizon](https://www.youtube.com/results?search_query=Kasbo+Horizon)
 - [Kontinuum - First Rain](https://www.youtube.com/results?search_query=Kontinuum+First+Rain)
 - [Kozoro & Evence - Dreaming](https://www.youtube.com/results?search_query=Kozoro+%26+Evence+Dreaming)
 - [Kozoro - Something More](https://www.youtube.com/results?search_query=Kozoro+Something+More)
@@ -183,6 +181,7 @@ Generated on: 2/21/2016, 11:27:19 PM
 - [Frode Fjellheim feat. Cantus - Vuelie](https://www.youtube.com/results?search_query=Frode+Fjellheim+feat+Cantus+Vuelie)
 - [Frode Fjellheim feat. Cantus - Vuelie (Saint Virtue Bootleg)](https://www.youtube.com/results?search_query=Frode+Fjellheim+feat+Cantus+Vuelie+Saint+Virtue+Bootleg)
 - [Hans Zimmer - No Time For Caution](https://www.youtube.com/results?search_query=Hans+Zimmer+No+Time+For+Caution)
+- [Howard Shore - Spotlight](https://www.youtube.com/results?search_query=Howard+Shore+Spotlight)
 - [John Powell - Forbidden Friendship](https://www.youtube.com/results?search_query=John+Powell+Forbidden+Friendship)
 - [John Powell - Test Drive](https://www.youtube.com/results?search_query=John+Powell+Test+Drive)
 - [Steve Jablonsky - Battle](https://www.youtube.com/results?search_query=Steve+Jablonsky+Battle)
@@ -217,7 +216,7 @@ Generated on: 2/21/2016, 11:27:19 PM
 - [Tyler Ward - The Hardest Thing](https://www.youtube.com/results?search_query=Tyler+Ward+The+Hardest+Thing)
 
 ##### COVERS
-- [Alex Goot & Kurt Schneider & Chrissy Costanza - Counting Stars](https://www.youtube.com/results?search_query=Alex+Goot+%26+Kurt+Schneider+%26+Chrissy+Costanza+Counting+Stars)
+- [Against The Current - Counting Stars](https://www.youtube.com/results?search_query=Against+The+Current+Counting+Stars)
 - [Boyce Avenue - A Thousand Miles](https://www.youtube.com/results?search_query=Boyce+Avenue+A+Thousand+Miles)
 - [Glee - Friday](https://www.youtube.com/results?search_query=Glee+Friday)
 - [Jasmine Thompson - All of Me](https://www.youtube.com/results?search_query=Jasmine+Thompson+All+of+Me)
@@ -226,6 +225,7 @@ Generated on: 2/21/2016, 11:27:19 PM
 
 ##### ELECTRONIC
 - [CHVRCHES - Clearest Blue](https://www.youtube.com/results?search_query=CHVRCHES+Clearest+Blue)
+- [CHVRCHES - Leave A Trace](https://www.youtube.com/results?search_query=CHVRCHES+Leave+A+Trace)
 - [Ellie Goulding - Burn](https://www.youtube.com/results?search_query=Ellie+Goulding+Burn)
 - [Ellie Goulding - Lights](https://www.youtube.com/results?search_query=Ellie+Goulding+Lights)
 - [Ellie Goulding - Love Me Like You Do](https://www.youtube.com/results?search_query=Ellie+Goulding+Love+Me+Like+You+Do)
@@ -233,7 +233,6 @@ Generated on: 2/21/2016, 11:27:19 PM
 - [LIGHTS - Ice](https://www.youtube.com/results?search_query=LIGHTS+Ice)
 - [LIGHTS - Saviour](https://www.youtube.com/results?search_query=LIGHTS+Saviour)
 - [LIGHTS - The Listening](https://www.youtube.com/results?search_query=LIGHTS+The+Listening)
-- [LIGHTS - Toes](https://www.youtube.com/results?search_query=LIGHTS+Toes)
 - [LIGHTS - Up We Go](https://www.youtube.com/results?search_query=LIGHTS+Up+We+Go)
 - [Owl City - Fireflies](https://www.youtube.com/results?search_query=Owl+City+Fireflies)
 - [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
@@ -247,8 +246,6 @@ Generated on: 2/21/2016, 11:27:19 PM
 ##### INDIE
 - [American Authors - Best Day of My Life](https://www.youtube.com/results?search_query=American+Authors+Best+Day+of+My+Life)
 - [American Authors - Oh, What A Life](https://www.youtube.com/results?search_query=American+Authors+Oh+What+A+Life)
-- [Echosmith - Cool Kids](https://www.youtube.com/results?search_query=Echosmith+Cool+Kids)
-- [Echosmith - Cool Kids (RAC Mix)](https://www.youtube.com/results?search_query=Echosmith+Cool+Kids+RAC+Mix)
 - [Lauren Aquilina - Sinners](https://www.youtube.com/results?search_query=Lauren+Aquilina+Sinners)
 - [Phoebe Ryan - Mine](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine)
 - [Stars - Dead Hearts](https://www.youtube.com/results?search_query=Stars+Dead+Hearts)
@@ -260,7 +257,8 @@ Generated on: 2/21/2016, 11:27:19 PM
 ##### MAINSTREAM
 - [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
 - [Ashley Tisdale - Last Christmas](https://www.youtube.com/results?search_query=Ashley+Tisdale+Last+Christmas)
-- [Cady Groves - This Little Girl](https://www.youtube.com/results?search_query=Cady+Groves+This+Little+Girl)
+- [Backstreet Boys - As Long As You Love Me](https://www.youtube.com/results?search_query=Backstreet+Boys+As+Long+As+You+Love+Me)
+- [Backstreet Boys - I Want It That Way](https://www.youtube.com/results?search_query=Backstreet+Boys+I+Want+It+That+Way)
 - [Hilary Duff - Wake Up](https://www.youtube.com/results?search_query=Hilary+Duff+Wake+Up)
 - [Ina - Suddenly](https://www.youtube.com/results?search_query=Ina+Suddenly)
 - [Katy Perry - ET](https://www.youtube.com/results?search_query=Katy+Perry+ET)
@@ -271,15 +269,15 @@ Generated on: 2/21/2016, 11:27:19 PM
 - [Kelly Clarkson - Breakaway](https://www.youtube.com/results?search_query=Kelly+Clarkson+Breakaway)
 - [Lady Gaga - Alejandro](https://www.youtube.com/results?search_query=Lady+Gaga+Alejandro)
 - [Lady Gaga - Bad Romance](https://www.youtube.com/results?search_query=Lady+Gaga+Bad+Romance)
+- [Lady Gaga - Paparazzi](https://www.youtube.com/results?search_query=Lady+Gaga+Paparazzi)
 - [Lady Gaga - Telephone](https://www.youtube.com/results?search_query=Lady+Gaga+Telephone)
 - [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
-- [One Direction - Perfect](https://www.youtube.com/results?search_query=One+Direction+Perfect)
+- [One Direction - Night Changes](https://www.youtube.com/results?search_query=One+Direction+Night+Changes)
 - [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
 - [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
 - [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
-- [Taylor Swift - You Belong With Me](https://www.youtube.com/results?search_query=Taylor+Swift+You+Belong+With+Me)
 
 ##### POWER
 - [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
@@ -312,6 +310,8 @@ Generated on: 2/21/2016, 11:27:19 PM
 ## RNB
 
 ##### RNB
+- [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
+- [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
 - [August Rigo - Till It's Over](https://www.youtube.com/results?search_query=August+Rigo+Till+It's+Over)
 - [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
 - [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
