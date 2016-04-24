@@ -1,14 +1,14 @@
 # music
 
-Generated on: 3/21/2016, 11:38:06 PM
+Generated on: 4/23/2016, 9:04:05 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (29)
-- [EDM](https://github.com/codenameyau/music#edm) (61)
+- [EDM](https://github.com/codenameyau/music#edm) (63)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (37)
 - [POP](https://github.com/codenameyau/music#pop) (97)
 - [RNB](https://github.com/codenameyau/music#rnb) (15)
-- [ROCK](https://github.com/codenameyau/music#rock) (30)
+- [ROCK](https://github.com/codenameyau/music#rock) (31)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
 --
@@ -86,6 +86,7 @@ Generated on: 3/21/2016, 11:38:06 PM
 - [Caramell - Caramelldansen](https://www.youtube.com/results?search_query=Caramell+Caramelldansen)
 - [Cascada - Everytime We Touch](https://www.youtube.com/results?search_query=Cascada+Everytime+We+Touch)
 - [Cascada - Listen to Your Heart](https://www.youtube.com/results?search_query=Cascada+Listen+to+Your+Heart)
+- [DJ Cammy - Dancing In The Dark](https://www.youtube.com/results?search_query=DJ+Cammy+Dancing+In+The+Dark)
 - [DJ Sammy - Boys of The Summer](https://www.youtube.com/results?search_query=DJ+Sammy+Boys+of+The+Summer)
 - [DJ Sammy - Heaven](https://www.youtube.com/results?search_query=DJ+Sammy+Heaven)
 - [Erasure - Always](https://www.youtube.com/results?search_query=Erasure+Always)
@@ -117,6 +118,7 @@ Generated on: 3/21/2016, 11:38:06 PM
 - [Krewella - Alive (Teqq Remix)](https://www.youtube.com/results?search_query=Krewella+Alive+Teqq+Remix)
 - [Krewella - Live For The Night](https://www.youtube.com/results?search_query=Krewella+Live+For+The+Night)
 - [Mako - Our Story](https://www.youtube.com/results?search_query=Mako+Our+Story)
+- [Manse feat. Alice Berg - Freeze Time](https://www.youtube.com/results?search_query=Manse+feat+Alice+Berg+Freeze+Time)
 - [Matisyahu - Live Like A Warrior (Richello Remix)](https://www.youtube.com/results?search_query=Matisyahu+Live+Like+A+Warrior+Richello+Remix)
 - [Project 46 - Feel the Fire](https://www.youtube.com/results?search_query=Project+46+Feel+the+Fire)
 - [Swedish House Mafia feat. John Martin - Don't You Worry Child](https://www.youtube.com/results?search_query=Swedish+House+Mafia+feat+John+Martin+Don't+You+Worry+Child)
@@ -358,6 +360,7 @@ Generated on: 3/21/2016, 11:38:06 PM
 - [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
 
 ##### PUNK
+- [Breaking Benjamin - The Diary of Jane](https://www.youtube.com/results?search_query=Breaking+Benjamin+The+Diary+of+Jane)
 - [Emilie Autumn - Fight Like a Girl](https://www.youtube.com/results?search_query=Emilie+Autumn+Fight+Like+a+Girl)
 - [Icon For Hire - Make a Move](https://www.youtube.com/results?search_query=Icon+For+Hire+Make+a+Move)
 - [The Killers - Mr. Brightside](https://www.youtube.com/results?search_query=The+Killers+Mr+Brightside)

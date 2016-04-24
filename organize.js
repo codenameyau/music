@@ -219,12 +219,13 @@ fs.readdir(GENRE_DIR, function(error, genres) {
     // Read each subgenre file and populate songs.
     populateGenre(genre, doneReading);
   }, function(doneError) {
+
     // SONGS has been populated, so create extra files.
     if (doneError) {
       console.log(doneError);
     } else {
-      createJSONFile();
-      createMusicFile();
+      // createJSONFile();
+      // createMusicFile();
       createReadmeFile();
     }
   });
