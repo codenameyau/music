@@ -1,13 +1,13 @@
 # music
 
-Generated on: 4/23/2016, 9:04:05 PM
+Generated on: 5/15/2016, 12:00:06 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (29)
 - [EDM](https://github.com/codenameyau/music#edm) (63)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (37)
-- [POP](https://github.com/codenameyau/music#pop) (97)
-- [RNB](https://github.com/codenameyau/music#rnb) (15)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (38)
+- [POP](https://github.com/codenameyau/music#pop) (98)
+- [RNB](https://github.com/codenameyau/music#rnb) (16)
 - [ROCK](https://github.com/codenameyau/music#rock) (31)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
@@ -161,6 +161,7 @@ Generated on: 4/23/2016, 9:04:05 PM
 
 ##### HOUSE
 - [Alan Walker - Fade](https://www.youtube.com/results?search_query=Alan+Walker+Fade)
+- [Alan Walker - Force](https://www.youtube.com/results?search_query=Alan+Walker+Force)
 - [Alan Walker - Spectre](https://www.youtube.com/results?search_query=Alan+Walker+Spectre)
 - [Alex Schulz - Summer Night](https://www.youtube.com/results?search_query=Alex+Schulz+Summer+Night)
 
@@ -223,6 +224,7 @@ Generated on: 4/23/2016, 9:04:05 PM
 - [Glee - Friday](https://www.youtube.com/results?search_query=Glee+Friday)
 - [Jasmine Thompson - All of Me](https://www.youtube.com/results?search_query=Jasmine+Thompson+All+of+Me)
 - [Justin Bryte - One Last Time](https://www.youtube.com/results?search_query=Justin+Bryte+One+Last+Time)
+- [Landon Austin & Julia Sheer - I Want It That Way](https://www.youtube.com/results?search_query=Landon+Austin+%26+Julia+Sheer+I+Want+It+That+Way)
 - [Megan Nicole & Dave Days - Payphone](https://www.youtube.com/results?search_query=Megan+Nicole+%26+Dave+Days+Payphone)
 
 ##### ELECTRONIC
@@ -316,6 +318,7 @@ Generated on: 4/23/2016, 9:04:05 PM
 - [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
 - [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
 - [August Rigo - Till It's Over](https://www.youtube.com/results?search_query=August+Rigo+Till+It's+Over)
+- [Iyaz - Heartbeat](https://www.youtube.com/results?search_query=Iyaz+Heartbeat)
 - [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
 - [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
 - [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
