@@ -1,13 +1,13 @@
 # music
 
-Generated on: 5/15/2016, 12:00:06 PM
+Generated on: 5/22/2016, 11:24:35 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (29)
-- [EDM](https://github.com/codenameyau/music#edm) (63)
+- [EDM](https://github.com/codenameyau/music#edm) (64)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (38)
-- [POP](https://github.com/codenameyau/music#pop) (98)
-- [RNB](https://github.com/codenameyau/music#rnb) (16)
+- [POP](https://github.com/codenameyau/music#pop) (99)
+- [RNB](https://github.com/codenameyau/music#rnb) (18)
 - [ROCK](https://github.com/codenameyau/music#rock) (31)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
@@ -130,6 +130,7 @@ Generated on: 5/15/2016, 12:00:06 PM
 - [Zedd feat. Foxes - Clarity](https://www.youtube.com/results?search_query=Zedd+feat+Foxes+Clarity)
 - [Zedd feat. Foxes - Clarity (Vicetone Remix)](https://www.youtube.com/results?search_query=Zedd+feat+Foxes+Clarity+Vicetone+Remix)
 - [Zedd feat. Hayley Williams - Stay The Night](https://www.youtube.com/results?search_query=Zedd+feat+Hayley+Williams+Stay+The+Night)
+- [Zedd feat. Jon Bellion - Beautiful Now](https://www.youtube.com/results?search_query=Zedd+feat+Jon+Bellion+Beautiful+Now)
 
 ##### REMIX
 - [Ariana Grande - One Last Time (Henry Land Remix)](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time+Henry+Land+Remix)
@@ -263,6 +264,7 @@ Generated on: 5/15/2016, 12:00:06 PM
 - [Ashley Tisdale - Last Christmas](https://www.youtube.com/results?search_query=Ashley+Tisdale+Last+Christmas)
 - [Backstreet Boys - As Long As You Love Me](https://www.youtube.com/results?search_query=Backstreet+Boys+As+Long+As+You+Love+Me)
 - [Backstreet Boys - I Want It That Way](https://www.youtube.com/results?search_query=Backstreet+Boys+I+Want+It+That+Way)
+- [Fifth Harmony - Work from Home](https://www.youtube.com/results?search_query=Fifth+Harmony+Work+from+Home)
 - [Hilary Duff - Wake Up](https://www.youtube.com/results?search_query=Hilary+Duff+Wake+Up)
 - [Ina - Suddenly](https://www.youtube.com/results?search_query=Ina+Suddenly)
 - [Katy Perry - ET](https://www.youtube.com/results?search_query=Katy+Perry+ET)
@@ -322,6 +324,8 @@ Generated on: 5/15/2016, 12:00:06 PM
 - [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
 - [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
 - [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
+- [Jaicko - Perfect](https://www.youtube.com/results?search_query=Jaicko+Perfect)
+- [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
 - [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
 - [Justin Bieber - Love Yourself](https://www.youtube.com/results?search_query=Justin+Bieber+Love+Yourself)
 - [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
