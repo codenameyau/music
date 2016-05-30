@@ -1,14 +1,15 @@
 # music
 
-Generated on: 5/22/2016, 11:24:35 PM
+Generated on: 5/30/2016, 9:34:34 AM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
-- [ASIAN](https://github.com/codenameyau/music#asian) (29)
+- [ASIAN](https://github.com/codenameyau/music#asian) (30)
 - [EDM](https://github.com/codenameyau/music#edm) (64)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (38)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (31)
 - [POP](https://github.com/codenameyau/music#pop) (99)
-- [RNB](https://github.com/codenameyau/music#rnb) (18)
+- [RNB](https://github.com/codenameyau/music#rnb) (19)
 - [ROCK](https://github.com/codenameyau/music#rock) (31)
+- [SOUNDTRACK](https://github.com/codenameyau/music#soundtrack) (10)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
 --
@@ -41,6 +42,7 @@ Generated on: 5/22/2016, 11:24:35 PM
 - [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
 - [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
 - [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
+- [Kill La Kill - Blumenkranz](https://www.youtube.com/results?search_query=Kill+La+Kill+Blumenkranz)
 - [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
 - [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
 - [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
@@ -178,19 +180,10 @@ Generated on: 5/22/2016, 11:24:35 PM
 
 ##### POST-ROCK
 - [Lights & Motion - Reanimation](https://www.youtube.com/results?search_query=Lights+%26+Motion+Reanimation)
-- [Your Hand in Mine - Explosions in the Sky](https://www.youtube.com/results?search_query=Your+Hand+in+Mine+Explosions+in+the+Sky)
-
-##### SOUNDTRACK
-- [A.R. Rahman feat. Suzanne - Latika's Theme](https://www.youtube.com/results?search_query=AR+Rahman+feat+Suzanne+Latika's+Theme)
-- [Frode Fjellheim feat. Cantus - Vuelie](https://www.youtube.com/results?search_query=Frode+Fjellheim+feat+Cantus+Vuelie)
-- [Frode Fjellheim feat. Cantus - Vuelie (Saint Virtue Bootleg)](https://www.youtube.com/results?search_query=Frode+Fjellheim+feat+Cantus+Vuelie+Saint+Virtue+Bootleg)
-- [Hans Zimmer - No Time For Caution](https://www.youtube.com/results?search_query=Hans+Zimmer+No+Time+For+Caution)
-- [Howard Shore - Spotlight](https://www.youtube.com/results?search_query=Howard+Shore+Spotlight)
-- [John Powell - Forbidden Friendship](https://www.youtube.com/results?search_query=John+Powell+Forbidden+Friendship)
-- [John Powell - Test Drive](https://www.youtube.com/results?search_query=John+Powell+Test+Drive)
-- [Steve Jablonsky - Battle](https://www.youtube.com/results?search_query=Steve+Jablonsky+Battle)
 - [Two Steps From Hell - Heart of Courage](https://www.youtube.com/results?search_query=Two+Steps+From+Hell+Heart+of+Courage)
 - [Veigar Margeirsson - Revelations](https://www.youtube.com/results?search_query=Veigar+Margeirsson+Revelations)
+- [Veigar Margeirsson - Rise Above](https://www.youtube.com/results?search_query=Veigar+Margeirsson+Rise+Above)
+- [Your Hand in Mine - Explosions in the Sky](https://www.youtube.com/results?search_query=Your+Hand+in+Mine+Explosions+in+the+Sky)
 
 ##### VIOLIN
 - [J.B. Lully - Gavotte](https://www.youtube.com/results?search_query=JB+Lully+Gavotte)
@@ -328,6 +321,7 @@ Generated on: 5/22/2016, 11:24:35 PM
 - [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
 - [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
 - [Justin Bieber - Love Yourself](https://www.youtube.com/results?search_query=Justin+Bieber+Love+Yourself)
+- [Kid CuDi - Up Up And Away](https://www.youtube.com/results?search_query=Kid+CuDi+Up+Up+And+Away)
 - [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
 - [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
 - [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
@@ -379,6 +373,25 @@ Generated on: 5/22/2016, 11:24:35 PM
 - [Linkin Park - Castle of Glass](https://www.youtube.com/results?search_query=Linkin+Park+Castle+of+Glass)
 - [Linkin Park - In the End](https://www.youtube.com/results?search_query=Linkin+Park+In+the+End)
 - [Linkin Park - Numb](https://www.youtube.com/results?search_query=Linkin+Park+Numb)
+
+
+## SOUNDTRACK
+
+##### FILM
+- [Frozen - Vuelie](https://www.youtube.com/results?search_query=Frozen+Vuelie)
+- [How To Train Your Dragon - Forbidden Friendship](https://www.youtube.com/results?search_query=How+To+Train+Your+Dragon+Forbidden+Friendship)
+- [How To Train Your Dragon - Test Drive](https://www.youtube.com/results?search_query=How+To+Train+Your+Dragon+Test+Drive)
+- [Interstellar - No Time For Caution](https://www.youtube.com/results?search_query=Interstellar+No+Time+For+Caution)
+- [Slumdog Millionaire - Latika's Theme](https://www.youtube.com/results?search_query=Slumdog+Millionaire+Latika's+Theme)
+- [Spotlight - Main Theme](https://www.youtube.com/results?search_query=Spotlight+Main+Theme)
+- [Transformers 3 Dark of The Moon - Battle](https://www.youtube.com/results?search_query=Transformers+3+Dark+of+The+Moon+Battle)
+
+##### GAME
+- [Final Fantasy Crystal Chronicles - Moving Clouds on the River's Surface](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Moving+Clouds+on+the+River's+Surface)
+- [Final Fantasy Crystal Chronicles - Promised Grace](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Promised+Grace)
+- [Final Fantasy Crystal Chronicles - Sad Monster](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Sad+Monster)
+
+##### TELEVISION
 
 
 ## VOCALOID
