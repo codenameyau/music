@@ -1,13 +1,13 @@
 # music
 
-Generated on: 5/30/2016, 9:34:34 AM
+Generated on: 8/10/2016, 9:40:07 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (30)
-- [EDM](https://github.com/codenameyau/music#edm) (64)
+- [EDM](https://github.com/codenameyau/music#edm) (65)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (31)
-- [POP](https://github.com/codenameyau/music#pop) (99)
-- [RNB](https://github.com/codenameyau/music#rnb) (19)
+- [POP](https://github.com/codenameyau/music#pop) (104)
+- [RNB](https://github.com/codenameyau/music#rnb) (16)
 - [ROCK](https://github.com/codenameyau/music#rock) (31)
 - [SOUNDTRACK](https://github.com/codenameyau/music#soundtrack) (10)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
@@ -140,6 +140,7 @@ Generated on: 5/30/2016, 9:34:34 AM
 - [Ellie Goulding - Love Me Like You Do (Airia Remix)](https://www.youtube.com/results?search_query=Ellie+Goulding+Love+Me+Like+You+Do+Airia+Remix)
 - [Giorgio Moroder feat. Britney Spears - Tom's Diner (Hibell Remix)](https://www.youtube.com/results?search_query=Giorgio+Moroder+feat+Britney+Spears+Tom's+Diner+Hibell+Remix)
 - [John Legend - All of Me (Tiesto Remix)](https://www.youtube.com/results?search_query=John+Legend+All+of+Me+Tiesto+Remix)
+- [Maja Francis - Come Companion (Tobu)](https://www.youtube.com/results?search_query=Maja+Francis+Come+Companion+Tobu)
 - [Phoebe Ryan - Mine (Illenium Remix)](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine+Illenium+Remix)
 
 
@@ -232,12 +233,14 @@ Generated on: 5/30/2016, 9:34:34 AM
 - [LIGHTS - Saviour](https://www.youtube.com/results?search_query=LIGHTS+Saviour)
 - [LIGHTS - The Listening](https://www.youtube.com/results?search_query=LIGHTS+The+Listening)
 - [LIGHTS - Up We Go](https://www.youtube.com/results?search_query=LIGHTS+Up+We+Go)
+- [Maja Francis - Come Companion](https://www.youtube.com/results?search_query=Maja+Francis+Come+Companion)
 - [Owl City - Fireflies](https://www.youtube.com/results?search_query=Owl+City+Fireflies)
 - [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
 - [The Ready Set - Love Like Woe](https://www.youtube.com/results?search_query=The+Ready+Set+Love+Like+Woe)
 
 ##### HIP-HOP
 - [B.o.B feat. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+feat+Hayley+Williams+Airplanes)
+- [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
 - [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
 - [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
 
@@ -253,6 +256,7 @@ Generated on: 5/30/2016, 9:34:34 AM
 - [The Royal Concept - On Our Way](https://www.youtube.com/results?search_query=The+Royal+Concept+On+Our+Way)
 
 ##### MAINSTREAM
+- [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
 - [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
 - [Ashley Tisdale - Last Christmas](https://www.youtube.com/results?search_query=Ashley+Tisdale+Last+Christmas)
 - [Backstreet Boys - As Long As You Love Me](https://www.youtube.com/results?search_query=Backstreet+Boys+As+Long+As+You+Love+Me)
@@ -280,6 +284,8 @@ Generated on: 5/30/2016, 9:34:34 AM
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
 
 ##### POWER
+- [Conrad Sewell - Taste The Feeling](https://www.youtube.com/results?search_query=Conrad+Sewell+Taste+The+Feeling)
+- [K'naan - Wavin' Flag](https://www.youtube.com/results?search_query=K'naan+Wavin'+Flag)
 - [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
 - [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
 - [Nikki Yanofsky - I Believe](https://www.youtube.com/results?search_query=Nikki+Yanofsky+I+Believe)
@@ -326,11 +332,6 @@ Generated on: 5/30/2016, 9:34:34 AM
 - [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
 - [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
 - [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)
-- [Shayne Ward - Breathless](https://www.youtube.com/results?search_query=Shayne+Ward+Breathless)
-
-##### SOUL
-- [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
-- [K'naan - Wavin' Flag](https://www.youtube.com/results?search_query=K'naan+Wavin'+Flag)
 
 
 ## ROCK
