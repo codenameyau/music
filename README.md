@@ -1,12 +1,12 @@
 # music
 
-Generated on: 8/10/2016, 9:40:07 PM
+Generated on: 9/3/2016, 3:25:51 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (30)
 - [EDM](https://github.com/codenameyau/music#edm) (65)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (31)
-- [POP](https://github.com/codenameyau/music#pop) (104)
+- [POP](https://github.com/codenameyau/music#pop) (106)
 - [RNB](https://github.com/codenameyau/music#rnb) (16)
 - [ROCK](https://github.com/codenameyau/music#rock) (31)
 - [SOUNDTRACK](https://github.com/codenameyau/music#soundtrack) (10)
@@ -236,6 +236,7 @@ Generated on: 8/10/2016, 9:40:07 PM
 - [Maja Francis - Come Companion](https://www.youtube.com/results?search_query=Maja+Francis+Come+Companion)
 - [Owl City - Fireflies](https://www.youtube.com/results?search_query=Owl+City+Fireflies)
 - [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
+- [The Chainsmokers feat. Halsey - Closer](https://www.youtube.com/results?search_query=The+Chainsmokers+feat+Halsey+Closer)
 - [The Ready Set - Love Like Woe](https://www.youtube.com/results?search_query=The+Ready+Set+Love+Like+Woe)
 
 ##### HIP-HOP
@@ -261,6 +262,7 @@ Generated on: 8/10/2016, 9:40:07 PM
 - [Ashley Tisdale - Last Christmas](https://www.youtube.com/results?search_query=Ashley+Tisdale+Last+Christmas)
 - [Backstreet Boys - As Long As You Love Me](https://www.youtube.com/results?search_query=Backstreet+Boys+As+Long+As+You+Love+Me)
 - [Backstreet Boys - I Want It That Way](https://www.youtube.com/results?search_query=Backstreet+Boys+I+Want+It+That+Way)
+- [Elle King - Ex's & Oh's](https://www.youtube.com/results?search_query=Elle+King+Ex's+%26+Oh's)
 - [Fifth Harmony - Work from Home](https://www.youtube.com/results?search_query=Fifth+Harmony+Work+from+Home)
 - [Hilary Duff - Wake Up](https://www.youtube.com/results?search_query=Hilary+Duff+Wake+Up)
 - [Ina - Suddenly](https://www.youtube.com/results?search_query=Ina+Suddenly)
