@@ -1,10 +1,10 @@
 # music
 
-Generated on: 9/3/2016, 3:25:51 PM
+Generated on: 9/5/2016, 2:42:26 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (30)
-- [EDM](https://github.com/codenameyau/music#edm) (65)
+- [EDM](https://github.com/codenameyau/music#edm) (67)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (31)
 - [POP](https://github.com/codenameyau/music#pop) (106)
 - [RNB](https://github.com/codenameyau/music#rnb) (16)
@@ -118,6 +118,7 @@ Generated on: 9/3/2016, 3:25:51 PM
 - [Kaskade & Project 46 - Last Chance](https://www.youtube.com/results?search_query=Kaskade+%26+Project+46+Last+Chance)
 - [Krewella - Alive](https://www.youtube.com/results?search_query=Krewella+Alive)
 - [Krewella - Alive (Teqq Remix)](https://www.youtube.com/results?search_query=Krewella+Alive+Teqq+Remix)
+- [Krewella - Human](https://www.youtube.com/results?search_query=Krewella+Human)
 - [Krewella - Live For The Night](https://www.youtube.com/results?search_query=Krewella+Live+For+The+Night)
 - [Mako - Our Story](https://www.youtube.com/results?search_query=Mako+Our+Story)
 - [Manse feat. Alice Berg - Freeze Time](https://www.youtube.com/results?search_query=Manse+feat+Alice+Berg+Freeze+Time)
@@ -128,6 +129,7 @@ Generated on: 9/3/2016, 3:25:51 PM
 - [Tiesto feat. Georgi Kay - In My Mind](https://www.youtube.com/results?search_query=Tiesto+feat+Georgi+Kay+In+My+Mind)
 - [Tom Swoon - Otherside](https://www.youtube.com/results?search_query=Tom+Swoon+Otherside)
 - [Tritonal feat. Skyler Stonestreet - Electric Glow](https://www.youtube.com/results?search_query=Tritonal+feat+Skyler+Stonestreet+Electric+Glow)
+- [Vicetone - United We Dance](https://www.youtube.com/results?search_query=Vicetone+United+We+Dance)
 - [WestFunk feat. Isla Meller - Apollo](https://www.youtube.com/results?search_query=WestFunk+feat+Isla+Meller+Apollo)
 - [Zedd feat. Foxes - Clarity](https://www.youtube.com/results?search_query=Zedd+feat+Foxes+Clarity)
 - [Zedd feat. Foxes - Clarity (Vicetone Remix)](https://www.youtube.com/results?search_query=Zedd+feat+Foxes+Clarity+Vicetone+Remix)
