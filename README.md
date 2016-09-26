@@ -1,10 +1,10 @@
 # music
 
-Generated on: 9/25/2016, 11:27:37 PM
+Generated on: 9/25/2016, 11:47:38 PM
 
-- [ASIAN](https://github.com/codenameyau/music#asian) (31)
+- [ASIAN](https://github.com/codenameyau/music#asian) (32)
 - [EDM](https://github.com/codenameyau/music#edm) (71)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (52)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (53)
 - [POP](https://github.com/codenameyau/music#pop) (101)
 - [RNB](https://github.com/codenameyau/music#rnb) (17)
 - [ROCK](https://github.com/codenameyau/music#rock) (34)
@@ -29,6 +29,7 @@ Generated on: 9/25/2016, 11:27:37 PM
 - [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
 - [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
 - [Kill La Kill - Blumenkranz](https://www.youtube.com/results?search_query=Kill+La+Kill+Blumenkranz)
+- [Mami Kawada - Hishuko no Sora](https://www.youtube.com/results?search_query=Mami+Kawada+Hishuko+no+Sora)
 - [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
 - [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
 - [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
@@ -146,16 +147,20 @@ Generated on: 9/25/2016, 11:27:37 PM
 - [The Album Leaf - Streamside](https://www.youtube.com/results?search_query=The+Album+Leaf+Streamside)
 
 ##### ANIME
+- [5 Centimeters Per Second - Distant Everyday Memories](https://www.youtube.com/results?search_query=5+Centimeters+Per+Second+Distant+Everyday+Memories)
+- [5 Centimeters Per Second - End Theme](https://www.youtube.com/results?search_query=5+Centimeters+Per+Second+End+Theme)
 - [Sword Art Online - Luminous Sword](https://www.youtube.com/results?search_query=Sword+Art+Online+Luminous+Sword)
 
 ##### ELECTRONIC
+- [Alan Walker - Fade](https://www.youtube.com/results?search_query=Alan+Walker+Fade)
+- [Alan Walker - Force](https://www.youtube.com/results?search_query=Alan+Walker+Force)
+- [Alan Walker - Spectre](https://www.youtube.com/results?search_query=Alan+Walker+Spectre)
 - [Itro & Tobu - Cloud 9](https://www.youtube.com/results?search_query=Itro+%26+Tobu+Cloud+9)
 - [Itro & Tobu - Sunburst](https://www.youtube.com/results?search_query=Itro+%26+Tobu+Sunburst)
 - [Jacoo - Breathe](https://www.youtube.com/results?search_query=Jacoo+Breathe)
 - [Jacoo - Reincarnation](https://www.youtube.com/results?search_query=Jacoo+Reincarnation)
 - [Kasbo - Horizon](https://www.youtube.com/results?search_query=Kasbo+Horizon)
 - [Kontinuum - First Rain](https://www.youtube.com/results?search_query=Kontinuum+First+Rain)
-- [Kozoro & Evence - Dreaming](https://www.youtube.com/results?search_query=Kozoro+%26+Evence+Dreaming)
 - [Kozoro - Something More](https://www.youtube.com/results?search_query=Kozoro+Something+More)
 - [Said The Sky feat. Car - Run Away](https://www.youtube.com/results?search_query=Said+The+Sky+feat+Car+Run+Away)
 
@@ -184,9 +189,6 @@ Generated on: 9/25/2016, 11:27:37 PM
 - [MapleStory - Login Theme](https://www.youtube.com/results?search_query=MapleStory+Login+Theme)
 
 ##### HOUSE
-- [Alan Walker - Fade](https://www.youtube.com/results?search_query=Alan+Walker+Fade)
-- [Alan Walker - Force](https://www.youtube.com/results?search_query=Alan+Walker+Force)
-- [Alan Walker - Spectre](https://www.youtube.com/results?search_query=Alan+Walker+Spectre)
 - [Alex Schulz - Summer Night](https://www.youtube.com/results?search_query=Alex+Schulz+Summer+Night)
 
 ##### PIANO
@@ -360,7 +362,7 @@ Generated on: 9/25/2016, 11:27:37 PM
 - [Kutless - More Than It Seems](https://www.youtube.com/results?search_query=Kutless+More+Than+It+Seems)
 - [Kutless - What Faith Can Do](https://www.youtube.com/results?search_query=Kutless+What+Faith+Can+Do)
 - [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
-- [Luke Sital-Singh - Nothing stays the same](https://www.youtube.com/results?search_query=Luke+SitalSingh+Nothing+stays+the+same)
+- [Newsboys - God's Not Dead](https://www.youtube.com/results?search_query=Newsboys+God's+Not+Dead)
 - [Revive - Blink](https://www.youtube.com/results?search_query=Revive+Blink)
 - [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
 
