@@ -1,15 +1,14 @@
 # music
 
-Generated on: 9/25/2016, 11:05:47 PM
+Generated on: 9/25/2016, 11:24:27 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
-- [ASIAN](https://github.com/codenameyau/music#asian) (30)
+- [ASIAN](https://github.com/codenameyau/music#asian) (31)
 - [EDM](https://github.com/codenameyau/music#edm) (70)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (31)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (52)
 - [POP](https://github.com/codenameyau/music#pop) (103)
 - [RNB](https://github.com/codenameyau/music#rnb) (17)
 - [ROCK](https://github.com/codenameyau/music#rock) (32)
-- [SOUNDTRACK](https://github.com/codenameyau/music#soundtrack) (10)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
 --
@@ -47,6 +46,7 @@ Generated on: 9/25/2016, 11:05:47 PM
 - [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
 - [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
 - [Nakagawa Shoko - Happily Ever After](https://www.youtube.com/results?search_query=Nakagawa+Shoko+Happily+Ever+After)
+- [Okina Reika - Tsuki No Curse](https://www.youtube.com/results?search_query=Okina+Reika+Tsuki+No+Curse)
 - [Oku Hanako - Garnet](https://www.youtube.com/results?search_query=Oku+Hanako+Garnet)
 - [Oku Hanako - Kawaranai Mono](https://www.youtube.com/results?search_query=Oku+Hanako+Kawaranai+Mono)
 - [Oku Hanako - Kusabi](https://www.youtube.com/results?search_query=Oku+Hanako+Kusabi)
@@ -157,6 +157,9 @@ Generated on: 9/25/2016, 11:05:47 PM
 - [The Album Leaf - Story Board](https://www.youtube.com/results?search_query=The+Album+Leaf+Story+Board)
 - [The Album Leaf - Streamside](https://www.youtube.com/results?search_query=The+Album+Leaf+Streamside)
 
+##### ANIME
+- [Sword Art Online - Luminous Sword](https://www.youtube.com/results?search_query=Sword+Art+Online+Luminous+Sword)
+
 ##### ELECTRONIC
 - [Itro & Tobu - Cloud 9](https://www.youtube.com/results?search_query=Itro+%26+Tobu+Cloud+9)
 - [Itro & Tobu - Sunburst](https://www.youtube.com/results?search_query=Itro+%26+Tobu+Sunburst)
@@ -167,6 +170,30 @@ Generated on: 9/25/2016, 11:05:47 PM
 - [Kozoro & Evence - Dreaming](https://www.youtube.com/results?search_query=Kozoro+%26+Evence+Dreaming)
 - [Kozoro - Something More](https://www.youtube.com/results?search_query=Kozoro+Something+More)
 - [Said The Sky feat. Car - Run Away](https://www.youtube.com/results?search_query=Said+The+Sky+feat+Car+Run+Away)
+
+##### FILM
+- [Frozen - Vuelie](https://www.youtube.com/results?search_query=Frozen+Vuelie)
+- [How To Train Your Dragon - Forbidden Friendship](https://www.youtube.com/results?search_query=How+To+Train+Your+Dragon+Forbidden+Friendship)
+- [How To Train Your Dragon - Test Drive](https://www.youtube.com/results?search_query=How+To+Train+Your+Dragon+Test+Drive)
+- [Interstellar - No Time For Caution](https://www.youtube.com/results?search_query=Interstellar+No+Time+For+Caution)
+- [Slumdog Millionaire - Latika's Theme](https://www.youtube.com/results?search_query=Slumdog+Millionaire+Latika's+Theme)
+- [Spotlight - Main Theme](https://www.youtube.com/results?search_query=Spotlight+Main+Theme)
+- [Transformers 3 Dark of The Moon - Battle](https://www.youtube.com/results?search_query=Transformers+3+Dark+of+The+Moon+Battle)
+
+##### GAME
+- [Final Fantasy Crystal Chronicles - Moving Clouds on the River's Surface](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Moving+Clouds+on+the+River's+Surface)
+- [Final Fantasy Crystal Chronicles - Promised Grace](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Promised+Grace)
+- [Final Fantasy Crystal Chronicles - Sad Monster](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Sad+Monster)
+- [Fire Emblem - Black Fang](https://www.youtube.com/results?search_query=Fire+Emblem+Black+Fang)
+- [Fire Emblem - Distrubance of Agustria](https://www.youtube.com/results?search_query=Fire+Emblem+Distrubance+of+Agustria)
+- [Fire Emblem - Light and Dark](https://www.youtube.com/results?search_query=Fire+Emblem+Light+and+Dark)
+- [Fire Emblem - Lion King Eltshan](https://www.youtube.com/results?search_query=Fire+Emblem+Lion+King+Eltshan)
+- [Fire Emblem - Main Theme](https://www.youtube.com/results?search_query=Fire+Emblem+Main+Theme)
+- [MapleStory - Cash Shop](https://www.youtube.com/results?search_query=MapleStory+Cash+Shop)
+- [MapleStory - El Nath](https://www.youtube.com/results?search_query=MapleStory+El+Nath)
+- [MapleStory - Ellinia](https://www.youtube.com/results?search_query=MapleStory+Ellinia)
+- [MapleStory - Lith Harbor](https://www.youtube.com/results?search_query=MapleStory+Lith+Harbor)
+- [MapleStory - Login Theme](https://www.youtube.com/results?search_query=MapleStory+Login+Theme)
 
 ##### HOUSE
 - [Alan Walker - Fade](https://www.youtube.com/results?search_query=Alan+Walker+Fade)
@@ -384,25 +411,6 @@ Generated on: 9/25/2016, 11:05:47 PM
 - [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
 - [Relient K - Who I Am Hates Who I've Been (Acoustic)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic)
 - [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
-
-
-## SOUNDTRACK
-
-##### FILM
-- [Frozen - Vuelie](https://www.youtube.com/results?search_query=Frozen+Vuelie)
-- [How To Train Your Dragon - Forbidden Friendship](https://www.youtube.com/results?search_query=How+To+Train+Your+Dragon+Forbidden+Friendship)
-- [How To Train Your Dragon - Test Drive](https://www.youtube.com/results?search_query=How+To+Train+Your+Dragon+Test+Drive)
-- [Interstellar - No Time For Caution](https://www.youtube.com/results?search_query=Interstellar+No+Time+For+Caution)
-- [Slumdog Millionaire - Latika's Theme](https://www.youtube.com/results?search_query=Slumdog+Millionaire+Latika's+Theme)
-- [Spotlight - Main Theme](https://www.youtube.com/results?search_query=Spotlight+Main+Theme)
-- [Transformers 3 Dark of The Moon - Battle](https://www.youtube.com/results?search_query=Transformers+3+Dark+of+The+Moon+Battle)
-
-##### GAME
-- [Final Fantasy Crystal Chronicles - Moving Clouds on the River's Surface](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Moving+Clouds+on+the+River's+Surface)
-- [Final Fantasy Crystal Chronicles - Promised Grace](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Promised+Grace)
-- [Final Fantasy Crystal Chronicles - Sad Monster](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Sad+Monster)
-
-##### TELEVISION
 
 
 ## VOCALOID
