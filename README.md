@@ -1,10 +1,10 @@
 # music
 
-Generated on: 9/5/2016, 2:42:26 PM
+Generated on: 9/25/2016, 10:16:03 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (30)
-- [EDM](https://github.com/codenameyau/music#edm) (67)
+- [EDM](https://github.com/codenameyau/music#edm) (69)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (31)
 - [POP](https://github.com/codenameyau/music#pop) (106)
 - [RNB](https://github.com/codenameyau/music#rnb) (16)
@@ -79,6 +79,7 @@ Generated on: 9/5/2016, 2:42:26 PM
 ##### ELECTRONIC
 - [Galantis - You](https://www.youtube.com/results?search_query=Galantis+You)
 - [Galantis - You (Still Young Remix)](https://www.youtube.com/results?search_query=Galantis+You+Still+Young+Remix)
+- [Marshmello - Alone](https://www.youtube.com/results?search_query=Marshmello+Alone)
 - [Porter Robinson - Sad Machine](https://www.youtube.com/results?search_query=Porter+Robinson+Sad+Machine)
 - [Porter Robinson feat. Urban Cone - Lionhearted](https://www.youtube.com/results?search_query=Porter+Robinson+feat+Urban+Cone+Lionhearted)
 
@@ -97,6 +98,7 @@ Generated on: 9/5/2016, 2:42:26 PM
 - [Michael Ming Project feat. Dante Thomas - Feeling So Blue](https://www.youtube.com/results?search_query=Michael+Ming+Project+feat+Dante+Thomas+Feeling+So+Blue)
 - [Millenium - Day After Day](https://www.youtube.com/results?search_query=Millenium+Day+After+Day)
 - [Smile.dk - Butterfly](https://www.youtube.com/results?search_query=Smiledk+Butterfly)
+- [Smile.dk - Golden Sky](https://www.youtube.com/results?search_query=Smiledk+Golden+Sky)
 
 ##### PROGRESSIVE-HOUSE
 - [3Lau feat. Bright Lights - How You Love Me](https://www.youtube.com/results?search_query=3Lau+feat+Bright+Lights+How+You+Love+Me)
