@@ -1,29 +1,16 @@
 # music
 
-Generated on: 9/25/2016, 11:24:27 PM
+Generated on: 9/25/2016, 11:27:37 PM
 
-- [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (31)
-- [EDM](https://github.com/codenameyau/music#edm) (70)
+- [EDM](https://github.com/codenameyau/music#edm) (71)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (52)
-- [POP](https://github.com/codenameyau/music#pop) (103)
+- [POP](https://github.com/codenameyau/music#pop) (101)
 - [RNB](https://github.com/codenameyau/music#rnb) (17)
-- [ROCK](https://github.com/codenameyau/music#rock) (32)
+- [ROCK](https://github.com/codenameyau/music#rock) (34)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
 --
-
-
-## ACOUSTIC
-
-##### CHRISTIAN
-- [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
-- [Luke Sital-Singh - Nothing stays the same](https://www.youtube.com/results?search_query=Luke+SitalSingh+Nothing+stays+the+same)
-
-##### VERSION
-- [Anna Graceman - Words (Acoustic Version)](https://www.youtube.com/results?search_query=Anna+Graceman+Words+Acoustic+Version)
-- [Krewella - Alive (Acoustic Version)](https://www.youtube.com/results?search_query=Krewella+Alive+Acoustic+Version)
-- [Relient K - Who I Am Hates Who I've Been (Acoustic Version)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic+Version)
 
 
 ## ASIAN
@@ -82,6 +69,7 @@ Generated on: 9/25/2016, 11:24:27 PM
 - [Marshmello - Alone](https://www.youtube.com/results?search_query=Marshmello+Alone)
 - [Porter Robinson - Sad Machine](https://www.youtube.com/results?search_query=Porter+Robinson+Sad+Machine)
 - [Porter Robinson feat. Urban Cone - Lionhearted](https://www.youtube.com/results?search_query=Porter+Robinson+feat+Urban+Cone+Lionhearted)
+- [The Chainsmokers feat. Halsey - Closer](https://www.youtube.com/results?search_query=The+Chainsmokers+feat+Halsey+Closer)
 
 ##### EURODANCE
 - [ATC - All Around the World (La La La La La)](https://www.youtube.com/results?search_query=ATC+All+Around+the+World+La+La+La+La+La)
@@ -232,7 +220,6 @@ Generated on: 9/25/2016, 11:24:27 PM
 - [Justin Bryte - One Last Time](https://www.youtube.com/results?search_query=Justin+Bryte+One+Last+Time)
 - [Landon Austin & Julia Sheer - I Want It That Way](https://www.youtube.com/results?search_query=Landon+Austin+%26+Julia+Sheer+I+Want+It+That+Way)
 - [Megan Nicole & Dave Days - Payphone](https://www.youtube.com/results?search_query=Megan+Nicole+%26+Dave+Days+Payphone)
-- [The Chainsmokers Macy Kate - Closer](https://www.youtube.com/results?search_query=The+Chainsmokers+Macy+Kate+Closer)
 
 ##### DISNEY
 - [Anastasia (Donna Lewis & Richard Marx) - At the Beginning](https://www.youtube.com/results?search_query=Anastasia+Donna+Lewis+%26+Richard+Marx+At+the+Beginning)
@@ -254,7 +241,6 @@ Generated on: 9/25/2016, 11:24:27 PM
 - [Maja Francis - Come Companion](https://www.youtube.com/results?search_query=Maja+Francis+Come+Companion)
 - [Owl City - Fireflies](https://www.youtube.com/results?search_query=Owl+City+Fireflies)
 - [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
-- [The Chainsmokers feat. Halsey - Closer](https://www.youtube.com/results?search_query=The+Chainsmokers+feat+Halsey+Closer)
 - [The Ready Set - Love Like Woe](https://www.youtube.com/results?search_query=The+Ready+Set+Love+Like+Woe)
 
 ##### HIP-HOP
@@ -373,6 +359,8 @@ Generated on: 9/25/2016, 11:24:27 PM
 ##### CHRISTIAN
 - [Kutless - More Than It Seems](https://www.youtube.com/results?search_query=Kutless+More+Than+It+Seems)
 - [Kutless - What Faith Can Do](https://www.youtube.com/results?search_query=Kutless+What+Faith+Can+Do)
+- [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
+- [Luke Sital-Singh - Nothing stays the same](https://www.youtube.com/results?search_query=Luke+SitalSingh+Nothing+stays+the+same)
 - [Revive - Blink](https://www.youtube.com/results?search_query=Revive+Blink)
 - [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
 
