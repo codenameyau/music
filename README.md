@@ -1,14 +1,14 @@
 # music
 
-Generated on: 9/25/2016, 10:16:03 PM
+Generated on: 9/25/2016, 11:05:47 PM
 
 - [ACOUSTIC](https://github.com/codenameyau/music#acoustic) (5)
 - [ASIAN](https://github.com/codenameyau/music#asian) (30)
-- [EDM](https://github.com/codenameyau/music#edm) (69)
+- [EDM](https://github.com/codenameyau/music#edm) (70)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (31)
-- [POP](https://github.com/codenameyau/music#pop) (106)
-- [RNB](https://github.com/codenameyau/music#rnb) (16)
-- [ROCK](https://github.com/codenameyau/music#rock) (31)
+- [POP](https://github.com/codenameyau/music#pop) (103)
+- [RNB](https://github.com/codenameyau/music#rnb) (17)
+- [ROCK](https://github.com/codenameyau/music#rock) (32)
 - [SOUNDTRACK](https://github.com/codenameyau/music#soundtrack) (10)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
@@ -87,6 +87,7 @@ Generated on: 9/25/2016, 10:16:03 PM
 - [ATC - All Around the World (La La La La La)](https://www.youtube.com/results?search_query=ATC+All+Around+the+World+La+La+La+La+La)
 - [ATC - I'm In Heaven (When You Kiss Me)](https://www.youtube.com/results?search_query=ATC+I'm+In+Heaven+When+You+Kiss+Me)
 - [Caramell - Caramelldansen](https://www.youtube.com/results?search_query=Caramell+Caramelldansen)
+- [Cascada - Bad Boy](https://www.youtube.com/results?search_query=Cascada+Bad+Boy)
 - [Cascada - Everytime We Touch](https://www.youtube.com/results?search_query=Cascada+Everytime+We+Touch)
 - [Cascada - Listen to Your Heart](https://www.youtube.com/results?search_query=Cascada+Listen+to+Your+Heart)
 - [DJ Cammy - Dancing In The Dark](https://www.youtube.com/results?search_query=DJ+Cammy+Dancing+In+The+Dark)
@@ -196,27 +197,6 @@ Generated on: 9/25/2016, 10:16:03 PM
 
 ## POP
 
-##### ADULT-CONTEMPORARY
-- [Anna Graceman - Words](https://www.youtube.com/results?search_query=Anna+Graceman+Words)
-- [Donna Lewis & Richard Marx - At the Beginning](https://www.youtube.com/results?search_query=Donna+Lewis+%26+Richard+Marx+At+the+Beginning)
-- [Elliott Yamin - Wait For You](https://www.youtube.com/results?search_query=Elliott+Yamin+Wait+For+You)
-- [Five for Fighting - 100 Years](https://www.youtube.com/results?search_query=Five+for+Fighting+100+Years)
-- [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
-- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
-- [Jason Mraz - I'm Yours](https://www.youtube.com/results?search_query=Jason+Mraz+I'm+Yours)
-- [John Legend - All Of Me](https://www.youtube.com/results?search_query=John+Legend+All+Of+Me)
-- [Kyla - Wait For You](https://www.youtube.com/results?search_query=Kyla+Wait+For+You)
-- [Lion King - We Are One](https://www.youtube.com/results?search_query=Lion+King+We+Are+One)
-- [Passenger - Let Her Go](https://www.youtube.com/results?search_query=Passenger+Let+Her+Go)
-- [Phil Collins - Son Of Man](https://www.youtube.com/results?search_query=Phil+Collins+Son+Of+Man)
-- [Phil Collins - You'll Be In My Heart](https://www.youtube.com/results?search_query=Phil+Collins+You'll+Be+In+My+Heart)
-- [Rent - Seasons Of Love](https://www.youtube.com/results?search_query=Rent+Seasons+Of+Love)
-- [Richard Marx - Right Here Waiting For You](https://www.youtube.com/results?search_query=Richard+Marx+Right+Here+Waiting+For+You)
-- [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
-- [Selena - Dreaming Of You](https://www.youtube.com/results?search_query=Selena+Dreaming+Of+You)
-- [Susan Vega - Tom's diner](https://www.youtube.com/results?search_query=Susan+Vega+Tom's+diner)
-- [Tyler Ward - The Hardest Thing](https://www.youtube.com/results?search_query=Tyler+Ward+The+Hardest+Thing)
-
 ##### COVERS
 - [Against The Current - Counting Stars](https://www.youtube.com/results?search_query=Against+The+Current+Counting+Stars)
 - [Boyce Avenue - A Thousand Miles](https://www.youtube.com/results?search_query=Boyce+Avenue+A+Thousand+Miles)
@@ -225,6 +205,13 @@ Generated on: 9/25/2016, 10:16:03 PM
 - [Justin Bryte - One Last Time](https://www.youtube.com/results?search_query=Justin+Bryte+One+Last+Time)
 - [Landon Austin & Julia Sheer - I Want It That Way](https://www.youtube.com/results?search_query=Landon+Austin+%26+Julia+Sheer+I+Want+It+That+Way)
 - [Megan Nicole & Dave Days - Payphone](https://www.youtube.com/results?search_query=Megan+Nicole+%26+Dave+Days+Payphone)
+- [The Chainsmokers Macy Kate - Closer](https://www.youtube.com/results?search_query=The+Chainsmokers+Macy+Kate+Closer)
+
+##### DISNEY
+- [Anastasia (Donna Lewis & Richard Marx) - At the Beginning](https://www.youtube.com/results?search_query=Anastasia+Donna+Lewis+%26+Richard+Marx+At+the+Beginning)
+- [Lion King - We Are One](https://www.youtube.com/results?search_query=Lion+King+We+Are+One)
+- [Tarzan (Phil Collins) - Son Of Man](https://www.youtube.com/results?search_query=Tarzan+Phil+Collins+Son+Of+Man)
+- [Tarzan (Phil Collins) - You'll Be In My Heart](https://www.youtube.com/results?search_query=Tarzan+Phil+Collins+You'll+Be+In+My+Heart)
 
 ##### ELECTRONIC
 - [CHVRCHES - Clearest Blue](https://www.youtube.com/results?search_query=CHVRCHES+Clearest+Blue)
@@ -318,6 +305,19 @@ Generated on: 9/25/2016, 10:16:03 PM
 - [Travis Garland - Airplanes](https://www.youtube.com/results?search_query=Travis+Garland+Airplanes)
 - [Travis Garland - Perfect](https://www.youtube.com/results?search_query=Travis+Garland+Perfect)
 
+##### SOFT
+- [Anna Graceman - Words](https://www.youtube.com/results?search_query=Anna+Graceman+Words)
+- [Elliott Yamin - Wait For You](https://www.youtube.com/results?search_query=Elliott+Yamin+Wait+For+You)
+- [Jason Mraz - I'm Yours](https://www.youtube.com/results?search_query=Jason+Mraz+I'm+Yours)
+- [John Legend - All Of Me](https://www.youtube.com/results?search_query=John+Legend+All+Of+Me)
+- [Kyla - Wait For You](https://www.youtube.com/results?search_query=Kyla+Wait+For+You)
+- [Passenger - Let Her Go](https://www.youtube.com/results?search_query=Passenger+Let+Her+Go)
+- [Rent - Seasons Of Love](https://www.youtube.com/results?search_query=Rent+Seasons+Of+Love)
+- [Richard Marx - Right Here Waiting For You](https://www.youtube.com/results?search_query=Richard+Marx+Right+Here+Waiting+For+You)
+- [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
+- [Selena - Dreaming Of You](https://www.youtube.com/results?search_query=Selena+Dreaming+Of+You)
+- [Susan Vega - Tom's diner](https://www.youtube.com/results?search_query=Susan+Vega+Tom's+diner)
+
 
 ## RNB
 
@@ -329,6 +329,7 @@ Generated on: 9/25/2016, 10:16:03 PM
 - [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
 - [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
 - [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
+- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
 - [Jaicko - Perfect](https://www.youtube.com/results?search_query=Jaicko+Perfect)
 - [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
 - [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
@@ -355,17 +356,14 @@ Generated on: 9/25/2016, 10:16:03 PM
 - [Hinder - Lips Of An Angel](https://www.youtube.com/results?search_query=Hinder+Lips+Of+An+Angel)
 - [Lifehouse - Hanging By A Moment](https://www.youtube.com/results?search_query=Lifehouse+Hanging+By+A+Moment)
 - [Mat Kearney - Sooner or Later](https://www.youtube.com/results?search_query=Mat+Kearney+Sooner+or+Later)
-- [Mayday Parade - Anywhere But Here](https://www.youtube.com/results?search_query=Mayday+Parade+Anywhere+But+Here)
 - [Nickelback - Far Away](https://www.youtube.com/results?search_query=Nickelback+Far+Away)
 - [Nickelback - How You Remind Me](https://www.youtube.com/results?search_query=Nickelback+How+You+Remind+Me)
 - [Rascal Flatts - What Hurts The Most](https://www.youtube.com/results?search_query=Rascal+Flatts+What+Hurts+The+Most)
-- [Relient K - Who I Am Hates Who I've Been](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been)
 - [Runner Runner - So Obvious](https://www.youtube.com/results?search_query=Runner+Runner+So+Obvious)
 - [Story of The Year - Until The Day I Die](https://www.youtube.com/results?search_query=Story+of+The+Year+Until+The+Day+I+Die)
 - [The All-American Rejects - Move Along](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Move+Along)
 - [The All-American Rejects - Swing Swing](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Swing+Swing)
 - [The Ataris - Boys of Summer](https://www.youtube.com/results?search_query=The+Ataris+Boys+of+Summer)
-- [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
 
 ##### PUNK
 - [Breaking Benjamin - The Diary of Jane](https://www.youtube.com/results?search_query=Breaking+Benjamin+The+Diary+of+Jane)
@@ -380,6 +378,12 @@ Generated on: 9/25/2016, 10:16:03 PM
 - [Linkin Park - Castle of Glass](https://www.youtube.com/results?search_query=Linkin+Park+Castle+of+Glass)
 - [Linkin Park - In the End](https://www.youtube.com/results?search_query=Linkin+Park+In+the+End)
 - [Linkin Park - Numb](https://www.youtube.com/results?search_query=Linkin+Park+Numb)
+
+##### SOFT
+- [Five for Fighting - 100 Years](https://www.youtube.com/results?search_query=Five+for+Fighting+100+Years)
+- [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
+- [Relient K - Who I Am Hates Who I've Been (Acoustic)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic)
+- [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
 
 
 ## SOUNDTRACK
