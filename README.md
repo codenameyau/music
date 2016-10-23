@@ -1,11 +1,11 @@
 # music
 
-Generated on: 9/25/2016, 11:47:38 PM
+Generated on: 10/23/2016, 5:13:06 PM
 
 - [ASIAN](https://github.com/codenameyau/music#asian) (32)
 - [EDM](https://github.com/codenameyau/music#edm) (71)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (53)
-- [POP](https://github.com/codenameyau/music#pop) (101)
+- [POP](https://github.com/codenameyau/music#pop) (104)
 - [RNB](https://github.com/codenameyau/music#rnb) (17)
 - [ROCK](https://github.com/codenameyau/music#rock) (34)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
@@ -262,6 +262,9 @@ Generated on: 9/25/2016, 11:47:38 PM
 - [The Naked and Famous - Young Blood](https://www.youtube.com/results?search_query=The+Naked+and+Famous+Young+Blood)
 - [The Royal Concept - On Our Way](https://www.youtube.com/results?search_query=The+Royal+Concept+On+Our+Way)
 
+##### LATINO
+- [Maite Perroni - Tu y Yo](https://www.youtube.com/results?search_query=Maite+Perroni+Tu+y+Yo)
+
 ##### MAINSTREAM
 - [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
 - [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
@@ -308,6 +311,7 @@ Generated on: 9/25/2016, 11:47:38 PM
 - [Bowling For Soup - 1985](https://www.youtube.com/results?search_query=Bowling+For+Soup+1985)
 - [Bowling For Soup - Girl All The Bad Guys Want](https://www.youtube.com/results?search_query=Bowling+For+Soup+Girl+All+The+Bad+Guys+Want)
 - [Daughtry - Waiting for Superman](https://www.youtube.com/results?search_query=Daughtry+Waiting+for+Superman)
+- [Fountains of Wayne - Stacy's Mom](https://www.youtube.com/results?search_query=Fountains+of+Wayne+Stacy's+Mom)
 - [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
 - [Moroon 5 - Payphone](https://www.youtube.com/results?search_query=Moroon+5+Payphone)
 - [One Republic - Apologize](https://www.youtube.com/results?search_query=One+Republic+Apologize)
@@ -315,6 +319,7 @@ Generated on: 9/25/2016, 11:47:38 PM
 - [One Republic - Secrets](https://www.youtube.com/results?search_query=One+Republic+Secrets)
 - [Pink - Perfect](https://www.youtube.com/results?search_query=Pink+Perfect)
 - [Pink ft. Nate Ruess - Just Give Me A Reason](https://www.youtube.com/results?search_query=Pink+ft+Nate+Ruess+Just+Give+Me+A+Reason)
+- [Smash Mouth - All Star](https://www.youtube.com/results?search_query=Smash+Mouth+All+Star)
 - [The Cab - Angel with a Shotgub](https://www.youtube.com/results?search_query=The+Cab+Angel+with+a+Shotgub)
 - [The Cab - Endlessly](https://www.youtube.com/results?search_query=The+Cab+Endlessly)
 - [Travis Garland - Airplanes](https://www.youtube.com/results?search_query=Travis+Garland+Airplanes)
