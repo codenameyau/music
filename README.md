@@ -1,12 +1,12 @@
 # music
 
-Generated on: 10/23/2016, 5:13:06 PM
+Generated on: 10/29/2016, 3:05:58 PM
 
 - [ASIAN](https://github.com/codenameyau/music#asian) (32)
-- [EDM](https://github.com/codenameyau/music#edm) (71)
+- [EDM](https://github.com/codenameyau/music#edm) (72)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (53)
 - [POP](https://github.com/codenameyau/music#pop) (104)
-- [RNB](https://github.com/codenameyau/music#rnb) (17)
+- [RNB](https://github.com/codenameyau/music#rnb) (18)
 - [ROCK](https://github.com/codenameyau/music#rock) (34)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
@@ -136,6 +136,7 @@ Generated on: 10/23/2016, 5:13:06 PM
 - [John Legend - All of Me (Tiesto Remix)](https://www.youtube.com/results?search_query=John+Legend+All+of+Me+Tiesto+Remix)
 - [Maja Francis - Come Companion (Tobu)](https://www.youtube.com/results?search_query=Maja+Francis+Come+Companion+Tobu)
 - [Phoebe Ryan - Mine (Illenium Remix)](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine+Illenium+Remix)
+- [Skrillex & Diplo - Where Are Ü Now (Autolaser Remix)](https://www.youtube.com/results?search_query=Skrillex+%26+Diplo+Where+Are+%C3%9C+Now+Autolaser+Remix)
 
 
 ## INSTRUMENTAL
@@ -345,6 +346,7 @@ Generated on: 10/23/2016, 5:13:06 PM
 - [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
 - [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
 - [August Rigo - Till It's Over](https://www.youtube.com/results?search_query=August+Rigo+Till+It's+Over)
+- [Gym Class Heroes feat. Adam Levine - Stereo Hearts ](https://www.youtube.com/results?search_query=Gym+Class+Heroes+feat+Adam+Levine+Stereo+Hearts+)
 - [Iyaz - Heartbeat](https://www.youtube.com/results?search_query=Iyaz+Heartbeat)
 - [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
 - [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
