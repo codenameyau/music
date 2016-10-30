@@ -1,14 +1,14 @@
 # music
 
-Generated on: 10/30/2016, 7:24:32 PM
+Generated on: 10/30/2016, 7:54:21 PM
 
-- [POP](https://github.com/codenameyau/music#pop) (107)
+- [POP](https://github.com/codenameyau/music#pop) (103)
 - [EDM](https://github.com/codenameyau/music#edm) (72)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (53)
-- [ROCK](https://github.com/codenameyau/music#rock) (34)
+- [HIP-HOP](https://github.com/codenameyau/music#hiphop) (35)
 - [ASIAN](https://github.com/codenameyau/music#asian) (32)
+- [ROCK](https://github.com/codenameyau/music#rock) (30)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
-- [RNB](https://github.com/codenameyau/music#rnb) (19)
 
 --
 
@@ -46,12 +46,6 @@ Generated on: 10/30/2016, 7:24:32 PM
 - [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
 - [The Ready Set - Love Like Woe](https://www.youtube.com/results?search_query=The+Ready+Set+Love+Like+Woe)
 - [Troye Sivan - YOUTH](https://www.youtube.com/results?search_query=Troye+Sivan+YOUTH)
-
-##### HIP-HOP
-- [B.o.B feat. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+feat+Hayley+Williams+Airplanes)
-- [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
-- [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
-- [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
 
 ##### INDIE
 - [American Authors - Best Day of My Life](https://www.youtube.com/results?search_query=American+Authors+Best+Day+of+My+Life)
@@ -302,51 +296,50 @@ Generated on: 10/30/2016, 7:24:32 PM
 - [J.B. Lully - Gavotte](https://www.youtube.com/results?search_query=JB+Lully+Gavotte)
 
 
-## ROCK
+## HIP-HOP
 
-##### CHRISTIAN
-- [Kutless - More Than It Seems](https://www.youtube.com/results?search_query=Kutless+More+Than+It+Seems)
-- [Kutless - What Faith Can Do](https://www.youtube.com/results?search_query=Kutless+What+Faith+Can+Do)
-- [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
-- [Newsboys - God's Not Dead](https://www.youtube.com/results?search_query=Newsboys+God's+Not+Dead)
-- [Revive - Blink](https://www.youtube.com/results?search_query=Revive+Blink)
-- [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
+##### ASIAN
+- [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
 
 ##### MAINSTREAM
-- [Dashboard Confessional - Vindicated](https://www.youtube.com/results?search_query=Dashboard+Confessional+Vindicated)
-- [Fall Out Boys - Thanks For The Memories](https://www.youtube.com/results?search_query=Fall+Out+Boys+Thanks+For+The+Memories)
-- [Green Day - Boulevard of Broken Dreams](https://www.youtube.com/results?search_query=Green+Day+Boulevard+of+Broken+Dreams)
-- [Hinder - Lips Of An Angel](https://www.youtube.com/results?search_query=Hinder+Lips+Of+An+Angel)
-- [Lifehouse - Hanging By A Moment](https://www.youtube.com/results?search_query=Lifehouse+Hanging+By+A+Moment)
-- [Mat Kearney - Sooner or Later](https://www.youtube.com/results?search_query=Mat+Kearney+Sooner+or+Later)
-- [Nickelback - Far Away](https://www.youtube.com/results?search_query=Nickelback+Far+Away)
-- [Nickelback - How You Remind Me](https://www.youtube.com/results?search_query=Nickelback+How+You+Remind+Me)
-- [Rascal Flatts - What Hurts The Most](https://www.youtube.com/results?search_query=Rascal+Flatts+What+Hurts+The+Most)
-- [Runner Runner - So Obvious](https://www.youtube.com/results?search_query=Runner+Runner+So+Obvious)
-- [Story of The Year - Until The Day I Die](https://www.youtube.com/results?search_query=Story+of+The+Year+Until+The+Day+I+Die)
-- [The All-American Rejects - Move Along](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Move+Along)
-- [The All-American Rejects - Swing Swing](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Swing+Swing)
-- [The Ataris - Boys of Summer](https://www.youtube.com/results?search_query=The+Ataris+Boys+of+Summer)
-
-##### PUNK
-- [Breaking Benjamin - The Diary of Jane](https://www.youtube.com/results?search_query=Breaking+Benjamin+The+Diary+of+Jane)
-- [Emilie Autumn - Fight Like a Girl](https://www.youtube.com/results?search_query=Emilie+Autumn+Fight+Like+a+Girl)
-- [Icon For Hire - Make a Move](https://www.youtube.com/results?search_query=Icon+For+Hire+Make+a+Move)
-- [The Killers - Mr. Brightside](https://www.youtube.com/results?search_query=The+Killers+Mr+Brightside)
-- [The Menzingers - Casey](https://www.youtube.com/results?search_query=The+Menzingers+Casey)
-- [Thirty Seconds to Mars - This is War](https://www.youtube.com/results?search_query=Thirty+Seconds+to+Mars+This+is+War)
+- [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
+- [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
+- [B.o.B feat. Bruno Mars - Nothin' On You](https://www.youtube.com/results?search_query=BoB+feat+Bruno+Mars+Nothin'+On+You)
+- [B.o.B feat. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+feat+Hayley+Williams+Airplanes)
+- [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
+- [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
+- [Kanye West - Stronger](https://www.youtube.com/results?search_query=Kanye+West+Stronger)
+- [Mariah Carey - We Belong Together](https://www.youtube.com/results?search_query=Mariah+Carey+We+Belong+Together)
+- [Mario - Let Me Love You](https://www.youtube.com/results?search_query=Mario+Let+Me+Love+You)
+- [Nelly - Just A Dream](https://www.youtube.com/results?search_query=Nelly+Just+A+Dream)
+- [Nelly feat. Kelly Rowland - Dilemma](https://www.youtube.com/results?search_query=Nelly+feat+Kelly+Rowland+Dilemma)
+- [R. Kelly - Ignition](https://www.youtube.com/results?search_query=R+Kelly+Ignition)
 
 ##### RAP
+- [Eminem - Lose Yourself](https://www.youtube.com/results?search_query=Eminem+Lose+Yourself)
+- [Eminem feat. Rihanna - Love The Way You Lie](https://www.youtube.com/results?search_query=Eminem+feat+Rihanna+Love+The+Way+You+Lie)
 - [Linkin Park - Breaking The Habit](https://www.youtube.com/results?search_query=Linkin+Park+Breaking+The+Habit)
 - [Linkin Park - Castle of Glass](https://www.youtube.com/results?search_query=Linkin+Park+Castle+of+Glass)
 - [Linkin Park - In the End](https://www.youtube.com/results?search_query=Linkin+Park+In+the+End)
 - [Linkin Park - Numb](https://www.youtube.com/results?search_query=Linkin+Park+Numb)
 
-##### SOFT
-- [Five for Fighting - 100 Years](https://www.youtube.com/results?search_query=Five+for+Fighting+100+Years)
-- [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
-- [Relient K - Who I Am Hates Who I've Been (Acoustic)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic)
-- [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
+##### RNB
+- [August Rigo - Till It's Over](https://www.youtube.com/results?search_query=August+Rigo+Till+It's+Over)
+- [Gym Class Heroes feat. Adam Levine - Stereo Hearts](https://www.youtube.com/results?search_query=Gym+Class+Heroes+feat+Adam+Levine+Stereo+Hearts)
+- [Iyaz - Heartbeat](https://www.youtube.com/results?search_query=Iyaz+Heartbeat)
+- [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
+- [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
+- [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
+- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
+- [Jaicko - Perfect](https://www.youtube.com/results?search_query=Jaicko+Perfect)
+- [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
+- [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
+- [Justin Bieber - Love Yourself](https://www.youtube.com/results?search_query=Justin+Bieber+Love+Yourself)
+- [Kid CuDi - Up Up And Away](https://www.youtube.com/results?search_query=Kid+CuDi+Up+Up+And+Away)
+- [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
+- [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
+- [Major Lazer feat. Justin Bieber & MØ - Cold Water](https://www.youtube.com/results?search_query=Major+Lazer+feat+Justin+Bieber+%26+M%C3%98+Cold+Water)
+- [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)
 
 
 ## ASIAN
@@ -390,6 +383,47 @@ Generated on: 10/30/2016, 7:24:32 PM
 - [iM feat. Narcia - By my 1004](https://www.youtube.com/results?search_query=iM+feat+Narcia+By+my+1004)
 
 
+## ROCK
+
+##### CHRISTIAN
+- [Kutless - More Than It Seems](https://www.youtube.com/results?search_query=Kutless+More+Than+It+Seems)
+- [Kutless - What Faith Can Do](https://www.youtube.com/results?search_query=Kutless+What+Faith+Can+Do)
+- [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
+- [Newsboys - God's Not Dead](https://www.youtube.com/results?search_query=Newsboys+God's+Not+Dead)
+- [Revive - Blink](https://www.youtube.com/results?search_query=Revive+Blink)
+- [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
+
+##### MAINSTREAM
+- [Dashboard Confessional - Vindicated](https://www.youtube.com/results?search_query=Dashboard+Confessional+Vindicated)
+- [Fall Out Boys - Thanks For The Memories](https://www.youtube.com/results?search_query=Fall+Out+Boys+Thanks+For+The+Memories)
+- [Green Day - Boulevard of Broken Dreams](https://www.youtube.com/results?search_query=Green+Day+Boulevard+of+Broken+Dreams)
+- [Hinder - Lips Of An Angel](https://www.youtube.com/results?search_query=Hinder+Lips+Of+An+Angel)
+- [Lifehouse - Hanging By A Moment](https://www.youtube.com/results?search_query=Lifehouse+Hanging+By+A+Moment)
+- [Mat Kearney - Sooner or Later](https://www.youtube.com/results?search_query=Mat+Kearney+Sooner+or+Later)
+- [Nickelback - Far Away](https://www.youtube.com/results?search_query=Nickelback+Far+Away)
+- [Nickelback - How You Remind Me](https://www.youtube.com/results?search_query=Nickelback+How+You+Remind+Me)
+- [Rascal Flatts - What Hurts The Most](https://www.youtube.com/results?search_query=Rascal+Flatts+What+Hurts+The+Most)
+- [Runner Runner - So Obvious](https://www.youtube.com/results?search_query=Runner+Runner+So+Obvious)
+- [Story of The Year - Until The Day I Die](https://www.youtube.com/results?search_query=Story+of+The+Year+Until+The+Day+I+Die)
+- [The All-American Rejects - Move Along](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Move+Along)
+- [The All-American Rejects - Swing Swing](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Swing+Swing)
+- [The Ataris - Boys of Summer](https://www.youtube.com/results?search_query=The+Ataris+Boys+of+Summer)
+
+##### PUNK
+- [Breaking Benjamin - The Diary of Jane](https://www.youtube.com/results?search_query=Breaking+Benjamin+The+Diary+of+Jane)
+- [Emilie Autumn - Fight Like a Girl](https://www.youtube.com/results?search_query=Emilie+Autumn+Fight+Like+a+Girl)
+- [Icon For Hire - Make a Move](https://www.youtube.com/results?search_query=Icon+For+Hire+Make+a+Move)
+- [The Killers - Mr. Brightside](https://www.youtube.com/results?search_query=The+Killers+Mr+Brightside)
+- [The Menzingers - Casey](https://www.youtube.com/results?search_query=The+Menzingers+Casey)
+- [Thirty Seconds to Mars - This is War](https://www.youtube.com/results?search_query=Thirty+Seconds+to+Mars+This+is+War)
+
+##### SOFT
+- [Five for Fighting - 100 Years](https://www.youtube.com/results?search_query=Five+for+Fighting+100+Years)
+- [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
+- [Relient K - Who I Am Hates Who I've Been (Acoustic)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic)
+- [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
+
+
 ## VOCALOID
 
 ##### DUET
@@ -421,27 +455,3 @@ Generated on: 10/30/2016, 7:24:32 PM
 ##### RIN
 - [Kagamine Rin - I Like You, I Love You](https://www.youtube.com/results?search_query=Kagamine+Rin+I+Like+You+I+Love+You)
 - [Kagamine Rin - Melancholic](https://www.youtube.com/results?search_query=Kagamine+Rin+Melancholic)
-
-
-## RNB
-
-##### RNB
-- [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
-- [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
-- [August Rigo - Till It's Over](https://www.youtube.com/results?search_query=August+Rigo+Till+It's+Over)
-- [Gym Class Heroes feat. Adam Levine - Stereo Hearts ](https://www.youtube.com/results?search_query=Gym+Class+Heroes+feat+Adam+Levine+Stereo+Hearts+)
-- [Iyaz - Heartbeat](https://www.youtube.com/results?search_query=Iyaz+Heartbeat)
-- [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
-- [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
-- [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
-- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
-- [Jaicko - Perfect](https://www.youtube.com/results?search_query=Jaicko+Perfect)
-- [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
-- [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
-- [Justin Bieber - Love Yourself](https://www.youtube.com/results?search_query=Justin+Bieber+Love+Yourself)
-- [Kid CuDi - Up Up And Away](https://www.youtube.com/results?search_query=Kid+CuDi+Up+Up+And+Away)
-- [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
-- [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
-- [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
-- [Major Lazer feat. Justin Bieber & MØ - Cold Water](https://www.youtube.com/results?search_query=Major+Lazer+feat+Justin+Bieber+%26+M%C3%98+Cold+Water)
-- [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)

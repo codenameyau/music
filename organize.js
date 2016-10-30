@@ -178,7 +178,6 @@ var createReadmeFile = function() {
 
     // Sort genres by total count.
     var genreList = Object.keys(SONGS).map(function(genre) {
-      console.log(SONGS[genre]);
       return {
         genre: genre,
         songs: SONGS[genre],
