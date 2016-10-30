@@ -4,17 +4,14 @@
  * Description:
  * This scripts alphabetically sorts the songs in 'genre/'
  * and generates the files: 'music.txt' and 'README.md'.
- * All IO disk operations occur asynchronously.
  */
 'use strict';
 
-// Dependencies.
 var fs = require('fs');
 var path = require('path');
 var async = require('async');
 var format = require('util').format;
 
-// Constants and globals.
 var PATH = path.resolve(__dirname);
 var GENRE_DIR = PATH + '/genre/';
 var README_PATH = PATH + '/README.md';
@@ -45,7 +42,7 @@ var compareAlphabetically = function(a, b) {
 
 
 /********************************************************************
-* FUNCTION CONSTRUCTORS
+* SONG CONSTRUCTOR
 *********************************************************************/
 function Song(data) {
   this.artist = data[0];
@@ -111,25 +108,27 @@ var alphabetizeSongs = function(genre, subgenre, doneGenre) {
 var populateGenre = function(genre, doneReading, callback) {
   var genreDir = GENRE_DIR + genre;
   SONGS[genre] = {};
+
   fs.readdir(genreDir, function(error, genreFiles) {
     async.each(genreFiles, function(subgenre, doneGenre) {
       SONGS[genre][subgenre] = [];
       alphabetizeSongs(genre, subgenre, doneGenre);
-    }, function(readError) {
+    },
+    function(readError) {
       if (callback) {
         return callback(readError, doneReading);
-      } doneReading(readError);
+      }
+      doneReading(readError);
     });
   });
 };
 
-var getGenreCount = function(genre) {
+var getGenreCount = function(songs) {
   var count = 0;
-  for (var subgenre in SONGS[genre]) {
-    if (SONGS[genre].hasOwnProperty(subgenre)) {
-      count += SONGS[genre][subgenre].length;
-    }
-  } return count;
+  for (var subgenre in songs) {
+    count += songs[subgenre].length;
+  }
+  return count;
 };
 
 var createJSONFile = function() {
@@ -168,6 +167,7 @@ var createMusicFile = function() {
 
 var createReadmeFile = function() {
   var stream = fs.createWriteStream(README_PATH);
+
   stream.once('open', function() {
 
     // Setup the README and write timestamp.
@@ -176,37 +176,45 @@ var createReadmeFile = function() {
     stream.write('# music\n\n');
     stream.write(format('Generated on: %s\n\n', datetime.toLocaleString()));
 
-    // Write table of contents.
-    for (var genreName in SONGS) {
-      if (SONGS.hasOwnProperty(genreName)) {
-        stream.write(format('- [%s](%s) (%s)\n',
-          genreName.toUpperCase(),
-          getGithubReadmeLink(genreName),
-          getGenreCount(genreName)
-        ));
-      }
-    }
+    // Sort genres by total count.
+    var genreList = Object.keys(SONGS).map(function(genre) {
+      console.log(SONGS[genre]);
+      return {
+        genre: genre,
+        songs: SONGS[genre],
+        count: getGenreCount(SONGS[genre])
+      };
+    }).sort(function(a, b) {
+      return a.count >= b.count ? -1 : 1;
+    });
+
+    // Write table of contents and total counts.
+    genreList.forEach(function(genre) {
+      stream.write(format('- [%s](%s) (%s)\n',
+        genre.genre.toUpperCase(),
+        getGithubReadmeLink(genre.genre),
+        genre.count
+      ));
+    });
 
     // Write horizontal rule.
     stream.write('\n--\n');
 
     // Write songs for each genre.
-    for (var genre in SONGS) {
-      if (SONGS.hasOwnProperty(genre)) {
-        stream.write(format('\n\n## %s\n', genre.toUpperCase()));
-        for (var subgenre in SONGS[genre]) {
-          if (SONGS[genre].hasOwnProperty(subgenre)) {
-            var songs = SONGS[genre][subgenre];
-            stream.write(format('\n##### %s\n', subgenre.toUpperCase()));
-            songs.forEach(function(song) {
-              stream.write(format('- [%s - %s](%s)\n',
-                song.artist, song.title, song.getYoutubeSearch()
-              ));
-            });
-          }
-        }
+    genreList.forEach(function(genre) {
+      stream.write(format('\n\n## %s\n', genre.genre.toUpperCase()));
+
+      for (var subgenre in genre.songs) {
+        var songs = genre.songs[subgenre];
+        stream.write(format('\n##### %s\n', subgenre.toUpperCase()));
+
+        songs.forEach(function(song) {
+          stream.write(format('- [%s - %s](%s)\n',
+            song.artist, song.title, song.getYoutubeSearch()
+          ));
+        });
       }
-    }
+    });
   });
 };
 
@@ -218,12 +226,13 @@ fs.readdir(GENRE_DIR, function(error, genres) {
   async.each(genres, function(genre, doneReading) {
     // Read each subgenre file and populate songs.
     populateGenre(genre, doneReading);
-  }, function(doneError) {
-
-    // SONGS has been populated, so create extra files.
+  },
+  function(doneError) {
     if (doneError) {
-      console.log(doneError);
-    } else {
+      console.error(doneError);
+    }
+    else {
+      // SONGS has been populated, so create files.
       // createJSONFile();
       // createMusicFile();
       createReadmeFile();

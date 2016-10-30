@@ -1,57 +1,146 @@
 # music
 
-Generated on: 10/30/2016, 3:37:54 PM
+Generated on: 10/30/2016, 7:24:32 PM
 
-- [ASIAN](https://github.com/codenameyau/music#asian) (32)
+- [POP](https://github.com/codenameyau/music#pop) (107)
 - [EDM](https://github.com/codenameyau/music#edm) (72)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (53)
-- [POP](https://github.com/codenameyau/music#pop) (107)
-- [RNB](https://github.com/codenameyau/music#rnb) (19)
 - [ROCK](https://github.com/codenameyau/music#rock) (34)
+- [ASIAN](https://github.com/codenameyau/music#asian) (32)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
+- [RNB](https://github.com/codenameyau/music#rnb) (19)
 
 --
 
 
-## ASIAN
+## POP
 
-##### CHINESE
-- [Dear Jane - Never Be Alone](https://www.youtube.com/results?search_query=Dear+Jane+Never+Be+Alone)
-- [Gary Cao & Genie Zhuo - Liang San Bo Yu Zhu Li Ye](https://www.youtube.com/results?search_query=Gary+Cao+%26+Genie+Zhuo+Liang+San+Bo+Yu+Zhu+Li+Ye)
-- [Wang Lee Hom - Kiss Goodbye](https://www.youtube.com/results?search_query=Wang+Lee+Hom+Kiss+Goodbye)
+##### COVERS
+- [Against The Current - Counting Stars](https://www.youtube.com/results?search_query=Against+The+Current+Counting+Stars)
+- [Boyce Avenue - A Thousand Miles](https://www.youtube.com/results?search_query=Boyce+Avenue+A+Thousand+Miles)
+- [Glee - Friday](https://www.youtube.com/results?search_query=Glee+Friday)
+- [Jasmine Thompson - All of Me](https://www.youtube.com/results?search_query=Jasmine+Thompson+All+of+Me)
+- [Justin Bryte - One Last Time](https://www.youtube.com/results?search_query=Justin+Bryte+One+Last+Time)
+- [Landon Austin & Julia Sheer - I Want It That Way](https://www.youtube.com/results?search_query=Landon+Austin+%26+Julia+Sheer+I+Want+It+That+Way)
+- [Megan Nicole & Dave Days - Payphone](https://www.youtube.com/results?search_query=Megan+Nicole+%26+Dave+Days+Payphone)
 
-##### JAPANESE
-- [Aqua Timez - Niji](https://www.youtube.com/results?search_query=Aqua+Timez+Niji)
-- [Day After Tomorrow - Soshite Boku Ni Dekiru Koto](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Soshite+Boku+Ni+Dekiru+Koto)
-- [Day After Tomorrow - Starry Heavens](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Starry+Heavens)
-- [Do As Infinity - Fukai Mori](https://www.youtube.com/results?search_query=Do+As+Infinity+Fukai+Mori)
-- [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
-- [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
-- [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
-- [Kill La Kill - Blumenkranz](https://www.youtube.com/results?search_query=Kill+La+Kill+Blumenkranz)
-- [Mami Kawada - Hishuko no Sora](https://www.youtube.com/results?search_query=Mami+Kawada+Hishuko+no+Sora)
-- [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
-- [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
-- [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
-- [Nakagawa Shoko - Happily Ever After](https://www.youtube.com/results?search_query=Nakagawa+Shoko+Happily+Ever+After)
-- [Okina Reika - Tsuki No Curse](https://www.youtube.com/results?search_query=Okina+Reika+Tsuki+No+Curse)
-- [Oku Hanako - Garnet](https://www.youtube.com/results?search_query=Oku+Hanako+Garnet)
-- [Oku Hanako - Kawaranai Mono](https://www.youtube.com/results?search_query=Oku+Hanako+Kawaranai+Mono)
-- [Oku Hanako - Kusabi](https://www.youtube.com/results?search_query=Oku+Hanako+Kusabi)
-- [Rie Tanaka - Fields Of Hope](https://www.youtube.com/results?search_query=Rie+Tanaka+Fields+Of+Hope)
-- [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
-- [SNoW - Sakasama No Chou](https://www.youtube.com/results?search_query=SNoW+Sakasama+No+Chou)
-- [Stereopony - Hitohira No Hanabira](https://www.youtube.com/results?search_query=Stereopony+Hitohira+No+Hanabira)
-- [Stereopony - Tsukiakari No Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+No+Michishirube)
-- [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
-- [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
-- [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
-- [Yanagi Nagi - Rudbeckia](https://www.youtube.com/results?search_query=Yanagi+Nagi+Rudbeckia)
-- [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
-- [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
+##### DISNEY
+- [Anastasia (Donna Lewis & Richard Marx) - At the Beginning](https://www.youtube.com/results?search_query=Anastasia+Donna+Lewis+%26+Richard+Marx+At+the+Beginning)
+- [Lion King - We Are One](https://www.youtube.com/results?search_query=Lion+King+We+Are+One)
+- [Tarzan (Phil Collins) - Son Of Man](https://www.youtube.com/results?search_query=Tarzan+Phil+Collins+Son+Of+Man)
+- [Tarzan (Phil Collins) - You'll Be In My Heart](https://www.youtube.com/results?search_query=Tarzan+Phil+Collins+You'll+Be+In+My+Heart)
 
-##### KOREAN
-- [iM feat. Narcia - By my 1004](https://www.youtube.com/results?search_query=iM+feat+Narcia+By+my+1004)
+##### ELECTRONIC
+- [CHVRCHES - Clearest Blue](https://www.youtube.com/results?search_query=CHVRCHES+Clearest+Blue)
+- [CHVRCHES - Leave A Trace](https://www.youtube.com/results?search_query=CHVRCHES+Leave+A+Trace)
+- [Ellie Goulding - Burn](https://www.youtube.com/results?search_query=Ellie+Goulding+Burn)
+- [Ellie Goulding - Lights](https://www.youtube.com/results?search_query=Ellie+Goulding+Lights)
+- [Ellie Goulding - Love Me Like You Do](https://www.youtube.com/results?search_query=Ellie+Goulding+Love+Me+Like+You+Do)
+- [Ellie Goulding - The Writer](https://www.youtube.com/results?search_query=Ellie+Goulding+The+Writer)
+- [LIGHTS - Ice](https://www.youtube.com/results?search_query=LIGHTS+Ice)
+- [LIGHTS - Saviour](https://www.youtube.com/results?search_query=LIGHTS+Saviour)
+- [LIGHTS - The Listening](https://www.youtube.com/results?search_query=LIGHTS+The+Listening)
+- [LIGHTS - Up We Go](https://www.youtube.com/results?search_query=LIGHTS+Up+We+Go)
+- [Maja Francis - Come Companion](https://www.youtube.com/results?search_query=Maja+Francis+Come+Companion)
+- [Owl City - Fireflies](https://www.youtube.com/results?search_query=Owl+City+Fireflies)
+- [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
+- [The Ready Set - Love Like Woe](https://www.youtube.com/results?search_query=The+Ready+Set+Love+Like+Woe)
+- [Troye Sivan - YOUTH](https://www.youtube.com/results?search_query=Troye+Sivan+YOUTH)
+
+##### HIP-HOP
+- [B.o.B feat. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+feat+Hayley+Williams+Airplanes)
+- [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
+- [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
+- [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
+
+##### INDIE
+- [American Authors - Best Day of My Life](https://www.youtube.com/results?search_query=American+Authors+Best+Day+of+My+Life)
+- [American Authors - Oh, What A Life](https://www.youtube.com/results?search_query=American+Authors+Oh+What+A+Life)
+- [Lauren Aquilina - Sinners](https://www.youtube.com/results?search_query=Lauren+Aquilina+Sinners)
+- [Phoebe Ryan - Mine](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine)
+- [Stars - Dead Hearts](https://www.youtube.com/results?search_query=Stars+Dead+Hearts)
+- [Strange Talk - Young Hearts](https://www.youtube.com/results?search_query=Strange+Talk+Young+Hearts)
+- [The Kissaway Trail - New Lipstick](https://www.youtube.com/results?search_query=The+Kissaway+Trail+New+Lipstick)
+- [The Naked and Famous - Young Blood](https://www.youtube.com/results?search_query=The+Naked+and+Famous+Young+Blood)
+- [The Royal Concept - On Our Way](https://www.youtube.com/results?search_query=The+Royal+Concept+On+Our+Way)
+
+##### LATINO
+- [Maite Perroni - Tu y Yo](https://www.youtube.com/results?search_query=Maite+Perroni+Tu+y+Yo)
+
+##### MAINSTREAM
+- [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
+- [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
+- [Ashley Tisdale - Last Christmas](https://www.youtube.com/results?search_query=Ashley+Tisdale+Last+Christmas)
+- [Backstreet Boys - As Long As You Love Me](https://www.youtube.com/results?search_query=Backstreet+Boys+As+Long+As+You+Love+Me)
+- [Backstreet Boys - I Want It That Way](https://www.youtube.com/results?search_query=Backstreet+Boys+I+Want+It+That+Way)
+- [Elle King - Ex's & Oh's](https://www.youtube.com/results?search_query=Elle+King+Ex's+%26+Oh's)
+- [Fifth Harmony - Work from Home](https://www.youtube.com/results?search_query=Fifth+Harmony+Work+from+Home)
+- [Hilary Duff - Wake Up](https://www.youtube.com/results?search_query=Hilary+Duff+Wake+Up)
+- [Ina - Suddenly](https://www.youtube.com/results?search_query=Ina+Suddenly)
+- [Katy Perry - ET](https://www.youtube.com/results?search_query=Katy+Perry+ET)
+- [Katy Perry - Firework](https://www.youtube.com/results?search_query=Katy+Perry+Firework)
+- [Katy Perry - Last Friday Night](https://www.youtube.com/results?search_query=Katy+Perry+Last+Friday+Night)
+- [Katy Perry - Teenage Dream](https://www.youtube.com/results?search_query=Katy+Perry+Teenage+Dream)
+- [Katy Perry - The One That Got Away](https://www.youtube.com/results?search_query=Katy+Perry+The+One+That+Got+Away)
+- [Kelly Clarkson - Breakaway](https://www.youtube.com/results?search_query=Kelly+Clarkson+Breakaway)
+- [Lady Gaga - Alejandro](https://www.youtube.com/results?search_query=Lady+Gaga+Alejandro)
+- [Lady Gaga - Bad Romance](https://www.youtube.com/results?search_query=Lady+Gaga+Bad+Romance)
+- [Lady Gaga - Paparazzi](https://www.youtube.com/results?search_query=Lady+Gaga+Paparazzi)
+- [Lady Gaga - Telephone](https://www.youtube.com/results?search_query=Lady+Gaga+Telephone)
+- [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
+- [One Direction - Night Changes](https://www.youtube.com/results?search_query=One+Direction+Night+Changes)
+- [One Direction - Perfect](https://www.youtube.com/results?search_query=One+Direction+Perfect)
+- [Rihanna - Diamonds](https://www.youtube.com/results?search_query=Rihanna+Diamonds)
+- [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
+- [Rihanna feat. Calvin Harris - We Found Love](https://www.youtube.com/results?search_query=Rihanna+feat+Calvin+Harris+We+Found+Love)
+- [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
+- [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
+- [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
+- [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
+
+##### POWER
+- [Conrad Sewell - Taste The Feeling](https://www.youtube.com/results?search_query=Conrad+Sewell+Taste+The+Feeling)
+- [K'naan - Wavin' Flag](https://www.youtube.com/results?search_query=K'naan+Wavin'+Flag)
+- [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
+- [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
+- [Nikki Yanofsky - I Believe](https://www.youtube.com/results?search_query=Nikki+Yanofsky+I+Believe)
+- [Rachel Platten - Fight Song](https://www.youtube.com/results?search_query=Rachel+Platten+Fight+Song)
+- [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
+- [Zack Knight - Be Somebody](https://www.youtube.com/results?search_query=Zack+Knight+Be+Somebody)
+
+##### ROCK
+- [Adam Lambert - Runnin'](https://www.youtube.com/results?search_query=Adam+Lambert+Runnin')
+- [Alestorm ft. Lady Gaga - Magnetic Telephone](https://www.youtube.com/results?search_query=Alestorm+ft+Lady+Gaga+Magnetic+Telephone)
+- [Avril Lavigne - Sk8ter Boi](https://www.youtube.com/results?search_query=Avril+Lavigne+Sk8ter+Boi)
+- [Bowling For Soup - 1985](https://www.youtube.com/results?search_query=Bowling+For+Soup+1985)
+- [Bowling For Soup - Girl All The Bad Guys Want](https://www.youtube.com/results?search_query=Bowling+For+Soup+Girl+All+The+Bad+Guys+Want)
+- [Daughtry - Waiting for Superman](https://www.youtube.com/results?search_query=Daughtry+Waiting+for+Superman)
+- [Fountains of Wayne - Stacy's Mom](https://www.youtube.com/results?search_query=Fountains+of+Wayne+Stacy's+Mom)
+- [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
+- [Moroon 5 - Payphone](https://www.youtube.com/results?search_query=Moroon+5+Payphone)
+- [One Republic - Apologize](https://www.youtube.com/results?search_query=One+Republic+Apologize)
+- [One Republic - Counting Stars](https://www.youtube.com/results?search_query=One+Republic+Counting+Stars)
+- [One Republic - Secrets](https://www.youtube.com/results?search_query=One+Republic+Secrets)
+- [Pink - Perfect](https://www.youtube.com/results?search_query=Pink+Perfect)
+- [Pink ft. Nate Ruess - Just Give Me A Reason](https://www.youtube.com/results?search_query=Pink+ft+Nate+Ruess+Just+Give+Me+A+Reason)
+- [Smash Mouth - All Star](https://www.youtube.com/results?search_query=Smash+Mouth+All+Star)
+- [The Cab - Angel with a Shotgub](https://www.youtube.com/results?search_query=The+Cab+Angel+with+a+Shotgub)
+- [The Cab - Endlessly](https://www.youtube.com/results?search_query=The+Cab+Endlessly)
+- [Travis Garland - Airplanes](https://www.youtube.com/results?search_query=Travis+Garland+Airplanes)
+- [Travis Garland - Perfect](https://www.youtube.com/results?search_query=Travis+Garland+Perfect)
+
+##### SOFT
+- [Anna Graceman - Words](https://www.youtube.com/results?search_query=Anna+Graceman+Words)
+- [Elliott Yamin - Wait For You](https://www.youtube.com/results?search_query=Elliott+Yamin+Wait+For+You)
+- [Jason Mraz - I'm Yours](https://www.youtube.com/results?search_query=Jason+Mraz+I'm+Yours)
+- [John Legend - All Of Me](https://www.youtube.com/results?search_query=John+Legend+All+Of+Me)
+- [Kyla - Wait For You](https://www.youtube.com/results?search_query=Kyla+Wait+For+You)
+- [Passenger - Let Her Go](https://www.youtube.com/results?search_query=Passenger+Let+Her+Go)
+- [Rent - Seasons Of Love](https://www.youtube.com/results?search_query=Rent+Seasons+Of+Love)
+- [Richard Marx - Right Here Waiting For You](https://www.youtube.com/results?search_query=Richard+Marx+Right+Here+Waiting+For+You)
+- [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
+- [Selena - Dreaming Of You](https://www.youtube.com/results?search_query=Selena+Dreaming+Of+You)
+- [Susan Vega - Tom's diner](https://www.youtube.com/results?search_query=Susan+Vega+Tom's+diner)
 
 
 ## EDM
@@ -213,160 +302,6 @@ Generated on: 10/30/2016, 3:37:54 PM
 - [J.B. Lully - Gavotte](https://www.youtube.com/results?search_query=JB+Lully+Gavotte)
 
 
-## POP
-
-##### COVERS
-- [Against The Current - Counting Stars](https://www.youtube.com/results?search_query=Against+The+Current+Counting+Stars)
-- [Boyce Avenue - A Thousand Miles](https://www.youtube.com/results?search_query=Boyce+Avenue+A+Thousand+Miles)
-- [Glee - Friday](https://www.youtube.com/results?search_query=Glee+Friday)
-- [Jasmine Thompson - All of Me](https://www.youtube.com/results?search_query=Jasmine+Thompson+All+of+Me)
-- [Justin Bryte - One Last Time](https://www.youtube.com/results?search_query=Justin+Bryte+One+Last+Time)
-- [Landon Austin & Julia Sheer - I Want It That Way](https://www.youtube.com/results?search_query=Landon+Austin+%26+Julia+Sheer+I+Want+It+That+Way)
-- [Megan Nicole & Dave Days - Payphone](https://www.youtube.com/results?search_query=Megan+Nicole+%26+Dave+Days+Payphone)
-
-##### DISNEY
-- [Anastasia (Donna Lewis & Richard Marx) - At the Beginning](https://www.youtube.com/results?search_query=Anastasia+Donna+Lewis+%26+Richard+Marx+At+the+Beginning)
-- [Lion King - We Are One](https://www.youtube.com/results?search_query=Lion+King+We+Are+One)
-- [Tarzan (Phil Collins) - Son Of Man](https://www.youtube.com/results?search_query=Tarzan+Phil+Collins+Son+Of+Man)
-- [Tarzan (Phil Collins) - You'll Be In My Heart](https://www.youtube.com/results?search_query=Tarzan+Phil+Collins+You'll+Be+In+My+Heart)
-
-##### ELECTRONIC
-- [CHVRCHES - Clearest Blue](https://www.youtube.com/results?search_query=CHVRCHES+Clearest+Blue)
-- [CHVRCHES - Leave A Trace](https://www.youtube.com/results?search_query=CHVRCHES+Leave+A+Trace)
-- [Ellie Goulding - Burn](https://www.youtube.com/results?search_query=Ellie+Goulding+Burn)
-- [Ellie Goulding - Lights](https://www.youtube.com/results?search_query=Ellie+Goulding+Lights)
-- [Ellie Goulding - Love Me Like You Do](https://www.youtube.com/results?search_query=Ellie+Goulding+Love+Me+Like+You+Do)
-- [Ellie Goulding - The Writer](https://www.youtube.com/results?search_query=Ellie+Goulding+The+Writer)
-- [LIGHTS - Ice](https://www.youtube.com/results?search_query=LIGHTS+Ice)
-- [LIGHTS - Saviour](https://www.youtube.com/results?search_query=LIGHTS+Saviour)
-- [LIGHTS - The Listening](https://www.youtube.com/results?search_query=LIGHTS+The+Listening)
-- [LIGHTS - Up We Go](https://www.youtube.com/results?search_query=LIGHTS+Up+We+Go)
-- [Maja Francis - Come Companion](https://www.youtube.com/results?search_query=Maja+Francis+Come+Companion)
-- [Owl City - Fireflies](https://www.youtube.com/results?search_query=Owl+City+Fireflies)
-- [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
-- [The Ready Set - Love Like Woe](https://www.youtube.com/results?search_query=The+Ready+Set+Love+Like+Woe)
-- [Troye Sivan - YOUTH](https://www.youtube.com/results?search_query=Troye+Sivan+YOUTH)
-
-##### HIP-HOP
-- [B.o.B feat. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+feat+Hayley+Williams+Airplanes)
-- [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
-- [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
-- [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
-
-##### INDIE
-- [American Authors - Best Day of My Life](https://www.youtube.com/results?search_query=American+Authors+Best+Day+of+My+Life)
-- [American Authors - Oh, What A Life](https://www.youtube.com/results?search_query=American+Authors+Oh+What+A+Life)
-- [Lauren Aquilina - Sinners](https://www.youtube.com/results?search_query=Lauren+Aquilina+Sinners)
-- [Phoebe Ryan - Mine](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine)
-- [Stars - Dead Hearts](https://www.youtube.com/results?search_query=Stars+Dead+Hearts)
-- [Strange Talk - Young Hearts](https://www.youtube.com/results?search_query=Strange+Talk+Young+Hearts)
-- [The Kissaway Trail - New Lipstick](https://www.youtube.com/results?search_query=The+Kissaway+Trail+New+Lipstick)
-- [The Naked and Famous - Young Blood](https://www.youtube.com/results?search_query=The+Naked+and+Famous+Young+Blood)
-- [The Royal Concept - On Our Way](https://www.youtube.com/results?search_query=The+Royal+Concept+On+Our+Way)
-
-##### LATINO
-- [Maite Perroni - Tu y Yo](https://www.youtube.com/results?search_query=Maite+Perroni+Tu+y+Yo)
-
-##### MAINSTREAM
-- [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
-- [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
-- [Ashley Tisdale - Last Christmas](https://www.youtube.com/results?search_query=Ashley+Tisdale+Last+Christmas)
-- [Backstreet Boys - As Long As You Love Me](https://www.youtube.com/results?search_query=Backstreet+Boys+As+Long+As+You+Love+Me)
-- [Backstreet Boys - I Want It That Way](https://www.youtube.com/results?search_query=Backstreet+Boys+I+Want+It+That+Way)
-- [Elle King - Ex's & Oh's](https://www.youtube.com/results?search_query=Elle+King+Ex's+%26+Oh's)
-- [Fifth Harmony - Work from Home](https://www.youtube.com/results?search_query=Fifth+Harmony+Work+from+Home)
-- [Hilary Duff - Wake Up](https://www.youtube.com/results?search_query=Hilary+Duff+Wake+Up)
-- [Ina - Suddenly](https://www.youtube.com/results?search_query=Ina+Suddenly)
-- [Katy Perry - ET](https://www.youtube.com/results?search_query=Katy+Perry+ET)
-- [Katy Perry - Firework](https://www.youtube.com/results?search_query=Katy+Perry+Firework)
-- [Katy Perry - Last Friday Night](https://www.youtube.com/results?search_query=Katy+Perry+Last+Friday+Night)
-- [Katy Perry - Teenage Dream](https://www.youtube.com/results?search_query=Katy+Perry+Teenage+Dream)
-- [Katy Perry - The One That Got Away](https://www.youtube.com/results?search_query=Katy+Perry+The+One+That+Got+Away)
-- [Kelly Clarkson - Breakaway](https://www.youtube.com/results?search_query=Kelly+Clarkson+Breakaway)
-- [Lady Gaga - Alejandro](https://www.youtube.com/results?search_query=Lady+Gaga+Alejandro)
-- [Lady Gaga - Bad Romance](https://www.youtube.com/results?search_query=Lady+Gaga+Bad+Romance)
-- [Lady Gaga - Paparazzi](https://www.youtube.com/results?search_query=Lady+Gaga+Paparazzi)
-- [Lady Gaga - Telephone](https://www.youtube.com/results?search_query=Lady+Gaga+Telephone)
-- [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
-- [One Direction - Night Changes](https://www.youtube.com/results?search_query=One+Direction+Night+Changes)
-- [One Direction - Perfect](https://www.youtube.com/results?search_query=One+Direction+Perfect)
-- [Rihanna - Diamonds](https://www.youtube.com/results?search_query=Rihanna+Diamonds)
-- [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
-- [Rihanna feat. Calvin Harris - We Found Love](https://www.youtube.com/results?search_query=Rihanna+feat+Calvin+Harris+We+Found+Love)
-- [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
-- [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
-- [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
-- [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
-
-##### POWER
-- [Conrad Sewell - Taste The Feeling](https://www.youtube.com/results?search_query=Conrad+Sewell+Taste+The+Feeling)
-- [K'naan - Wavin' Flag](https://www.youtube.com/results?search_query=K'naan+Wavin'+Flag)
-- [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
-- [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
-- [Nikki Yanofsky - I Believe](https://www.youtube.com/results?search_query=Nikki+Yanofsky+I+Believe)
-- [Rachel Platten - Fight Song](https://www.youtube.com/results?search_query=Rachel+Platten+Fight+Song)
-- [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
-- [Zack Knight - Be Somebody](https://www.youtube.com/results?search_query=Zack+Knight+Be+Somebody)
-
-##### ROCK
-- [Adam Lambert - Runnin'](https://www.youtube.com/results?search_query=Adam+Lambert+Runnin')
-- [Alestorm ft. Lady Gaga - Magnetic Telephone](https://www.youtube.com/results?search_query=Alestorm+ft+Lady+Gaga+Magnetic+Telephone)
-- [Avril Lavigne - Sk8ter Boi](https://www.youtube.com/results?search_query=Avril+Lavigne+Sk8ter+Boi)
-- [Bowling For Soup - 1985](https://www.youtube.com/results?search_query=Bowling+For+Soup+1985)
-- [Bowling For Soup - Girl All The Bad Guys Want](https://www.youtube.com/results?search_query=Bowling+For+Soup+Girl+All+The+Bad+Guys+Want)
-- [Daughtry - Waiting for Superman](https://www.youtube.com/results?search_query=Daughtry+Waiting+for+Superman)
-- [Fountains of Wayne - Stacy's Mom](https://www.youtube.com/results?search_query=Fountains+of+Wayne+Stacy's+Mom)
-- [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
-- [Moroon 5 - Payphone](https://www.youtube.com/results?search_query=Moroon+5+Payphone)
-- [One Republic - Apologize](https://www.youtube.com/results?search_query=One+Republic+Apologize)
-- [One Republic - Counting Stars](https://www.youtube.com/results?search_query=One+Republic+Counting+Stars)
-- [One Republic - Secrets](https://www.youtube.com/results?search_query=One+Republic+Secrets)
-- [Pink - Perfect](https://www.youtube.com/results?search_query=Pink+Perfect)
-- [Pink ft. Nate Ruess - Just Give Me A Reason](https://www.youtube.com/results?search_query=Pink+ft+Nate+Ruess+Just+Give+Me+A+Reason)
-- [Smash Mouth - All Star](https://www.youtube.com/results?search_query=Smash+Mouth+All+Star)
-- [The Cab - Angel with a Shotgub](https://www.youtube.com/results?search_query=The+Cab+Angel+with+a+Shotgub)
-- [The Cab - Endlessly](https://www.youtube.com/results?search_query=The+Cab+Endlessly)
-- [Travis Garland - Airplanes](https://www.youtube.com/results?search_query=Travis+Garland+Airplanes)
-- [Travis Garland - Perfect](https://www.youtube.com/results?search_query=Travis+Garland+Perfect)
-
-##### SOFT
-- [Anna Graceman - Words](https://www.youtube.com/results?search_query=Anna+Graceman+Words)
-- [Elliott Yamin - Wait For You](https://www.youtube.com/results?search_query=Elliott+Yamin+Wait+For+You)
-- [Jason Mraz - I'm Yours](https://www.youtube.com/results?search_query=Jason+Mraz+I'm+Yours)
-- [John Legend - All Of Me](https://www.youtube.com/results?search_query=John+Legend+All+Of+Me)
-- [Kyla - Wait For You](https://www.youtube.com/results?search_query=Kyla+Wait+For+You)
-- [Passenger - Let Her Go](https://www.youtube.com/results?search_query=Passenger+Let+Her+Go)
-- [Rent - Seasons Of Love](https://www.youtube.com/results?search_query=Rent+Seasons+Of+Love)
-- [Richard Marx - Right Here Waiting For You](https://www.youtube.com/results?search_query=Richard+Marx+Right+Here+Waiting+For+You)
-- [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
-- [Selena - Dreaming Of You](https://www.youtube.com/results?search_query=Selena+Dreaming+Of+You)
-- [Susan Vega - Tom's diner](https://www.youtube.com/results?search_query=Susan+Vega+Tom's+diner)
-
-
-## RNB
-
-##### RNB
-- [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
-- [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
-- [August Rigo - Till It's Over](https://www.youtube.com/results?search_query=August+Rigo+Till+It's+Over)
-- [Gym Class Heroes feat. Adam Levine - Stereo Hearts ](https://www.youtube.com/results?search_query=Gym+Class+Heroes+feat+Adam+Levine+Stereo+Hearts+)
-- [Iyaz - Heartbeat](https://www.youtube.com/results?search_query=Iyaz+Heartbeat)
-- [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
-- [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
-- [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
-- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
-- [Jaicko - Perfect](https://www.youtube.com/results?search_query=Jaicko+Perfect)
-- [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
-- [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
-- [Justin Bieber - Love Yourself](https://www.youtube.com/results?search_query=Justin+Bieber+Love+Yourself)
-- [Kid CuDi - Up Up And Away](https://www.youtube.com/results?search_query=Kid+CuDi+Up+Up+And+Away)
-- [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
-- [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
-- [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
-- [Major Lazer feat. Justin Bieber & MØ - Cold Water](https://www.youtube.com/results?search_query=Major+Lazer+feat+Justin+Bieber+%26+M%C3%98+Cold+Water)
-- [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)
-
-
 ## ROCK
 
 ##### CHRISTIAN
@@ -414,6 +349,47 @@ Generated on: 10/30/2016, 3:37:54 PM
 - [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
 
 
+## ASIAN
+
+##### CHINESE
+- [Dear Jane - Never Be Alone](https://www.youtube.com/results?search_query=Dear+Jane+Never+Be+Alone)
+- [Gary Cao & Genie Zhuo - Liang San Bo Yu Zhu Li Ye](https://www.youtube.com/results?search_query=Gary+Cao+%26+Genie+Zhuo+Liang+San+Bo+Yu+Zhu+Li+Ye)
+- [Wang Lee Hom - Kiss Goodbye](https://www.youtube.com/results?search_query=Wang+Lee+Hom+Kiss+Goodbye)
+
+##### JAPANESE
+- [Aqua Timez - Niji](https://www.youtube.com/results?search_query=Aqua+Timez+Niji)
+- [Day After Tomorrow - Soshite Boku Ni Dekiru Koto](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Soshite+Boku+Ni+Dekiru+Koto)
+- [Day After Tomorrow - Starry Heavens](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Starry+Heavens)
+- [Do As Infinity - Fukai Mori](https://www.youtube.com/results?search_query=Do+As+Infinity+Fukai+Mori)
+- [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
+- [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
+- [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
+- [Kill La Kill - Blumenkranz](https://www.youtube.com/results?search_query=Kill+La+Kill+Blumenkranz)
+- [Mami Kawada - Hishuko no Sora](https://www.youtube.com/results?search_query=Mami+Kawada+Hishuko+no+Sora)
+- [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
+- [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
+- [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
+- [Nakagawa Shoko - Happily Ever After](https://www.youtube.com/results?search_query=Nakagawa+Shoko+Happily+Ever+After)
+- [Okina Reika - Tsuki No Curse](https://www.youtube.com/results?search_query=Okina+Reika+Tsuki+No+Curse)
+- [Oku Hanako - Garnet](https://www.youtube.com/results?search_query=Oku+Hanako+Garnet)
+- [Oku Hanako - Kawaranai Mono](https://www.youtube.com/results?search_query=Oku+Hanako+Kawaranai+Mono)
+- [Oku Hanako - Kusabi](https://www.youtube.com/results?search_query=Oku+Hanako+Kusabi)
+- [Rie Tanaka - Fields Of Hope](https://www.youtube.com/results?search_query=Rie+Tanaka+Fields+Of+Hope)
+- [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
+- [SNoW - Sakasama No Chou](https://www.youtube.com/results?search_query=SNoW+Sakasama+No+Chou)
+- [Stereopony - Hitohira No Hanabira](https://www.youtube.com/results?search_query=Stereopony+Hitohira+No+Hanabira)
+- [Stereopony - Tsukiakari No Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+No+Michishirube)
+- [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
+- [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
+- [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
+- [Yanagi Nagi - Rudbeckia](https://www.youtube.com/results?search_query=Yanagi+Nagi+Rudbeckia)
+- [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
+- [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
+
+##### KOREAN
+- [iM feat. Narcia - By my 1004](https://www.youtube.com/results?search_query=iM+feat+Narcia+By+my+1004)
+
+
 ## VOCALOID
 
 ##### DUET
@@ -445,3 +421,27 @@ Generated on: 10/30/2016, 3:37:54 PM
 ##### RIN
 - [Kagamine Rin - I Like You, I Love You](https://www.youtube.com/results?search_query=Kagamine+Rin+I+Like+You+I+Love+You)
 - [Kagamine Rin - Melancholic](https://www.youtube.com/results?search_query=Kagamine+Rin+Melancholic)
+
+
+## RNB
+
+##### RNB
+- [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
+- [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
+- [August Rigo - Till It's Over](https://www.youtube.com/results?search_query=August+Rigo+Till+It's+Over)
+- [Gym Class Heroes feat. Adam Levine - Stereo Hearts ](https://www.youtube.com/results?search_query=Gym+Class+Heroes+feat+Adam+Levine+Stereo+Hearts+)
+- [Iyaz - Heartbeat](https://www.youtube.com/results?search_query=Iyaz+Heartbeat)
+- [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
+- [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
+- [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
+- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
+- [Jaicko - Perfect](https://www.youtube.com/results?search_query=Jaicko+Perfect)
+- [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
+- [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
+- [Justin Bieber - Love Yourself](https://www.youtube.com/results?search_query=Justin+Bieber+Love+Yourself)
+- [Kid CuDi - Up Up And Away](https://www.youtube.com/results?search_query=Kid+CuDi+Up+Up+And+Away)
+- [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
+- [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
+- [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
+- [Major Lazer feat. Justin Bieber & MØ - Cold Water](https://www.youtube.com/results?search_query=Major+Lazer+feat+Justin+Bieber+%26+M%C3%98+Cold+Water)
+- [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)
