@@ -1,12 +1,12 @@
 # music
 
-Generated on: 10/29/2016, 3:05:58 PM
+Generated on: 10/30/2016, 3:37:54 PM
 
 - [ASIAN](https://github.com/codenameyau/music#asian) (32)
 - [EDM](https://github.com/codenameyau/music#edm) (72)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (53)
-- [POP](https://github.com/codenameyau/music#pop) (104)
-- [RNB](https://github.com/codenameyau/music#rnb) (18)
+- [POP](https://github.com/codenameyau/music#pop) (107)
+- [RNB](https://github.com/codenameyau/music#rnb) (19)
 - [ROCK](https://github.com/codenameyau/music#rock) (34)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
@@ -245,6 +245,7 @@ Generated on: 10/29/2016, 3:05:58 PM
 - [Owl City - Fireflies](https://www.youtube.com/results?search_query=Owl+City+Fireflies)
 - [Owl City - The Saltwater Room](https://www.youtube.com/results?search_query=Owl+City+The+Saltwater+Room)
 - [The Ready Set - Love Like Woe](https://www.youtube.com/results?search_query=The+Ready+Set+Love+Like+Woe)
+- [Troye Sivan - YOUTH](https://www.youtube.com/results?search_query=Troye+Sivan+YOUTH)
 
 ##### HIP-HOP
 - [B.o.B feat. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+feat+Hayley+Williams+Airplanes)
@@ -289,7 +290,9 @@ Generated on: 10/29/2016, 3:05:58 PM
 - [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
 - [One Direction - Night Changes](https://www.youtube.com/results?search_query=One+Direction+Night+Changes)
 - [One Direction - Perfect](https://www.youtube.com/results?search_query=One+Direction+Perfect)
+- [Rihanna - Diamonds](https://www.youtube.com/results?search_query=Rihanna+Diamonds)
 - [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
+- [Rihanna feat. Calvin Harris - We Found Love](https://www.youtube.com/results?search_query=Rihanna+feat+Calvin+Harris+We+Found+Love)
 - [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
 - [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
@@ -360,6 +363,7 @@ Generated on: 10/29/2016, 3:05:58 PM
 - [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
 - [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
 - [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
+- [Major Lazer feat. Justin Bieber & MØ - Cold Water](https://www.youtube.com/results?search_query=Major+Lazer+feat+Justin+Bieber+%26+M%C3%98+Cold+Water)
 - [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)
 
 
