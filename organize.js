@@ -170,22 +170,28 @@ var createReadmeFile = function() {
 
   stream.once('open', function() {
 
-    // Setup the README and write timestamp.
-    var datetime = new Date();
-    console.log('Create file: %s', README_PATH);
-    stream.write('# music\n\n');
-    stream.write(format('Generated on: %s\n\n', datetime.toLocaleString()));
-
-    // Sort genres by total count.
+    // Sort genres by total number of songs.
+    var totalSongs = 0;
     var genreList = Object.keys(SONGS).map(function(genre) {
+      var count = getGenreCount(SONGS[genre]);
+      totalSongs += count;
+
       return {
         genre: genre,
         songs: SONGS[genre],
-        count: getGenreCount(SONGS[genre])
+        count: count
       };
     }).sort(function(a, b) {
       return a.count >= b.count ? -1 : 1;
     });
+
+    // Setup the README and write timestamp.
+    var datetime = new Date();
+    console.log('Create file: %s', README_PATH);
+    stream.write('# music\n\n');
+    stream.write(format('Generated on: %s (%s)\n\n',
+      datetime.toLocaleString(), totalSongs
+    ));
 
     // Write table of contents and total counts.
     genreList.forEach(function(genre) {
