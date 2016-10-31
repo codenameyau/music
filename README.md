@@ -1,14 +1,15 @@
 # music
 
-Generated on: 10/30/2016, 8:01:07 PM (347 Songs)
+Generated on: 10/30/2016, 8:34:44 PM (363)
 
-- [POP](https://github.com/codenameyau/music#pop) (103)
+- [POP](https://github.com/codenameyau/music#pop) (102)
 - [EDM](https://github.com/codenameyau/music#edm) (72)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (53)
-- [HIP-HOP](https://github.com/codenameyau/music#hiphop) (35)
+- [BEATS](https://github.com/codenameyau/music#beats) (39)
 - [ASIAN](https://github.com/codenameyau/music#asian) (32)
 - [ROCK](https://github.com/codenameyau/music#rock) (30)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
+- [RNB](https://github.com/codenameyau/music#rnb) (13)
 
 --
 
@@ -81,7 +82,6 @@ Generated on: 10/30/2016, 8:01:07 PM (347 Songs)
 - [Lady Gaga - Bad Romance](https://www.youtube.com/results?search_query=Lady+Gaga+Bad+Romance)
 - [Lady Gaga - Paparazzi](https://www.youtube.com/results?search_query=Lady+Gaga+Paparazzi)
 - [Lady Gaga - Telephone](https://www.youtube.com/results?search_query=Lady+Gaga+Telephone)
-- [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
 - [One Direction - Night Changes](https://www.youtube.com/results?search_query=One+Direction+Night+Changes)
 - [One Direction - Perfect](https://www.youtube.com/results?search_query=One+Direction+Perfect)
 - [Rihanna - Diamonds](https://www.youtube.com/results?search_query=Rihanna+Diamonds)
@@ -296,12 +296,13 @@ Generated on: 10/30/2016, 8:01:07 PM (347 Songs)
 - [J.B. Lully - Gavotte](https://www.youtube.com/results?search_query=JB+Lully+Gavotte)
 
 
-## HIP-HOP
+## BEATS
 
 ##### ASIAN
+- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
 - [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
 
-##### MAINSTREAM
+##### HIP-HOP
 - [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
 - [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
 - [B.o.B feat. Bruno Mars - Nothin' On You](https://www.youtube.com/results?search_query=BoB+feat+Bruno+Mars+Nothin'+On+You)
@@ -309,11 +310,10 @@ Generated on: 10/30/2016, 8:01:07 PM (347 Songs)
 - [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
 - [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
 - [Kanye West - Stronger](https://www.youtube.com/results?search_query=Kanye+West+Stronger)
-- [Mariah Carey - We Belong Together](https://www.youtube.com/results?search_query=Mariah+Carey+We+Belong+Together)
-- [Mario - Let Me Love You](https://www.youtube.com/results?search_query=Mario+Let+Me+Love+You)
-- [Nelly - Just A Dream](https://www.youtube.com/results?search_query=Nelly+Just+A+Dream)
-- [Nelly feat. Kelly Rowland - Dilemma](https://www.youtube.com/results?search_query=Nelly+feat+Kelly+Rowland+Dilemma)
+- [LMFAO - Party Rock Anthem](https://www.youtube.com/results?search_query=LMFAO+Party+Rock+Anthem)
+- [Pitbull feat. Ne-Yo, Afrojack, Nayer - Give Me Everything](https://www.youtube.com/results?search_query=Pitbull+feat+NeYo+Afrojack+Nayer+Give+Me+Everything)
 - [R. Kelly - Ignition](https://www.youtube.com/results?search_query=R+Kelly+Ignition)
+- [Wiz Khalifa - Roll Up](https://www.youtube.com/results?search_query=Wiz+Khalifa+Roll+Up)
 
 ##### RAP
 - [Eminem - Lose Yourself](https://www.youtube.com/results?search_query=Eminem+Lose+Yourself)
@@ -330,7 +330,6 @@ Generated on: 10/30/2016, 8:01:07 PM (347 Songs)
 - [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
 - [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
 - [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
-- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
 - [Jaicko - Perfect](https://www.youtube.com/results?search_query=Jaicko+Perfect)
 - [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
 - [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
@@ -339,7 +338,12 @@ Generated on: 10/30/2016, 8:01:07 PM (347 Songs)
 - [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
 - [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
 - [Major Lazer feat. Justin Bieber & MØ - Cold Water](https://www.youtube.com/results?search_query=Major+Lazer+feat+Justin+Bieber+%26+M%C3%98+Cold+Water)
+- [Mariah Carey - We Belong Together](https://www.youtube.com/results?search_query=Mariah+Carey+We+Belong+Together)
+- [Mario - Let Me Love You](https://www.youtube.com/results?search_query=Mario+Let+Me+Love+You)
 - [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)
+- [Nelly - Just A Dream](https://www.youtube.com/results?search_query=Nelly+Just+A+Dream)
+- [Nelly feat. Kelly Rowland - Dilemma](https://www.youtube.com/results?search_query=Nelly+feat+Kelly+Rowland+Dilemma)
+- [New Boyz feat. Chris Brown - Better With The Lights Off](https://www.youtube.com/results?search_query=New+Boyz+feat+Chris+Brown+Better+With+The+Lights+Off)
 
 
 ## ASIAN
@@ -455,3 +459,21 @@ Generated on: 10/30/2016, 8:01:07 PM (347 Songs)
 ##### RIN
 - [Kagamine Rin - I Like You, I Love You](https://www.youtube.com/results?search_query=Kagamine+Rin+I+Like+You+I+Love+You)
 - [Kagamine Rin - Melancholic](https://www.youtube.com/results?search_query=Kagamine+Rin+Melancholic)
+
+
+## RNB
+
+##### HIP-HOP
+- [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
+- [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
+- [B.o.B feat. Bruno Mars - Nothin' On You](https://www.youtube.com/results?search_query=BoB+feat+Bruno+Mars+Nothin'+On+You)
+- [B.o.B feat. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+feat+Hayley+Williams+Airplanes)
+- [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
+- [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
+- [Flo Rida feat. Sia - Wild Ones](https://www.youtube.com/results?search_query=Flo+Rida+feat+Sia+Wild+Ones)
+- [Kanye West - Stronger](https://www.youtube.com/results?search_query=Kanye+West+Stronger)
+- [LMFAO - Party Rock Anthem](https://www.youtube.com/results?search_query=LMFAO+Party+Rock+Anthem)
+- [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
+- [Pitbull feat. Ne-Yo, Afrojack, Nayer - Give Me Everything](https://www.youtube.com/results?search_query=Pitbull+feat+NeYo+Afrojack+Nayer+Give+Me+Everything)
+- [R. Kelly - Ignition](https://www.youtube.com/results?search_query=R+Kelly+Ignition)
+- [Wiz Khalifa - Roll Up](https://www.youtube.com/results?search_query=Wiz+Khalifa+Roll+Up)
