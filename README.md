@@ -1,15 +1,14 @@
 # music
 
-Generated on: 10/30/2016, 8:41:06 PM (364)
+Generated on: 10/30/2016, 8:43:02 PM (353)
 
 - [POP](https://github.com/codenameyau/music#pop) (102)
 - [EDM](https://github.com/codenameyau/music#edm) (72)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (53)
-- [BEATS](https://github.com/codenameyau/music#beats) (39)
+- [BEATS](https://github.com/codenameyau/music#beats) (42)
 - [ASIAN](https://github.com/codenameyau/music#asian) (32)
 - [ROCK](https://github.com/codenameyau/music#rock) (30)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
-- [RNB](https://github.com/codenameyau/music#rnb) (14)
 
 --
 
@@ -309,8 +308,11 @@ Generated on: 10/30/2016, 8:41:06 PM (364)
 - [B.o.B ft. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+ft+Hayley+Williams+Airplanes)
 - [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
 - [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
+- [Flo Rida ft. Sia - Wild Ones](https://www.youtube.com/results?search_query=Flo+Rida+ft+Sia+Wild+Ones)
 - [Kanye West - Stronger](https://www.youtube.com/results?search_query=Kanye+West+Stronger)
 - [LMFAO - Party Rock Anthem](https://www.youtube.com/results?search_query=LMFAO+Party+Rock+Anthem)
+- [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
+- [Pitbull ft. Ke$ha - Timber](https://www.youtube.com/results?search_query=Pitbull+ft+Keha+Timber)
 - [Pitbull ft. Ne-Yo, Afrojack, Nayer - Give Me Everything](https://www.youtube.com/results?search_query=Pitbull+ft+NeYo+Afrojack+Nayer+Give+Me+Everything)
 - [R. Kelly - Ignition](https://www.youtube.com/results?search_query=R+Kelly+Ignition)
 - [Wiz Khalifa - Roll Up](https://www.youtube.com/results?search_query=Wiz+Khalifa+Roll+Up)
@@ -459,22 +461,3 @@ Generated on: 10/30/2016, 8:41:06 PM (364)
 ##### RIN
 - [Kagamine Rin - I Like You, I Love You](https://www.youtube.com/results?search_query=Kagamine+Rin+I+Like+You+I+Love+You)
 - [Kagamine Rin - Melancholic](https://www.youtube.com/results?search_query=Kagamine+Rin+Melancholic)
-
-
-## RNB
-
-##### HIP-HOP
-- [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
-- [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
-- [B.o.B ft. Bruno Mars - Nothin' On You](https://www.youtube.com/results?search_query=BoB+ft+Bruno+Mars+Nothin'+On+You)
-- [B.o.B ft. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+ft+Hayley+Williams+Airplanes)
-- [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
-- [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
-- [Flo Rida ft. Sia - Wild Ones](https://www.youtube.com/results?search_query=Flo+Rida+ft+Sia+Wild+Ones)
-- [Kanye West - Stronger](https://www.youtube.com/results?search_query=Kanye+West+Stronger)
-- [LMFAO - Party Rock Anthem](https://www.youtube.com/results?search_query=LMFAO+Party+Rock+Anthem)
-- [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
-- [Pitbull ft. Ke$ha - Timber](https://www.youtube.com/results?search_query=Pitbull+ft+Keha+Timber)
-- [Pitbull ft. Ne-Yo, Afrojack, Nayer - Give Me Everything](https://www.youtube.com/results?search_query=Pitbull+ft+NeYo+Afrojack+Nayer+Give+Me+Everything)
-- [R. Kelly - Ignition](https://www.youtube.com/results?search_query=R+Kelly+Ignition)
-- [Wiz Khalifa - Roll Up](https://www.youtube.com/results?search_query=Wiz+Khalifa+Roll+Up)
