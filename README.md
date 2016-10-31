@@ -1,8 +1,8 @@
 # music
 
-Generated on: 10/30/2016, 8:43:02 PM (353)
+Generated on: 10/30/2016, 11:03:20 PM (355)
 
-- [POP](https://github.com/codenameyau/music#pop) (102)
+- [POP](https://github.com/codenameyau/music#pop) (104)
 - [EDM](https://github.com/codenameyau/music#edm) (72)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (53)
 - [BEATS](https://github.com/codenameyau/music#beats) (42)
@@ -86,6 +86,8 @@ Generated on: 10/30/2016, 8:43:02 PM (353)
 - [Rihanna - Diamonds](https://www.youtube.com/results?search_query=Rihanna+Diamonds)
 - [Rihanna - Don't Stop The Music](https://www.youtube.com/results?search_query=Rihanna+Don't+Stop+The+Music)
 - [Rihanna ft. Calvin Harris - We Found Love](https://www.youtube.com/results?search_query=Rihanna+ft+Calvin+Harris+We+Found+Love)
+- [Shakira - Hips Don't Lie](https://www.youtube.com/results?search_query=Shakira+Hips+Don't+Lie)
+- [Shakira - Whenever, Whenever](https://www.youtube.com/results?search_query=Shakira+Whenever+Whenever)
 - [t.A.T.u. - All The Things She Said](https://www.youtube.com/results?search_query=tATu+All+The+Things+She+Said)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
 - [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
