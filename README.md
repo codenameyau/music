@@ -1,13 +1,13 @@
 # music
 
-Generated on: 1/2/2017, 12:49:57 PM (356)
+Generated on: 2/12/2017, 6:52:06 PM (358)
 
 - [POP](https://github.com/codenameyau/music#pop) (105)
 - [EDM](https://github.com/codenameyau/music#edm) (70)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (56)
 - [BEATS](https://github.com/codenameyau/music#beats) (41)
 - [ASIAN](https://github.com/codenameyau/music#asian) (32)
-- [ROCK](https://github.com/codenameyau/music#rock) (30)
+- [ROCK](https://github.com/codenameyau/music#rock) (32)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
 --
@@ -399,6 +399,7 @@ Generated on: 1/2/2017, 12:49:57 PM (356)
 - [Kutless - What Faith Can Do](https://www.youtube.com/results?search_query=Kutless+What+Faith+Can+Do)
 - [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
 - [Newsboys - God's Not Dead](https://www.youtube.com/results?search_query=Newsboys+God's+Not+Dead)
+- [Randy Travis - Forever and Ever Amen](https://www.youtube.com/results?search_query=Randy+Travis+Forever+and+Ever+Amen)
 - [Revive - Blink](https://www.youtube.com/results?search_query=Revive+Blink)
 - [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
 
@@ -420,6 +421,7 @@ Generated on: 1/2/2017, 12:49:57 PM (356)
 
 ##### PUNK
 - [Breaking Benjamin - The Diary of Jane](https://www.youtube.com/results?search_query=Breaking+Benjamin+The+Diary+of+Jane)
+- [Cult To Follow - Down](https://www.youtube.com/results?search_query=Cult+To+Follow+Down)
 - [Emilie Autumn - Fight Like a Girl](https://www.youtube.com/results?search_query=Emilie+Autumn+Fight+Like+a+Girl)
 - [Icon For Hire - Make a Move](https://www.youtube.com/results?search_query=Icon+For+Hire+Make+a+Move)
 - [The Killers - Mr. Brightside](https://www.youtube.com/results?search_query=The+Killers+Mr+Brightside)
