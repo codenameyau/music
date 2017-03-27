@@ -1,8 +1,8 @@
 # music
 
-Generated on: 2/12/2017, 6:52:06 PM (358)
+Generated on: 3/27/2017, 11:35:44 AM (360)
 
-- [POP](https://github.com/codenameyau/music#pop) (105)
+- [POP](https://github.com/codenameyau/music#pop) (107)
 - [EDM](https://github.com/codenameyau/music#edm) (70)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (56)
 - [BEATS](https://github.com/codenameyau/music#beats) (41)
@@ -61,6 +61,8 @@ Generated on: 2/12/2017, 6:52:06 PM (358)
 
 ##### LATINO
 - [Maite Perroni - Tu y Yo](https://www.youtube.com/results?search_query=Maite+Perroni+Tu+y+Yo)
+- [RBD - Este Corazon](https://www.youtube.com/results?search_query=RBD+Este+Corazon)
+- [RBD - Tras De Mi](https://www.youtube.com/results?search_query=RBD+Tras+De+Mi)
 
 ##### MAINSTREAM
 - [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
@@ -389,7 +391,7 @@ Generated on: 2/12/2017, 6:52:06 PM (358)
 - [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
 
 ##### KOREAN
-- [iM ft. Narcia - By my 1004](https://www.youtube.com/results?search_query=iM+ft+Narcia+By+my+1004)
+- [iM ft. Narcia - Be My 1004](https://www.youtube.com/results?search_query=iM+ft+Narcia+Be+My+1004)
 
 
 ## ROCK
