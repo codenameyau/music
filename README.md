@@ -1,19 +1,22 @@
 # music
 
-Generated on: 2/12/2017, 6:52:06 PM (358)
+Generated on: 4/2/2017, 2:33:54 AM (360)
 
-- [POP](https://github.com/codenameyau/music#pop) (105)
+- [POP](https://github.com/codenameyau/music#pop) (106)
 - [EDM](https://github.com/codenameyau/music#edm) (70)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (56)
 - [BEATS](https://github.com/codenameyau/music#beats) (41)
+- [ROCK](https://github.com/codenameyau/music#rock) (33)
 - [ASIAN](https://github.com/codenameyau/music#asian) (32)
-- [ROCK](https://github.com/codenameyau/music#rock) (32)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
 --
 
 
 ## POP
+
+##### ARABIC
+- [Arash ft. Rebecca - Temptation ](https://www.youtube.com/results?search_query=Arash+ft+Rebecca+Temptation+)
 
 ##### COVERS
 - [Against The Current - Counting Stars](https://www.youtube.com/results?search_query=Against+The+Current+Counting+Stars)
@@ -351,6 +354,50 @@ Generated on: 2/12/2017, 6:52:06 PM (358)
 - [New Boyz ft. Chris Brown - Better With The Lights Off](https://www.youtube.com/results?search_query=New+Boyz+ft+Chris+Brown+Better+With+The+Lights+Off)
 
 
+## ROCK
+
+##### CHRISTIAN
+- [Kutless - More Than It Seems](https://www.youtube.com/results?search_query=Kutless+More+Than+It+Seems)
+- [Kutless - What Faith Can Do](https://www.youtube.com/results?search_query=Kutless+What+Faith+Can+Do)
+- [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
+- [Newsboys - God's Not Dead](https://www.youtube.com/results?search_query=Newsboys+God's+Not+Dead)
+- [Randy Travis - Forever and Ever Amen](https://www.youtube.com/results?search_query=Randy+Travis+Forever+and+Ever+Amen)
+- [Revive - Blink](https://www.youtube.com/results?search_query=Revive+Blink)
+- [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
+
+##### MAINSTREAM
+- [Dashboard Confessional - Vindicated](https://www.youtube.com/results?search_query=Dashboard+Confessional+Vindicated)
+- [Fall Out Boys - Thanks For The Memories](https://www.youtube.com/results?search_query=Fall+Out+Boys+Thanks+For+The+Memories)
+- [Green Day - Boulevard of Broken Dreams](https://www.youtube.com/results?search_query=Green+Day+Boulevard+of+Broken+Dreams)
+- [Hinder - Lips Of An Angel](https://www.youtube.com/results?search_query=Hinder+Lips+Of+An+Angel)
+- [Lifehouse - Hanging By A Moment](https://www.youtube.com/results?search_query=Lifehouse+Hanging+By+A+Moment)
+- [Mat Kearney - Sooner or Later](https://www.youtube.com/results?search_query=Mat+Kearney+Sooner+or+Later)
+- [Nickelback - Far Away](https://www.youtube.com/results?search_query=Nickelback+Far+Away)
+- [Nickelback - How You Remind Me](https://www.youtube.com/results?search_query=Nickelback+How+You+Remind+Me)
+- [Rascal Flatts - What Hurts The Most](https://www.youtube.com/results?search_query=Rascal+Flatts+What+Hurts+The+Most)
+- [Runner Runner - So Obvious](https://www.youtube.com/results?search_query=Runner+Runner+So+Obvious)
+- [Simple Plan - Perfect](https://www.youtube.com/results?search_query=Simple+Plan+Perfect)
+- [Story of The Year - Until The Day I Die](https://www.youtube.com/results?search_query=Story+of+The+Year+Until+The+Day+I+Die)
+- [The All-American Rejects - Move Along](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Move+Along)
+- [The All-American Rejects - Swing Swing](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Swing+Swing)
+- [The Ataris - Boys of Summer](https://www.youtube.com/results?search_query=The+Ataris+Boys+of+Summer)
+
+##### PUNK
+- [Breaking Benjamin - The Diary of Jane](https://www.youtube.com/results?search_query=Breaking+Benjamin+The+Diary+of+Jane)
+- [Cult To Follow - Down](https://www.youtube.com/results?search_query=Cult+To+Follow+Down)
+- [Emilie Autumn - Fight Like a Girl](https://www.youtube.com/results?search_query=Emilie+Autumn+Fight+Like+a+Girl)
+- [Icon For Hire - Make a Move](https://www.youtube.com/results?search_query=Icon+For+Hire+Make+a+Move)
+- [The Killers - Mr. Brightside](https://www.youtube.com/results?search_query=The+Killers+Mr+Brightside)
+- [The Menzingers - Casey](https://www.youtube.com/results?search_query=The+Menzingers+Casey)
+- [Thirty Seconds to Mars - This is War](https://www.youtube.com/results?search_query=Thirty+Seconds+to+Mars+This+is+War)
+
+##### SOFT
+- [Five for Fighting - 100 Years](https://www.youtube.com/results?search_query=Five+for+Fighting+100+Years)
+- [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
+- [Relient K - Who I Am Hates Who I've Been (Acoustic)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic)
+- [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
+
+
 ## ASIAN
 
 ##### CHINESE
@@ -390,49 +437,6 @@ Generated on: 2/12/2017, 6:52:06 PM (358)
 
 ##### KOREAN
 - [iM ft. Narcia - By my 1004](https://www.youtube.com/results?search_query=iM+ft+Narcia+By+my+1004)
-
-
-## ROCK
-
-##### CHRISTIAN
-- [Kutless - More Than It Seems](https://www.youtube.com/results?search_query=Kutless+More+Than+It+Seems)
-- [Kutless - What Faith Can Do](https://www.youtube.com/results?search_query=Kutless+What+Faith+Can+Do)
-- [Laura Story - Blessings](https://www.youtube.com/results?search_query=Laura+Story+Blessings)
-- [Newsboys - God's Not Dead](https://www.youtube.com/results?search_query=Newsboys+God's+Not+Dead)
-- [Randy Travis - Forever and Ever Amen](https://www.youtube.com/results?search_query=Randy+Travis+Forever+and+Ever+Amen)
-- [Revive - Blink](https://www.youtube.com/results?search_query=Revive+Blink)
-- [Revive - Something Glorious](https://www.youtube.com/results?search_query=Revive+Something+Glorious)
-
-##### MAINSTREAM
-- [Dashboard Confessional - Vindicated](https://www.youtube.com/results?search_query=Dashboard+Confessional+Vindicated)
-- [Fall Out Boys - Thanks For The Memories](https://www.youtube.com/results?search_query=Fall+Out+Boys+Thanks+For+The+Memories)
-- [Green Day - Boulevard of Broken Dreams](https://www.youtube.com/results?search_query=Green+Day+Boulevard+of+Broken+Dreams)
-- [Hinder - Lips Of An Angel](https://www.youtube.com/results?search_query=Hinder+Lips+Of+An+Angel)
-- [Lifehouse - Hanging By A Moment](https://www.youtube.com/results?search_query=Lifehouse+Hanging+By+A+Moment)
-- [Mat Kearney - Sooner or Later](https://www.youtube.com/results?search_query=Mat+Kearney+Sooner+or+Later)
-- [Nickelback - Far Away](https://www.youtube.com/results?search_query=Nickelback+Far+Away)
-- [Nickelback - How You Remind Me](https://www.youtube.com/results?search_query=Nickelback+How+You+Remind+Me)
-- [Rascal Flatts - What Hurts The Most](https://www.youtube.com/results?search_query=Rascal+Flatts+What+Hurts+The+Most)
-- [Runner Runner - So Obvious](https://www.youtube.com/results?search_query=Runner+Runner+So+Obvious)
-- [Story of The Year - Until The Day I Die](https://www.youtube.com/results?search_query=Story+of+The+Year+Until+The+Day+I+Die)
-- [The All-American Rejects - Move Along](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Move+Along)
-- [The All-American Rejects - Swing Swing](https://www.youtube.com/results?search_query=The+AllAmerican+Rejects+Swing+Swing)
-- [The Ataris - Boys of Summer](https://www.youtube.com/results?search_query=The+Ataris+Boys+of+Summer)
-
-##### PUNK
-- [Breaking Benjamin - The Diary of Jane](https://www.youtube.com/results?search_query=Breaking+Benjamin+The+Diary+of+Jane)
-- [Cult To Follow - Down](https://www.youtube.com/results?search_query=Cult+To+Follow+Down)
-- [Emilie Autumn - Fight Like a Girl](https://www.youtube.com/results?search_query=Emilie+Autumn+Fight+Like+a+Girl)
-- [Icon For Hire - Make a Move](https://www.youtube.com/results?search_query=Icon+For+Hire+Make+a+Move)
-- [The Killers - Mr. Brightside](https://www.youtube.com/results?search_query=The+Killers+Mr+Brightside)
-- [The Menzingers - Casey](https://www.youtube.com/results?search_query=The+Menzingers+Casey)
-- [Thirty Seconds to Mars - This is War](https://www.youtube.com/results?search_query=Thirty+Seconds+to+Mars+This+is+War)
-
-##### SOFT
-- [Five for Fighting - 100 Years](https://www.youtube.com/results?search_query=Five+for+Fighting+100+Years)
-- [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
-- [Relient K - Who I Am Hates Who I've Been (Acoustic)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic)
-- [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
 
 
 ## VOCALOID
