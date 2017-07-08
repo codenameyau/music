@@ -1,16 +1,14 @@
 # music
 
-Generated on: 4/2/2017, 2:34:33 AM (362)
+Generated on: 7/7/2017, 9:01:23 PM (370)
 
-- [POP](https://github.com/codenameyau/music#pop) (108)
-- [EDM](https://github.com/codenameyau/music#edm) (70)
+- [POP](https://github.com/codenameyau/music#pop) (109)
+- [EDM](https://github.com/codenameyau/music#edm) (73)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (56)
 - [BEATS](https://github.com/codenameyau/music#beats) (41)
+- [ASIAN](https://github.com/codenameyau/music#asian) (36)
 - [ROCK](https://github.com/codenameyau/music#rock) (33)
-- [ASIAN](https://github.com/codenameyau/music#asian) (32)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
-
---
 
 
 ## POP
@@ -136,6 +134,7 @@ Generated on: 4/2/2017, 2:34:33 AM (362)
 - [Jason Mraz - I'm Yours](https://www.youtube.com/results?search_query=Jason+Mraz+I'm+Yours)
 - [John Legend - All Of Me](https://www.youtube.com/results?search_query=John+Legend+All+Of+Me)
 - [Kyla - Wait For You](https://www.youtube.com/results?search_query=Kyla+Wait+For+You)
+- [Natalie Imbruglia - Wrong Impression](https://www.youtube.com/results?search_query=Natalie+Imbruglia+Wrong+Impression)
 - [Passenger - Let Her Go](https://www.youtube.com/results?search_query=Passenger+Let+Her+Go)
 - [Rent - Seasons Of Love](https://www.youtube.com/results?search_query=Rent+Seasons+Of+Love)
 - [Richard Marx - Right Here Waiting For You](https://www.youtube.com/results?search_query=Richard+Marx+Right+Here+Waiting+For+You)
@@ -160,6 +159,7 @@ Generated on: 4/2/2017, 2:34:33 AM (362)
 - [Marshmello - Alone](https://www.youtube.com/results?search_query=Marshmello+Alone)
 - [Porter Robinson - Sad Machine](https://www.youtube.com/results?search_query=Porter+Robinson+Sad+Machine)
 - [Porter Robinson ft. Urban Cone - Lionhearted](https://www.youtube.com/results?search_query=Porter+Robinson+ft+Urban+Cone+Lionhearted)
+- [The Chainsmokers & Coldplay - Something Just Like This](https://www.youtube.com/results?search_query=The+Chainsmokers+%26+Coldplay+Something+Just+Like+This)
 - [The Chainsmokers ft. Halsey - Closer](https://www.youtube.com/results?search_query=The+Chainsmokers+ft+Halsey+Closer)
 
 ##### EURODANCE
@@ -184,6 +184,7 @@ Generated on: 4/2/2017, 2:34:33 AM (362)
 - [3Lau ft. Bright Lights - How You Love Me](https://www.youtube.com/results?search_query=3Lau+ft+Bright+Lights+How+You+Love+Me)
 - [Afrojack ft. Wrabel - Ten Feet Tall](https://www.youtube.com/results?search_query=Afrojack+ft+Wrabel+Ten+Feet+Tall)
 - [Alesso ft. Tove Lo - Heroes (We Could Be)](https://www.youtube.com/results?search_query=Alesso+ft+Tove+Lo+Heroes+We+Could+Be)
+- [Alex Skrindo Ft. Axol - Get Up Again](https://www.youtube.com/results?search_query=Alex+Skrindo+Ft+Axol+Get+Up+Again)
 - [Armin van Buuren ft. Trevor Guthrie - This Is What It Feels Like](https://www.youtube.com/results?search_query=Armin+van+Buuren+ft+Trevor+Guthrie+This+Is+What+It+Feels+Like)
 - [Audien ft. Ruby Prophet - Circles](https://www.youtube.com/results?search_query=Audien+ft+Ruby+Prophet+Circles)
 - [Avenor ft. LeLe - In Your Dreams](https://www.youtube.com/results?search_query=Avenor+ft+LeLe+In+Your+Dreams)
@@ -193,6 +194,7 @@ Generated on: 4/2/2017, 2:34:33 AM (362)
 - [Calvin Harris & Example - We'll Be Coming Back](https://www.youtube.com/results?search_query=Calvin+Harris+%26+Example+We'll+Be+Coming+Back)
 - [Calvin Harris & Example - We'll Be Coming Back (R3HAB EDC Vegas Remix)](https://www.youtube.com/results?search_query=Calvin+Harris+%26+Example+We'll+Be+Coming+Back+R3HAB+EDC+Vegas+Remix)
 - [Cash Cash ft. Bebe Rexha - Take Me Home](https://www.youtube.com/results?search_query=Cash+Cash+ft+Bebe+Rexha+Take+Me+Home)
+- [Galantis - Firebird](https://www.youtube.com/results?search_query=Galantis+Firebird)
 - [Hardwell ft. Amba Shepherd - Apollo](https://www.youtube.com/results?search_query=Hardwell+ft+Amba+Shepherd+Apollo)
 - [Hardwell ft. Chris Jones - Young Again](https://www.youtube.com/results?search_query=Hardwell+ft+Chris+Jones+Young+Again)
 - [Kaskade & Project 46 - Last Chance](https://www.youtube.com/results?search_query=Kaskade+%26+Project+46+Last+Chance)
@@ -211,8 +213,8 @@ Generated on: 4/2/2017, 2:34:33 AM (362)
 - [Tritonal ft. Skyler Stonestreet - Electric Glow](https://www.youtube.com/results?search_query=Tritonal+ft+Skyler+Stonestreet+Electric+Glow)
 - [Vicetone - United We Dance](https://www.youtube.com/results?search_query=Vicetone+United+We+Dance)
 - [WestFunk ft. Isla Meller - Apollo](https://www.youtube.com/results?search_query=WestFunk+ft+Isla+Meller+Apollo)
+- [Zedd ft. Alessia Cara - Stay](https://www.youtube.com/results?search_query=Zedd+ft+Alessia+Cara+Stay)
 - [Zedd ft. Foxes - Clarity](https://www.youtube.com/results?search_query=Zedd+ft+Foxes+Clarity)
-- [Zedd ft. Foxes - Clarity (Vicetone Remix)](https://www.youtube.com/results?search_query=Zedd+ft+Foxes+Clarity+Vicetone+Remix)
 - [Zedd ft. Hayley Williams - Stay The Night](https://www.youtube.com/results?search_query=Zedd+ft+Hayley+Williams+Stay+The+Night)
 - [Zedd ft. Jon Bellion - Beautiful Now](https://www.youtube.com/results?search_query=Zedd+ft+Jon+Bellion+Beautiful+Now)
 
@@ -306,10 +308,6 @@ Generated on: 4/2/2017, 2:34:33 AM (362)
 
 ## BEATS
 
-##### ASIAN
-- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
-- [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
-
 ##### HIP-HOP
 - [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
 - [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
@@ -341,6 +339,7 @@ Generated on: 4/2/2017, 2:34:33 AM (362)
 - [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
 - [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
 - [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
+- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
 - [Jaicko - Perfect](https://www.youtube.com/results?search_query=Jaicko+Perfect)
 - [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
 - [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
@@ -348,12 +347,58 @@ Generated on: 4/2/2017, 2:34:33 AM (362)
 - [Kid CuDi - Up Up And Away](https://www.youtube.com/results?search_query=Kid+CuDi+Up+Up+And+Away)
 - [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
 - [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
+- [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
 - [Mariah Carey - We Belong Together](https://www.youtube.com/results?search_query=Mariah+Carey+We+Belong+Together)
 - [Mario - Let Me Love You](https://www.youtube.com/results?search_query=Mario+Let+Me+Love+You)
 - [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)
 - [Nelly - Just A Dream](https://www.youtube.com/results?search_query=Nelly+Just+A+Dream)
 - [Nelly ft. Kelly Rowland - Dilemma](https://www.youtube.com/results?search_query=Nelly+ft+Kelly+Rowland+Dilemma)
 - [New Boyz ft. Chris Brown - Better With The Lights Off](https://www.youtube.com/results?search_query=New+Boyz+ft+Chris+Brown+Better+With+The+Lights+Off)
+
+
+## ASIAN
+
+##### CHINESE
+- [Dear Jane - Never Be Alone](https://www.youtube.com/results?search_query=Dear+Jane+Never+Be+Alone)
+- [Gary Cao & Genie Zhuo - Liang San Bo Yu Zhu Li Ye](https://www.youtube.com/results?search_query=Gary+Cao+%26+Genie+Zhuo+Liang+San+Bo+Yu+Zhu+Li+Ye)
+- [Han Anxu - How Lucky I Met You](https://www.youtube.com/results?search_query=Han+Anxu+How+Lucky+I+Met+You)
+- [Wang Lee Hom - Kiss Goodbye](https://www.youtube.com/results?search_query=Wang+Lee+Hom+Kiss+Goodbye)
+
+##### JAPANESE
+- [Aqua Timez - Niji](https://www.youtube.com/results?search_query=Aqua+Timez+Niji)
+- [Day After Tomorrow - Soshite Boku Ni Dekiru Koto](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Soshite+Boku+Ni+Dekiru+Koto)
+- [Day After Tomorrow - Starry Heavens](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Starry+Heavens)
+- [Do As Infinity - Fukai Mori](https://www.youtube.com/results?search_query=Do+As+Infinity+Fukai+Mori)
+- [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
+- [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
+- [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
+- [Kill La Kill - Blumenkranz](https://www.youtube.com/results?search_query=Kill+La+Kill+Blumenkranz)
+- [Mami Kawada - Hishuko no Sora](https://www.youtube.com/results?search_query=Mami+Kawada+Hishuko+no+Sora)
+- [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
+- [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
+- [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
+- [Nakagawa Shoko - Happily Ever After](https://www.youtube.com/results?search_query=Nakagawa+Shoko+Happily+Ever+After)
+- [Okina Reika - Tsuki No Curse](https://www.youtube.com/results?search_query=Okina+Reika+Tsuki+No+Curse)
+- [Oku Hanako - Garnet](https://www.youtube.com/results?search_query=Oku+Hanako+Garnet)
+- [Oku Hanako - Kawaranai Mono](https://www.youtube.com/results?search_query=Oku+Hanako+Kawaranai+Mono)
+- [Oku Hanako - Kusabi](https://www.youtube.com/results?search_query=Oku+Hanako+Kusabi)
+- [Rie Tanaka - Fields Of Hope](https://www.youtube.com/results?search_query=Rie+Tanaka+Fields+Of+Hope)
+- [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
+- [SNoW - Sakasama No Chou](https://www.youtube.com/results?search_query=SNoW+Sakasama+No+Chou)
+- [Stereopony - Hitohira No Hanabira](https://www.youtube.com/results?search_query=Stereopony+Hitohira+No+Hanabira)
+- [Stereopony - Tsukiakari No Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+No+Michishirube)
+- [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
+- [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
+- [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
+- [Yanagi Nagi - Rudbeckia](https://www.youtube.com/results?search_query=Yanagi+Nagi+Rudbeckia)
+- [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
+- [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
+
+##### KOREAN
+- [BIGBANG - HARU HARU](https://www.youtube.com/results?search_query=BIGBANG+HARU+HARU)
+- [iM ft. Narcia - Be My 1004](https://www.youtube.com/results?search_query=iM+ft+Narcia+Be+My+1004)
+- [SHINee - Stand By Me](https://www.youtube.com/results?search_query=SHINee+Stand+By+Me)
+- [SS501 - Because I'm Stupid](https://www.youtube.com/results?search_query=SS501+Because+I'm+Stupid)
 
 
 ## ROCK
@@ -398,47 +443,6 @@ Generated on: 4/2/2017, 2:34:33 AM (362)
 - [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
 - [Relient K - Who I Am Hates Who I've Been (Acoustic)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic)
 - [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
-
-
-## ASIAN
-
-##### CHINESE
-- [Dear Jane - Never Be Alone](https://www.youtube.com/results?search_query=Dear+Jane+Never+Be+Alone)
-- [Gary Cao & Genie Zhuo - Liang San Bo Yu Zhu Li Ye](https://www.youtube.com/results?search_query=Gary+Cao+%26+Genie+Zhuo+Liang+San+Bo+Yu+Zhu+Li+Ye)
-- [Wang Lee Hom - Kiss Goodbye](https://www.youtube.com/results?search_query=Wang+Lee+Hom+Kiss+Goodbye)
-
-##### JAPANESE
-- [Aqua Timez - Niji](https://www.youtube.com/results?search_query=Aqua+Timez+Niji)
-- [Day After Tomorrow - Soshite Boku Ni Dekiru Koto](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Soshite+Boku+Ni+Dekiru+Koto)
-- [Day After Tomorrow - Starry Heavens](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Starry+Heavens)
-- [Do As Infinity - Fukai Mori](https://www.youtube.com/results?search_query=Do+As+Infinity+Fukai+Mori)
-- [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
-- [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
-- [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
-- [Kill La Kill - Blumenkranz](https://www.youtube.com/results?search_query=Kill+La+Kill+Blumenkranz)
-- [Mami Kawada - Hishuko no Sora](https://www.youtube.com/results?search_query=Mami+Kawada+Hishuko+no+Sora)
-- [Mio Akiyama - Fude Pen Boru Pen](https://www.youtube.com/results?search_query=Mio+Akiyama+Fude+Pen+Boru+Pen)
-- [Misono - Ninin Sankyaku](https://www.youtube.com/results?search_query=Misono+Ninin+Sankyaku)
-- [Mitani Tomoyo - Gentle Hands](https://www.youtube.com/results?search_query=Mitani+Tomoyo+Gentle+Hands)
-- [Nakagawa Shoko - Happily Ever After](https://www.youtube.com/results?search_query=Nakagawa+Shoko+Happily+Ever+After)
-- [Okina Reika - Tsuki No Curse](https://www.youtube.com/results?search_query=Okina+Reika+Tsuki+No+Curse)
-- [Oku Hanako - Garnet](https://www.youtube.com/results?search_query=Oku+Hanako+Garnet)
-- [Oku Hanako - Kawaranai Mono](https://www.youtube.com/results?search_query=Oku+Hanako+Kawaranai+Mono)
-- [Oku Hanako - Kusabi](https://www.youtube.com/results?search_query=Oku+Hanako+Kusabi)
-- [Rie Tanaka - Fields Of Hope](https://www.youtube.com/results?search_query=Rie+Tanaka+Fields+Of+Hope)
-- [Scadman Foundations - Backwards](https://www.youtube.com/results?search_query=Scadman+Foundations+Backwards)
-- [SNoW - Sakasama No Chou](https://www.youtube.com/results?search_query=SNoW+Sakasama+No+Chou)
-- [Stereopony - Hitohira No Hanabira](https://www.youtube.com/results?search_query=Stereopony+Hitohira+No+Hanabira)
-- [Stereopony - Tsukiakari No Michishirube](https://www.youtube.com/results?search_query=Stereopony+Tsukiakari+No+Michishirube)
-- [Supercell - Kimi No Shiranai Monogatari](https://www.youtube.com/results?search_query=Supercell+Kimi+No+Shiranai+Monogatari)
-- [Supercell - LOVE&ROLL (Full10 Knockout!! Remix)](https://www.youtube.com/results?search_query=Supercell+LOVE%26ROLL+Full10+Knockout+Remix)
-- [Tamaki Nami - Reason](https://www.youtube.com/results?search_query=Tamaki+Nami+Reason)
-- [Yanagi Nagi - Rudbeckia](https://www.youtube.com/results?search_query=Yanagi+Nagi+Rudbeckia)
-- [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
-- [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
-
-##### KOREAN
-- [iM ft. Narcia - Be My 1004](https://www.youtube.com/results?search_query=iM+ft+Narcia+Be+My+1004)
 
 
 ## VOCALOID

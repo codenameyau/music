@@ -202,9 +202,6 @@ var createReadmeFile = function() {
       ));
     });
 
-    // Write horizontal rule.
-    stream.write('\n--\n');
-
     // Write songs for each genre.
     genreList.forEach(function(genre) {
       stream.write(format('\n\n## %s\n', genre.genre.toUpperCase()));
