@@ -1,6 +1,6 @@
 # music
 
-Generated on: 2017-8-11 11:57:22 (372)
+Total (372)
 
 - [POP](https://github.com/codenameyau/music#pop) (109)
 - [EDM](https://github.com/codenameyau/music#edm) (73)

@@ -189,9 +189,7 @@ var createReadmeFile = function() {
     var datetime = new Date();
     console.log('Create file: %s', README_PATH);
     stream.write('# music\n\n');
-    stream.write(format('Generated on: %s (%s)\n\n',
-      datetime.toLocaleString(), totalSongs
-    ));
+    stream.write(format('Total (%s)\n\n', totalSongs));
 
     // Write table of contents and total counts.
     genreList.forEach(function(genre) {
