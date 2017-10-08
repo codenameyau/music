@@ -1,14 +1,14 @@
 # music
 
-Generated on: 2017-10-8 17:13:44 (375)
+Total (372)
 
-- [POP](https://github.com/codenameyau/music#pop) (108)
-- [EDM](https://github.com/codenameyau/music#edm) (86)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (54)
-- [INTERNATIONAL](https://github.com/codenameyau/music#international) (37)
-- [ROCK](https://github.com/codenameyau/music#rock) (34)
-- [BEATS](https://github.com/codenameyau/music#beats) (33)
-- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (23)
+- [POP](https://github.com/codenameyau/music#pop) (109)
+- [EDM](https://github.com/codenameyau/music#edm) (73)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (58)
+- [BEATS](https://github.com/codenameyau/music#beats) (41)
+- [ASIAN](https://github.com/codenameyau/music#asian) (36)
+- [ROCK](https://github.com/codenameyau/music#rock) (33)
+- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
 
 
 ## POP
@@ -302,7 +302,9 @@ Generated on: 2017-10-8 17:13:44 (375)
 - [Yiruma - River Flows In You](https://www.youtube.com/results?search_query=Yiruma+River+Flows+In+You)
 
 ##### POST-ROCK
+- [Epic Soul Factory - Everdream](https://www.youtube.com/results?search_query=Epic+Soul+Factory+Everdream)
 - [Lights & Motion - Reanimation](https://www.youtube.com/results?search_query=Lights+%26+Motion+Reanimation)
+- [Relaxdaily - N°025](https://www.youtube.com/results?search_query=Relaxdaily+N%C2%B0025)
 - [Two Steps From Hell - Heart of Courage](https://www.youtube.com/results?search_query=Two+Steps+From+Hell+Heart+of+Courage)
 - [Veigar Margeirsson - Revelations](https://www.youtube.com/results?search_query=Veigar+Margeirsson+Revelations)
 - [Veigar Margeirsson - Rise Above](https://www.youtube.com/results?search_query=Veigar+Margeirsson+Rise+Above)
