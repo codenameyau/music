@@ -1,14 +1,14 @@
 # music
 
-Total (372)
+Total (377)
 
-- [POP](https://github.com/codenameyau/music#pop) (109)
-- [EDM](https://github.com/codenameyau/music#edm) (73)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (58)
-- [BEATS](https://github.com/codenameyau/music#beats) (41)
-- [ASIAN](https://github.com/codenameyau/music#asian) (36)
-- [ROCK](https://github.com/codenameyau/music#rock) (33)
-- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
+- [POP](https://github.com/codenameyau/music#pop) (108)
+- [EDM](https://github.com/codenameyau/music#edm) (86)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (56)
+- [INTERNATIONAL](https://github.com/codenameyau/music#international) (37)
+- [ROCK](https://github.com/codenameyau/music#rock) (34)
+- [BEATS](https://github.com/codenameyau/music#beats) (33)
+- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (23)
 
 
 ## POP
