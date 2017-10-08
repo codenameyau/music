@@ -1,14 +1,14 @@
 # music
 
-Generated on: 7/7/2017, 9:01:23 PM (370)
+Generated on: 2017-10-8 17:13:44 (375)
 
-- [POP](https://github.com/codenameyau/music#pop) (109)
-- [EDM](https://github.com/codenameyau/music#edm) (73)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (56)
-- [BEATS](https://github.com/codenameyau/music#beats) (41)
-- [ASIAN](https://github.com/codenameyau/music#asian) (36)
-- [ROCK](https://github.com/codenameyau/music#rock) (33)
-- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (22)
+- [POP](https://github.com/codenameyau/music#pop) (108)
+- [EDM](https://github.com/codenameyau/music#edm) (86)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (54)
+- [INTERNATIONAL](https://github.com/codenameyau/music#international) (37)
+- [ROCK](https://github.com/codenameyau/music#rock) (34)
+- [BEATS](https://github.com/codenameyau/music#beats) (33)
+- [VOCALOID](https://github.com/codenameyau/music#vocaloid) (23)
 
 
 ## POP
@@ -37,8 +37,6 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Ellie Goulding - Burn](https://www.youtube.com/results?search_query=Ellie+Goulding+Burn)
 - [Ellie Goulding - Lights](https://www.youtube.com/results?search_query=Ellie+Goulding+Lights)
 - [Ellie Goulding - Love Me Like You Do](https://www.youtube.com/results?search_query=Ellie+Goulding+Love+Me+Like+You+Do)
-- [Ellie Goulding - The Writer](https://www.youtube.com/results?search_query=Ellie+Goulding+The+Writer)
-- [LIGHTS - Ice](https://www.youtube.com/results?search_query=LIGHTS+Ice)
 - [LIGHTS - Saviour](https://www.youtube.com/results?search_query=LIGHTS+Saviour)
 - [LIGHTS - The Listening](https://www.youtube.com/results?search_query=LIGHTS+The+Listening)
 - [LIGHTS - Up We Go](https://www.youtube.com/results?search_query=LIGHTS+Up+We+Go)
@@ -94,6 +92,7 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Taylor Swift - Blank Space](https://www.youtube.com/results?search_query=Taylor+Swift+Blank+Space)
 - [Taylor Swift - Love Story](https://www.youtube.com/results?search_query=Taylor+Swift+Love+Story)
 - [Taylor Swift - Welcome to New York](https://www.youtube.com/results?search_query=Taylor+Swift+Welcome+to+New+York)
+- [The Veronicas - When It All Falls Apart](https://www.youtube.com/results?search_query=The+Veronicas+When+It+All+Falls+Apart)
 
 ##### POWER
 - [Conrad Sewell - Taste The Feeling](https://www.youtube.com/results?search_query=Conrad+Sewell+Taste+The+Feeling)
@@ -103,11 +102,11 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Nikki Yanofsky - I Believe](https://www.youtube.com/results?search_query=Nikki+Yanofsky+I+Believe)
 - [Rachel Platten - Fight Song](https://www.youtube.com/results?search_query=Rachel+Platten+Fight+Song)
 - [Sara Bareilles - Brave](https://www.youtube.com/results?search_query=Sara+Bareilles+Brave)
-- [Zack Knight - Be Somebody](https://www.youtube.com/results?search_query=Zack+Knight+Be+Somebody)
 
 ##### ROCK
 - [Adam Lambert - Runnin'](https://www.youtube.com/results?search_query=Adam+Lambert+Runnin')
 - [Alestorm ft. Lady Gaga - Magnetic Telephone](https://www.youtube.com/results?search_query=Alestorm+ft+Lady+Gaga+Magnetic+Telephone)
+- [Avril Lavigne - Complicated](https://www.youtube.com/results?search_query=Avril+Lavigne+Complicated)
 - [Avril Lavigne - Sk8ter Boi](https://www.youtube.com/results?search_query=Avril+Lavigne+Sk8ter+Boi)
 - [Bowling For Soup - 1985](https://www.youtube.com/results?search_query=Bowling+For+Soup+1985)
 - [Bowling For Soup - Girl All The Bad Guys Want](https://www.youtube.com/results?search_query=Bowling+For+Soup+Girl+All+The+Bad+Guys+Want)
@@ -115,8 +114,6 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Fountains of Wayne - Stacy's Mom](https://www.youtube.com/results?search_query=Fountains+of+Wayne+Stacy's+Mom)
 - [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
 - [Moroon 5 - Payphone](https://www.youtube.com/results?search_query=Moroon+5+Payphone)
-- [One Direction - Night Changes](https://www.youtube.com/results?search_query=One+Direction+Night+Changes)
-- [One Direction - Perfect](https://www.youtube.com/results?search_query=One+Direction+Perfect)
 - [One Republic - Apologize](https://www.youtube.com/results?search_query=One+Republic+Apologize)
 - [One Republic - Counting Stars](https://www.youtube.com/results?search_query=One+Republic+Counting+Stars)
 - [One Republic - Secrets](https://www.youtube.com/results?search_query=One+Republic+Secrets)
@@ -135,12 +132,14 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [John Legend - All Of Me](https://www.youtube.com/results?search_query=John+Legend+All+Of+Me)
 - [Kyla - Wait For You](https://www.youtube.com/results?search_query=Kyla+Wait+For+You)
 - [Natalie Imbruglia - Wrong Impression](https://www.youtube.com/results?search_query=Natalie+Imbruglia+Wrong+Impression)
-- [Passenger - Let Her Go](https://www.youtube.com/results?search_query=Passenger+Let+Her+Go)
+- [One Direction - Night Changes](https://www.youtube.com/results?search_query=One+Direction+Night+Changes)
+- [One Direction - Perfect](https://www.youtube.com/results?search_query=One+Direction+Perfect)
 - [Rent - Seasons Of Love](https://www.youtube.com/results?search_query=Rent+Seasons+Of+Love)
 - [Richard Marx - Right Here Waiting For You](https://www.youtube.com/results?search_query=Richard+Marx+Right+Here+Waiting+For+You)
 - [S Club 7 - Never Had A Dream Come True](https://www.youtube.com/results?search_query=S+Club+7+Never+Had+A+Dream+Come+True)
 - [Selena - Dreaming Of You](https://www.youtube.com/results?search_query=Selena+Dreaming+Of+You)
 - [Susan Vega - Tom's diner](https://www.youtube.com/results?search_query=Susan+Vega+Tom's+diner)
+- [Zack Knight - Be Somebody](https://www.youtube.com/results?search_query=Zack+Knight+Be+Somebody)
 
 
 ## EDM
@@ -152,6 +151,22 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Gostan - Klanga](https://www.youtube.com/results?search_query=Gostan+Klanga)
 - [Gostan - Klanga (Henri Pfr Remix)](https://www.youtube.com/results?search_query=Gostan+Klanga+Henri+Pfr+Remix)
 - [Ulf Nilsson - Little By Little (Lulleaux & George Whyman Remix)](https://www.youtube.com/results?search_query=Ulf+Nilsson+Little+By+Little+Lulleaux+%26+George+Whyman+Remix)
+
+##### EDM-INSTRUMENTAL
+- [Alan Walker - Fade](https://www.youtube.com/results?search_query=Alan+Walker+Fade)
+- [Alan Walker - Force](https://www.youtube.com/results?search_query=Alan+Walker+Force)
+- [Alan Walker - Spectre](https://www.youtube.com/results?search_query=Alan+Walker+Spectre)
+- [Alex Schulz - Summer Night](https://www.youtube.com/results?search_query=Alex+Schulz+Summer+Night)
+- [DJ Striden - Level One](https://www.youtube.com/results?search_query=DJ+Striden+Level+One)
+- [DJ Striden - Lights](https://www.youtube.com/results?search_query=DJ+Striden+Lights)
+- [Itro & Tobu - Cloud 9](https://www.youtube.com/results?search_query=Itro+%26+Tobu+Cloud+9)
+- [Itro & Tobu - Sunburst](https://www.youtube.com/results?search_query=Itro+%26+Tobu+Sunburst)
+- [Jacoo - Breathe](https://www.youtube.com/results?search_query=Jacoo+Breathe)
+- [Jacoo - Reincarnation](https://www.youtube.com/results?search_query=Jacoo+Reincarnation)
+- [Kasbo - Horizon](https://www.youtube.com/results?search_query=Kasbo+Horizon)
+- [Kontinuum - First Rain](https://www.youtube.com/results?search_query=Kontinuum+First+Rain)
+- [Kozoro - Something More](https://www.youtube.com/results?search_query=Kozoro+Something+More)
+- [Said The Sky ft. Car - Run Away](https://www.youtube.com/results?search_query=Said+The+Sky+ft+Car+Run+Away)
 
 ##### ELECTRONIC
 - [Galantis - You](https://www.youtube.com/results?search_query=Galantis+You)
@@ -226,7 +241,6 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [John Legend - All of Me (Tiesto Remix)](https://www.youtube.com/results?search_query=John+Legend+All+of+Me+Tiesto+Remix)
 - [Maja Francis - Come Companion (Tobu)](https://www.youtube.com/results?search_query=Maja+Francis+Come+Companion+Tobu)
 - [Phoebe Ryan - Mine (Illenium Remix)](https://www.youtube.com/results?search_query=Phoebe+Ryan+Mine+Illenium+Remix)
-- [Skrillex & Diplo - Where Are Ü Now (Autolaser Remix)](https://www.youtube.com/results?search_query=Skrillex+%26+Diplo+Where+Are+%C3%9C+Now+Autolaser+Remix)
 
 
 ## INSTRUMENTAL
@@ -243,21 +257,6 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Sword Art Online - Luminous Sword](https://www.youtube.com/results?search_query=Sword+Art+Online+Luminous+Sword)
 - [Your Name - Kataware Doki](https://www.youtube.com/results?search_query=Your+Name+Kataware+Doki)
 
-##### ELECTRONIC
-- [Alan Walker - Fade](https://www.youtube.com/results?search_query=Alan+Walker+Fade)
-- [Alan Walker - Force](https://www.youtube.com/results?search_query=Alan+Walker+Force)
-- [Alan Walker - Spectre](https://www.youtube.com/results?search_query=Alan+Walker+Spectre)
-- [DJ Striden - Level One](https://www.youtube.com/results?search_query=DJ+Striden+Level+One)
-- [DJ Striden - Lights](https://www.youtube.com/results?search_query=DJ+Striden+Lights)
-- [Itro & Tobu - Cloud 9](https://www.youtube.com/results?search_query=Itro+%26+Tobu+Cloud+9)
-- [Itro & Tobu - Sunburst](https://www.youtube.com/results?search_query=Itro+%26+Tobu+Sunburst)
-- [Jacoo - Breathe](https://www.youtube.com/results?search_query=Jacoo+Breathe)
-- [Jacoo - Reincarnation](https://www.youtube.com/results?search_query=Jacoo+Reincarnation)
-- [Kasbo - Horizon](https://www.youtube.com/results?search_query=Kasbo+Horizon)
-- [Kontinuum - First Rain](https://www.youtube.com/results?search_query=Kontinuum+First+Rain)
-- [Kozoro - Something More](https://www.youtube.com/results?search_query=Kozoro+Something+More)
-- [Said The Sky ft. Car - Run Away](https://www.youtube.com/results?search_query=Said+The+Sky+ft+Car+Run+Away)
-
 ##### FILM
 - [Frozen - Vuelie](https://www.youtube.com/results?search_query=Frozen+Vuelie)
 - [How To Train Your Dragon - Forbidden Friendship](https://www.youtube.com/results?search_query=How+To+Train+Your+Dragon+Forbidden+Friendship)
@@ -268,22 +267,28 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Transformers 3 Dark of The Moon - Battle](https://www.youtube.com/results?search_query=Transformers+3+Dark+of+The+Moon+Battle)
 
 ##### GAME
-- [Final Fantasy Crystal Chronicles - Moving Clouds on the River's Surface](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Moving+Clouds+on+the+River's+Surface)
-- [Final Fantasy Crystal Chronicles - Promised Grace](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Promised+Grace)
-- [Final Fantasy Crystal Chronicles - Sad Monster](https://www.youtube.com/results?search_query=Final+Fantasy+Crystal+Chronicles+Sad+Monster)
+- [Final Fantasy - Moving Clouds on the River's Surface](https://www.youtube.com/results?search_query=Final+Fantasy+Moving+Clouds+on+the+River's+Surface)
+- [Final Fantasy - Promised Grace](https://www.youtube.com/results?search_query=Final+Fantasy+Promised+Grace)
+- [Final Fantasy - Sad Monster](https://www.youtube.com/results?search_query=Final+Fantasy+Sad+Monster)
 - [Fire Emblem - Black Fang](https://www.youtube.com/results?search_query=Fire+Emblem+Black+Fang)
 - [Fire Emblem - Distrubance of Agustria](https://www.youtube.com/results?search_query=Fire+Emblem+Distrubance+of+Agustria)
 - [Fire Emblem - Light and Dark](https://www.youtube.com/results?search_query=Fire+Emblem+Light+and+Dark)
 - [Fire Emblem - Lion King Eltshan](https://www.youtube.com/results?search_query=Fire+Emblem+Lion+King+Eltshan)
 - [Fire Emblem - Main Theme](https://www.youtube.com/results?search_query=Fire+Emblem+Main+Theme)
+- [Legend of Zelda - Grandma Theme](https://www.youtube.com/results?search_query=Legend+of+Zelda+Grandma+Theme)
+- [Legend of Zelda - Saria's Song](https://www.youtube.com/results?search_query=Legend+of+Zelda+Saria's+Song)
+- [Legend of Zelda - Windfall Island](https://www.youtube.com/results?search_query=Legend+of+Zelda+Windfall+Island)
+- [Legend of Zelda - Zelda's Lullaby](https://www.youtube.com/results?search_query=Legend+of+Zelda+Zelda's+Lullaby)
 - [MapleStory - Cash Shop](https://www.youtube.com/results?search_query=MapleStory+Cash+Shop)
 - [MapleStory - El Nath](https://www.youtube.com/results?search_query=MapleStory+El+Nath)
 - [MapleStory - Ellinia](https://www.youtube.com/results?search_query=MapleStory+Ellinia)
 - [MapleStory - Lith Harbor](https://www.youtube.com/results?search_query=MapleStory+Lith+Harbor)
 - [MapleStory - Login Theme](https://www.youtube.com/results?search_query=MapleStory+Login+Theme)
-
-##### HOUSE
-- [Alex Schulz - Summer Night](https://www.youtube.com/results?search_query=Alex+Schulz+Summer+Night)
+- [Pokemon - Cerulean City](https://www.youtube.com/results?search_query=Pokemon+Cerulean+City)
+- [Pokemon - Elesa Gym Theme 2](https://www.youtube.com/results?search_query=Pokemon+Elesa+Gym+Theme+2)
+- [Pokemon - Goldenrod City](https://www.youtube.com/results?search_query=Pokemon+Goldenrod+City)
+- [Pokemon - Pallet Town](https://www.youtube.com/results?search_query=Pokemon+Pallet+Town)
+- [Pokemon - Slateport City](https://www.youtube.com/results?search_query=Pokemon+Slateport+City)
 
 ##### PIANO
 - [Brian Crain - Butterfly Waltz](https://www.youtube.com/results?search_query=Brian+Crain+Butterfly+Waltz)
@@ -291,7 +296,8 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Isaac Shepard - I Will Still Love You](https://www.youtube.com/results?search_query=Isaac+Shepard+I+Will+Still+Love+You)
 - [Isaac Shepard - Leaves in the Wind](https://www.youtube.com/results?search_query=Isaac+Shepard+Leaves+in+the+Wind)
 - [Joe Hisaishi - Always With Me](https://www.youtube.com/results?search_query=Joe+Hisaishi+Always+With+Me)
-- [Ludovico Einaudi - Islands](https://www.youtube.com/results?search_query=Ludovico+Einaudi+Islands)
+- [Ludovico Einaudi - Le Onde](https://www.youtube.com/results?search_query=Ludovico+Einaudi+Le+Onde)
+- [Ludovico Einaudi - Nuvole Bianche](https://www.youtube.com/results?search_query=Ludovico+Einaudi+Nuvole+Bianche)
 - [Yiruma - Kiss The Rain](https://www.youtube.com/results?search_query=Yiruma+Kiss+The+Rain)
 - [Yiruma - River Flows In You](https://www.youtube.com/results?search_query=Yiruma+River+Flows+In+You)
 
@@ -303,60 +309,12 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Your Hand in Mine - Explosions in the Sky](https://www.youtube.com/results?search_query=Your+Hand+in+Mine+Explosions+in+the+Sky)
 
 ##### VIOLIN
-- [J.B. Lully - Gavotte](https://www.youtube.com/results?search_query=JB+Lully+Gavotte)
+- [Jean-Baptiste Lully - Gavotte](https://www.youtube.com/results?search_query=JeanBaptiste+Lully+Gavotte)
+- [Lindsey Stirling - Electric Daisy](https://www.youtube.com/results?search_query=Lindsey+Stirling+Electric+Daisy)
+- [Lindsey Stirling - Spontaneous Me](https://www.youtube.com/results?search_query=Lindsey+Stirling+Spontaneous+Me)
 
 
-## BEATS
-
-##### HIP-HOP
-- [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
-- [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
-- [B.o.B ft. Bruno Mars - Nothin' On You](https://www.youtube.com/results?search_query=BoB+ft+Bruno+Mars+Nothin'+On+You)
-- [B.o.B ft. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+ft+Hayley+Williams+Airplanes)
-- [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
-- [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
-- [Flo Rida ft. Sia - Wild Ones](https://www.youtube.com/results?search_query=Flo+Rida+ft+Sia+Wild+Ones)
-- [Kanye West - Stronger](https://www.youtube.com/results?search_query=Kanye+West+Stronger)
-- [LMFAO - Party Rock Anthem](https://www.youtube.com/results?search_query=LMFAO+Party+Rock+Anthem)
-- [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
-- [Pitbull ft. Ke$ha - Timber](https://www.youtube.com/results?search_query=Pitbull+ft+Keha+Timber)
-- [Pitbull ft. Ne-Yo, Afrojack, Nayer - Give Me Everything](https://www.youtube.com/results?search_query=Pitbull+ft+NeYo+Afrojack+Nayer+Give+Me+Everything)
-- [R. Kelly - Ignition](https://www.youtube.com/results?search_query=R+Kelly+Ignition)
-- [Wiz Khalifa - Roll Up](https://www.youtube.com/results?search_query=Wiz+Khalifa+Roll+Up)
-
-##### RAP
-- [Eminem - Lose Yourself](https://www.youtube.com/results?search_query=Eminem+Lose+Yourself)
-- [Eminem ft. Rihanna - Love The Way You Lie](https://www.youtube.com/results?search_query=Eminem+ft+Rihanna+Love+The+Way+You+Lie)
-- [Linkin Park - Breaking The Habit](https://www.youtube.com/results?search_query=Linkin+Park+Breaking+The+Habit)
-- [Linkin Park - Castle of Glass](https://www.youtube.com/results?search_query=Linkin+Park+Castle+of+Glass)
-- [Linkin Park - In the End](https://www.youtube.com/results?search_query=Linkin+Park+In+the+End)
-- [Linkin Park - Numb](https://www.youtube.com/results?search_query=Linkin+Park+Numb)
-
-##### RNB
-- [August Rigo - Till It's Over](https://www.youtube.com/results?search_query=August+Rigo+Till+It's+Over)
-- [Gym Class Heroes ft. Adam Levine - Stereo Hearts](https://www.youtube.com/results?search_query=Gym+Class+Heroes+ft+Adam+Levine+Stereo+Hearts)
-- [Iyaz - Heartbeat](https://www.youtube.com/results?search_query=Iyaz+Heartbeat)
-- [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
-- [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
-- [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
-- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
-- [Jaicko - Perfect](https://www.youtube.com/results?search_query=Jaicko+Perfect)
-- [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
-- [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
-- [Justin Bieber - Love Yourself](https://www.youtube.com/results?search_query=Justin+Bieber+Love+Yourself)
-- [Kid CuDi - Up Up And Away](https://www.youtube.com/results?search_query=Kid+CuDi+Up+Up+And+Away)
-- [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
-- [Latif - Crazy Love](https://www.youtube.com/results?search_query=Latif+Crazy+Love)
-- [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
-- [Mariah Carey - We Belong Together](https://www.youtube.com/results?search_query=Mariah+Carey+We+Belong+Together)
-- [Mario - Let Me Love You](https://www.youtube.com/results?search_query=Mario+Let+Me+Love+You)
-- [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)
-- [Nelly - Just A Dream](https://www.youtube.com/results?search_query=Nelly+Just+A+Dream)
-- [Nelly ft. Kelly Rowland - Dilemma](https://www.youtube.com/results?search_query=Nelly+ft+Kelly+Rowland+Dilemma)
-- [New Boyz ft. Chris Brown - Better With The Lights Off](https://www.youtube.com/results?search_query=New+Boyz+ft+Chris+Brown+Better+With+The+Lights+Off)
-
-
-## ASIAN
+## INTERNATIONAL
 
 ##### CHINESE
 - [Dear Jane - Never Be Alone](https://www.youtube.com/results?search_query=Dear+Jane+Never+Be+Alone)
@@ -369,6 +327,7 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Day After Tomorrow - Soshite Boku Ni Dekiru Koto](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Soshite+Boku+Ni+Dekiru+Koto)
 - [Day After Tomorrow - Starry Heavens](https://www.youtube.com/results?search_query=Day+After+Tomorrow+Starry+Heavens)
 - [Do As Infinity - Fukai Mori](https://www.youtube.com/results?search_query=Do+As+Infinity+Fukai+Mori)
+- [Field of Day - Dan Dan Kokoro Hikareteku](https://www.youtube.com/results?search_query=Field+of+Day+Dan+Dan+Kokoro+Hikareteku)
 - [GARNiDELiA - ARiA](https://www.youtube.com/results?search_query=GARNiDELiA+ARiA)
 - [GARNiDELiA - Orion](https://www.youtube.com/results?search_query=GARNiDELiA+Orion)
 - [GARNiDELiA - SPiCa](https://www.youtube.com/results?search_query=GARNiDELiA+SPiCa)
@@ -393,11 +352,11 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Yanagi Nagi - Rudbeckia](https://www.youtube.com/results?search_query=Yanagi+Nagi+Rudbeckia)
 - [Yui Makino - Modokashi Sekai no Ue De](https://www.youtube.com/results?search_query=Yui+Makino+Modokashi+Sekai+no+Ue+De)
 - [Yumi Hara - Staple Stable](https://www.youtube.com/results?search_query=Yumi+Hara+Staple+Stable)
+- [Zard - Dan Dan Kokoro Hikareteku](https://www.youtube.com/results?search_query=Zard+Dan+Dan+Kokoro+Hikareteku)
 
 ##### KOREAN
 - [BIGBANG - HARU HARU](https://www.youtube.com/results?search_query=BIGBANG+HARU+HARU)
 - [iM ft. Narcia - Be My 1004](https://www.youtube.com/results?search_query=iM+ft+Narcia+Be+My+1004)
-- [SHINee - Stand By Me](https://www.youtube.com/results?search_query=SHINee+Stand+By+Me)
 - [SS501 - Because I'm Stupid](https://www.youtube.com/results?search_query=SS501+Because+I'm+Stupid)
 
 
@@ -441,15 +400,57 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 ##### SOFT
 - [Five for Fighting - 100 Years](https://www.youtube.com/results?search_query=Five+for+Fighting+100+Years)
 - [Howie Day - Collide](https://www.youtube.com/results?search_query=Howie+Day+Collide)
+- [Rebecca Young - Doing the wrong things](https://www.youtube.com/results?search_query=Rebecca+Young+Doing+the+wrong+things)
 - [Relient K - Who I Am Hates Who I've Been (Acoustic)](https://www.youtube.com/results?search_query=Relient+K+Who+I+Am+Hates+Who+I've+Been+Acoustic)
 - [The Calling - Wherever You Will Go](https://www.youtube.com/results?search_query=The+Calling+Wherever+You+Will+Go)
+
+
+## BEATS
+
+##### HIP-HOP
+- [Akon - Don't Matter](https://www.youtube.com/results?search_query=Akon+Don't+Matter)
+- [Akon - Right Now (Na Na Na)](https://www.youtube.com/results?search_query=Akon+Right+Now+Na+Na+Na)
+- [B.o.B ft. Hayley Williams - Airplanes](https://www.youtube.com/results?search_query=BoB+ft+Hayley+Williams+Airplanes)
+- [Flo Rida - My House](https://www.youtube.com/results?search_query=Flo+Rida+My+House)
+- [Flo Rida - Whistle](https://www.youtube.com/results?search_query=Flo+Rida+Whistle)
+- [Flo Rida ft. Sia - Wild Ones](https://www.youtube.com/results?search_query=Flo+Rida+ft+Sia+Wild+Ones)
+- [Kanye West - Stronger](https://www.youtube.com/results?search_query=Kanye+West+Stronger)
+- [LMFAO - Party Rock Anthem](https://www.youtube.com/results?search_query=LMFAO+Party+Rock+Anthem)
+- [Nicki Minaj - Super Bass](https://www.youtube.com/results?search_query=Nicki+Minaj+Super+Bass)
+- [Pitbull ft. Ke$ha - Timber](https://www.youtube.com/results?search_query=Pitbull+ft+Keha+Timber)
+- [Pitbull ft. Ne-Yo, Afrojack, Nayer - Give Me Everything](https://www.youtube.com/results?search_query=Pitbull+ft+NeYo+Afrojack+Nayer+Give+Me+Everything)
+- [R. Kelly - Ignition](https://www.youtube.com/results?search_query=R+Kelly+Ignition)
+
+##### RAP
+- [Eminem ft. Rihanna - Love The Way You Lie](https://www.youtube.com/results?search_query=Eminem+ft+Rihanna+Love+The+Way+You+Lie)
+- [Linkin Park - Breaking The Habit](https://www.youtube.com/results?search_query=Linkin+Park+Breaking+The+Habit)
+- [Linkin Park - In the End](https://www.youtube.com/results?search_query=Linkin+Park+In+the+End)
+- [Linkin Park - Numb](https://www.youtube.com/results?search_query=Linkin+Park+Numb)
+
+##### RNB
+- [Iyaz - Heartbeat](https://www.youtube.com/results?search_query=Iyaz+Heartbeat)
+- [Iyaz - Pretty Girls](https://www.youtube.com/results?search_query=Iyaz+Pretty+Girls)
+- [Iyaz - Replay](https://www.youtube.com/results?search_query=Iyaz+Replay)
+- [Iyaz - Solo](https://www.youtube.com/results?search_query=Iyaz+Solo)
+- [J.R.A - By Chance (You and I)](https://www.youtube.com/results?search_query=JRA+By+Chance+You+and+I)
+- [Jaicko - Will You Be There](https://www.youtube.com/results?search_query=Jaicko+Will+You+Be+There)
+- [Jay Sean - Down](https://www.youtube.com/results?search_query=Jay+Sean+Down)
+- [Justin Bieber - Love Yourself](https://www.youtube.com/results?search_query=Justin+Bieber+Love+Yourself)
+- [Kid CuDi - Up Up And Away](https://www.youtube.com/results?search_query=Kid+CuDi+Up+Up+And+Away)
+- [Latif - Above & Beyond](https://www.youtube.com/results?search_query=Latif+Above+%26+Beyond)
+- [Magnetic North - Drift Away](https://www.youtube.com/results?search_query=Magnetic+North+Drift+Away)
+- [Mariah Carey - We Belong Together](https://www.youtube.com/results?search_query=Mariah+Carey+We+Belong+Together)
+- [Mario - Let Me Love You](https://www.youtube.com/results?search_query=Mario+Let+Me+Love+You)
+- [Ne-Yo - So Sick](https://www.youtube.com/results?search_query=NeYo+So+Sick)
+- [Nelly - Just A Dream](https://www.youtube.com/results?search_query=Nelly+Just+A+Dream)
+- [Nelly ft. Kelly Rowland - Dilemma](https://www.youtube.com/results?search_query=Nelly+ft+Kelly+Rowland+Dilemma)
+- [New Boyz ft. Chris Brown - Better With The Lights Off](https://www.youtube.com/results?search_query=New+Boyz+ft+Chris+Brown+Better+With+The+Lights+Off)
 
 
 ## VOCALOID
 
 ##### DUET
 - [Hatsune Miku & GUMI - Futariboshi](https://www.youtube.com/results?search_query=Hatsune+Miku+%26+GUMI+Futariboshi)
-- [Kagamine Rin & Len - Gemini](https://www.youtube.com/results?search_query=Kagamine+Rin+%26+Len+Gemini)
 - [Megurine Luka & GUMI - Happy Synthesizer](https://www.youtube.com/results?search_query=Megurine+Luka+%26+GUMI+Happy+Synthesizer)
 - [SF-A2 miki & KAITO - iNSaNiTY](https://www.youtube.com/results?search_query=SFA2+miki+%26+KAITO+iNSaNiTY)
 
@@ -457,14 +458,19 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [GUMI - CANDY CANDY](https://www.youtube.com/results?search_query=GUMI+CANDY+CANDY)
 - [GUMI - Sayonara Midnight](https://www.youtube.com/results?search_query=GUMI+Sayonara+Midnight)
 
+##### KAGAMINE
+- [Kagamine Len - Servant of Evil](https://www.youtube.com/results?search_query=Kagamine+Len+Servant+of+Evil)
+- [Kagamine Rin - I Like You, I Love You](https://www.youtube.com/results?search_query=Kagamine+Rin+I+Like+You+I+Love+You)
+- [Kagamine Rin - Melancholic](https://www.youtube.com/results?search_query=Kagamine+Rin+Melancholic)
+
 ##### MIKU
 - [Hatsune Miku - 1/6](https://www.youtube.com/results?search_query=Hatsune+Miku+16)
 - [Hatsune Miku - Ai Kotobo](https://www.youtube.com/results?search_query=Hatsune+Miku+Ai+Kotobo)
 - [Hatsune Miku - ARiA](https://www.youtube.com/results?search_query=Hatsune+Miku+ARiA)
-- [Hatsune Miku - Bad Apple](https://www.youtube.com/results?search_query=Hatsune+Miku+Bad+Apple)
 - [Hatsune Miku - Calc](https://www.youtube.com/results?search_query=Hatsune+Miku+Calc)
 - [Hatsune Miku - From Y to Y](https://www.youtube.com/results?search_query=Hatsune+Miku+From+Y+to+Y)
 - [Hatsune Miku - Glow](https://www.youtube.com/results?search_query=Hatsune+Miku+Glow)
+- [Hatsune Miku - Letter Song](https://www.youtube.com/results?search_query=Hatsune+Miku+Letter+Song)
 - [Hatsune Miku - Love is War](https://www.youtube.com/results?search_query=Hatsune+Miku+Love+is+War)
 - [Hatsune Miku - Melt](https://www.youtube.com/results?search_query=Hatsune+Miku+Melt)
 - [Hatsune Miku - Once Upon A Me](https://www.youtube.com/results?search_query=Hatsune+Miku+Once+Upon+A+Me)
@@ -472,7 +478,4 @@ Generated on: 7/7/2017, 9:01:23 PM (370)
 - [Hatsune Miku - Saihate](https://www.youtube.com/results?search_query=Hatsune+Miku+Saihate)
 - [Hatsune Miku - Senbonzakura](https://www.youtube.com/results?search_query=Hatsune+Miku+Senbonzakura)
 - [Hatsune Miku - SPiCa](https://www.youtube.com/results?search_query=Hatsune+Miku+SPiCa)
-
-##### RIN
-- [Kagamine Rin - I Like You, I Love You](https://www.youtube.com/results?search_query=Kagamine+Rin+I+Like+You+I+Love+You)
-- [Kagamine Rin - Melancholic](https://www.youtube.com/results?search_query=Kagamine+Rin+Melancholic)
+- [Hatsune Miku - Yuuhi Saka](https://www.youtube.com/results?search_query=Hatsune+Miku+Yuuhi+Saka)
