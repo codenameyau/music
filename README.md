@@ -1,10 +1,10 @@
 # music
 
-Total (377)
+Total (378)
 
 - [POP](https://github.com/codenameyau/music#pop) (108)
 - [EDM](https://github.com/codenameyau/music#edm) (86)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (56)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (57)
 - [INTERNATIONAL](https://github.com/codenameyau/music#international) (37)
 - [ROCK](https://github.com/codenameyau/music#rock) (34)
 - [BEATS](https://github.com/codenameyau/music#beats) (33)
@@ -254,6 +254,7 @@ Total (377)
 ##### ANIME
 - [5 Centimeters Per Second - Distant Everyday Memories](https://www.youtube.com/results?search_query=5+Centimeters+Per+Second+Distant+Everyday+Memories)
 - [5 Centimeters Per Second - End Theme](https://www.youtube.com/results?search_query=5+Centimeters+Per+Second+End+Theme)
+- [Dragonball Z - New Earth Music](https://www.youtube.com/results?search_query=Dragonball+Z+New+Earth+Music)
 - [Sword Art Online - Luminous Sword](https://www.youtube.com/results?search_query=Sword+Art+Online+Luminous+Sword)
 - [Your Name - Kataware Doki](https://www.youtube.com/results?search_query=Your+Name+Kataware+Doki)
 
