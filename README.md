@@ -1,8 +1,8 @@
 # music
 
-Total (378)
+Total (379)
 
-- [POP](https://github.com/codenameyau/music#pop) (108)
+- [POP](https://github.com/codenameyau/music#pop) (109)
 - [EDM](https://github.com/codenameyau/music#edm) (86)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (57)
 - [INTERNATIONAL](https://github.com/codenameyau/music#international) (37)
@@ -127,6 +127,7 @@ Total (378)
 
 ##### SOFT
 - [Anna Graceman - Words](https://www.youtube.com/results?search_query=Anna+Graceman+Words)
+- [Cyndi Lauper - Time After Time](https://www.youtube.com/results?search_query=Cyndi+Lauper+Time+After+Time)
 - [Elliott Yamin - Wait For You](https://www.youtube.com/results?search_query=Elliott+Yamin+Wait+For+You)
 - [Jason Mraz - I'm Yours](https://www.youtube.com/results?search_query=Jason+Mraz+I'm+Yours)
 - [John Legend - All Of Me](https://www.youtube.com/results?search_query=John+Legend+All+Of+Me)
