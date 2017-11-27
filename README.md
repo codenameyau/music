@@ -2,8 +2,8 @@
 
 Total (378)
 
-- [POP](https://github.com/codenameyau/music#pop) (105)
-- [EDM](https://github.com/codenameyau/music#edm) (87)
+- [POP](https://github.com/codenameyau/music#pop) (106)
+- [EDM](https://github.com/codenameyau/music#edm) (86)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (57)
 - [INTERNATIONAL](https://github.com/codenameyau/music#international) (38)
 - [ROCK](https://github.com/codenameyau/music#rock) (35)
@@ -109,6 +109,7 @@ Total (378)
 - [Daughtry - Waiting for Superman](https://www.youtube.com/results?search_query=Daughtry+Waiting+for+Superman)
 - [Fountains of Wayne - Stacy's Mom](https://www.youtube.com/results?search_query=Fountains+of+Wayne+Stacy's+Mom)
 - [Jordin Spark - Battlefield](https://www.youtube.com/results?search_query=Jordin+Spark+Battlefield)
+- [Marcus Svedin - Indestructible Mind](https://www.youtube.com/results?search_query=Marcus+Svedin+Indestructible+Mind)
 - [Moroon 5 - Payphone](https://www.youtube.com/results?search_query=Moroon+5+Payphone)
 - [One Republic - Apologize](https://www.youtube.com/results?search_query=One+Republic+Apologize)
 - [One Republic - Counting Stars](https://www.youtube.com/results?search_query=One+Republic+Counting+Stars)
@@ -229,7 +230,6 @@ Total (378)
 - [Zedd ft. Alessia Cara - Stay](https://www.youtube.com/results?search_query=Zedd+ft+Alessia+Cara+Stay)
 - [Zedd ft. Foxes - Clarity](https://www.youtube.com/results?search_query=Zedd+ft+Foxes+Clarity)
 - [Zedd ft. Hayley Williams - Stay The Night](https://www.youtube.com/results?search_query=Zedd+ft+Hayley+Williams+Stay+The+Night)
-- [Zedd ft. Jon Bellion - Beautiful Now](https://www.youtube.com/results?search_query=Zedd+ft+Jon+Bellion+Beautiful+Now)
 
 ##### REMIX
 - [Ariana Grande - One Last Time (Henry Land Remix)](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time+Henry+Land+Remix)
