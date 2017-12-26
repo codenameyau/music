@@ -1,11 +1,11 @@
 # music
 
-Total (378)
+Total (379)
 
-- [POP](https://github.com/codenameyau/music#pop) (106)
+- [POP](https://github.com/codenameyau/music#pop) (103)
 - [EDM](https://github.com/codenameyau/music#edm) (86)
 - [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (57)
-- [INTERNATIONAL](https://github.com/codenameyau/music#international) (38)
+- [INTERNATIONAL](https://github.com/codenameyau/music#international) (42)
 - [ROCK](https://github.com/codenameyau/music#rock) (35)
 - [BEATS](https://github.com/codenameyau/music#beats) (33)
 - [VOCALOID](https://github.com/codenameyau/music#vocaloid) (23)
@@ -54,12 +54,6 @@ Total (378)
 - [The Naked and Famous - Young Blood](https://www.youtube.com/results?search_query=The+Naked+and+Famous+Young+Blood)
 - [The Royal Concept - On Our Way](https://www.youtube.com/results?search_query=The+Royal+Concept+On+Our+Way)
 
-##### LATINO
-- [Maite Perroni - Tu y Yo](https://www.youtube.com/results?search_query=Maite+Perroni+Tu+y+Yo)
-- [March Anthony - Vivir Mi Vida](https://www.youtube.com/results?search_query=March+Anthony+Vivir+Mi+Vida)
-- [RBD - Este Corazon](https://www.youtube.com/results?search_query=RBD+Este+Corazon)
-- [RBD - Tras De Mi](https://www.youtube.com/results?search_query=RBD+Tras+De+Mi)
-
 ##### MAINSTREAM
 - [Adele - Set Fire To The Rain](https://www.youtube.com/results?search_query=Adele+Set+Fire+To+The+Rain)
 - [Ariana Grande - One Last Time](https://www.youtube.com/results?search_query=Ariana+Grande+One+Last+Time)
@@ -91,6 +85,7 @@ Total (378)
 
 ##### POWER
 - [Conrad Sewell - Taste The Feeling](https://www.youtube.com/results?search_query=Conrad+Sewell+Taste+The+Feeling)
+- [Demi Lovato - Really Don't Care](https://www.youtube.com/results?search_query=Demi+Lovato+Really+Don't+Care)
 - [K'naan - Wavin' Flag](https://www.youtube.com/results?search_query=K'naan+Wavin'+Flag)
 - [Kelly Clarkson - Stronger](https://www.youtube.com/results?search_query=Kelly+Clarkson+Stronger)
 - [Mandisa - Stronger](https://www.youtube.com/results?search_query=Mandisa+Stronger)
@@ -360,6 +355,12 @@ Total (378)
 - [BIGBANG - HARU HARU](https://www.youtube.com/results?search_query=BIGBANG+HARU+HARU)
 - [iM ft. Narcia - Be My 1004](https://www.youtube.com/results?search_query=iM+ft+Narcia+Be+My+1004)
 - [SS501 - Because I'm Stupid](https://www.youtube.com/results?search_query=SS501+Because+I'm+Stupid)
+
+##### LATINO
+- [Maite Perroni - Tu y Yo](https://www.youtube.com/results?search_query=Maite+Perroni+Tu+y+Yo)
+- [March Anthony - Vivir Mi Vida](https://www.youtube.com/results?search_query=March+Anthony+Vivir+Mi+Vida)
+- [RBD - Este Corazon](https://www.youtube.com/results?search_query=RBD+Este+Corazon)
+- [RBD - Tras De Mi](https://www.youtube.com/results?search_query=RBD+Tras+De+Mi)
 
 
 ## ROCK
