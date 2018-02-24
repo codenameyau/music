@@ -1,10 +1,10 @@
 # music
 
-Total (368)
+Total (369)
 
 - [POP](https://github.com/codenameyau/music#pop) (105)
 - [EDM](https://github.com/codenameyau/music#edm) (74)
-- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (57)
+- [INSTRUMENTAL](https://github.com/codenameyau/music#instrumental) (58)
 - [INTERNATIONAL](https://github.com/codenameyau/music#international) (44)
 - [ROCK](https://github.com/codenameyau/music#rock) (33)
 - [BEATS](https://github.com/codenameyau/music#beats) (32)
@@ -287,6 +287,7 @@ Total (368)
 
 ##### POST-ROCK
 - [Epic Soul Factory - Everdream](https://www.youtube.com/results?search_query=Epic+Soul+Factory+Everdream)
+- [Lights & Motion - As The World Goes Away](https://www.youtube.com/results?search_query=Lights+%26+Motion+As+The+World+Goes+Away)
 - [Lights & Motion - Reanimation](https://www.youtube.com/results?search_query=Lights+%26+Motion+Reanimation)
 - [Lights & Motion - The March](https://www.youtube.com/results?search_query=Lights+%26+Motion+The+March)
 - [Relaxdaily - N°025](https://www.youtube.com/results?search_query=Relaxdaily+N%C2%B0025)
